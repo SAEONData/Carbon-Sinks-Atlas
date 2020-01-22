@@ -1,2 +1,2 @@
-# NCCIS
-National Climate Change Information System
+# Carbon Sinks Atlas Website
+REACT based website. Please ensure to install node modules. Build options are found in the package.json file
