@@ -6,12 +6,10 @@ class CSAComing extends React.Component {
   render() {
 
     return (
-      <>
-          <Card className="mb-5 mt-3">
+          <Card className="mb-5 mt-3 test">
             <CardBody>
               <div
-                style={{ backgroundColor: 'white', border: '1px solid gainsboro', borderRadius: 10, padding: '15px 15px 5px' }}
-              >
+                style={{ backgroundColor: 'white', border: '1px solid gainsboro', borderRadius: 10, padding: '15px 15px 5px' }} >
                 <h5 style={{ margin: 0 }}>
                   <b>Coming Soon</b>
                 </h5>
@@ -24,7 +22,6 @@ class CSAComing extends React.Component {
               </div>
             </CardBody>
           </Card>
-      </>
     )
   }
 }
