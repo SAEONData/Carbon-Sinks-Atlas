@@ -15,7 +15,7 @@ class DataQgis extends React.Component {
         <section className="ea-content-full">
           <div className="container-fluid mt-4">
             <h1>Download Data</h1>
-            <p>Using QGIS x.x xx and the SAEON plugin you can now download, subset, and analyse Carbon Sinks data directly on your computer.</p>
+            <p>The QGIS plugin allows you to search SAEON's Carbon Sinks data repository, and enables you to calculate the different carbon pools for the national carbon sinks assessment.</p>
           </div>
         </section>
         <section className="ea-content-full light-bg">
@@ -72,9 +72,18 @@ class DataQgis extends React.Component {
               </MDBCarousel>
             </div>
             <div className="col-md-8 mpl-3">
-            <h1>Carbon Sinks QGIS Plugin</h1>
+            {/* <h1>Carbon Sinks QGIS Plugin</h1>
             <p>QGIS is a free and open-source cross-platform desktop geographic information system application <a href="https://www.qgis.org/en/site/" target="_blank">https://www.qgis.org/en/site/</a></p>
             <button className="btn btn-primary"><i class="fa fa-cloud-download" aria-hidden="true"></i> Download the latest plugin version</button>
+            <hr className="mt-5 mb-3" /> */}
+            <h1>Getting started</h1>
+            <p>The system will run on any PC loaded with <a href="https://www.qgis.org/en/site/" target="_blank">QGIS 3x</a>. In the plugin menu item of QGIS, click the 'Manage and Install Plugins…' to open the plugins dialog. Navigate to the settings option and make sure 'Show also experimental plugins' is checked, then choose the 'Install from zip' option and select the 'carbon_sinks.zip' file. Click the 'Install Plugin' button to install the plugin.</p>
+            <p>The plugin has two main interfaces:</p>
+            <ul>
+              <li>The Carbon Sinks window (a search and discovery interface which opens when the plugin is clicked); and </li>
+              <li>The Model builder (accessible from the ‘Model’ button in the main Carbon Sinks window).</li>
+            </ul>
+            <button className="btn btn-primary"><i class="fa fa-info-circle" aria-hidden="true"></i> Learn more</button>
             <hr className="mt-5 mb-3" />
             <div className="row pt-4">
               <div className="col-md-6">
