@@ -2,9 +2,12 @@ import React from 'react';
 import { Row, Col, Button, MDBCarousel, MDBCard, MDBCarouselInner, MDBCarouselItem, MDBRow, MDBCol, MDBIcon } from 'mdbreact'
 import logoQGIS from '../../../Images/Other/logo-qgis.gif';
 import logoSaeon from '../../../Images/Other/nrf-saeon-logo.gif';
-import QGIS1 from '../../../Images/QGIS/1.gif';
-import QGIS2 from '../../../Images/QGIS/2.gif';
-import QGIS3 from '../../../Images/QGIS/3.gif';
+import QGIS1 from '../../../Images/QGIS/4.gif';
+import QGIS2 from '../../../Images/QGIS/5.gif';
+import QGIS3 from '../../../Images/QGIS/6.gif';
+import QGISmanual from '../../../Content/QGIS-plugin-user-manual-quick-start.pdf';
+import QGISconfig from '../../../Content/carbon_sinks.zip';
+
 
 class DataQgis extends React.Component {
 
@@ -77,13 +80,15 @@ class DataQgis extends React.Component {
             <button className="btn btn-primary"><i class="fa fa-cloud-download" aria-hidden="true"></i> Download the latest plugin version</button>
             <hr className="mt-5 mb-3" /> */}
             <h1>Getting started</h1>
-            <p>The system will run on any PC loaded with <a href="https://www.qgis.org/en/site/" target="_blank">QGIS 3x</a>. In the plugin menu item of QGIS, click the 'Manage and Install Plugins…' to open the plugins dialog. Navigate to the settings option and make sure 'Show also experimental plugins' is checked, then choose the 'Install from zip' option and select the 'carbon_sinks.zip' file. Click the 'Install Plugin' button to install the plugin.</p>
+            <p>The system will run on any PC loaded with <a href="https://www.qgis.org/en/site/" target="_blank">QGIS 3.8 and below</a>. In the plugin menu item of QGIS, click the 'Manage and Install Plugins…' to open the plugins dialog. Navigate to the settings option and make sure 'Show also experimental plugins' is checked, then choose the 'Install from zip' option and select the 'carbon_sinks.zip' file. Click the 'Install Plugin' button to install the plugin.</p>
             <p>The plugin has two main interfaces:</p>
             <ul>
               <li>The Carbon Sinks window (a search and discovery interface which opens when the plugin is clicked); and </li>
               <li>The Model builder (accessible from the ‘Model’ button in the main Carbon Sinks window).</li>
             </ul>
-            <button className="btn btn-primary"><i class="fa fa-info-circle" aria-hidden="true"></i> Learn more</button>
+            <button className="btn btn-secondary" onClick={(event) => {event.preventDefault(); window.open("https://github.com/SAEON-uLwazi/Carbon-Sinks");}}><i class="fa fa-info-circle" aria-hidden="true"></i> Download the plugin</button>
+            <a className="btn btn-ea-green btn-rounded" href={QGISconfig} target="_blank">Download the config file</a>
+            <a className="btn btn-ea-green btn-rounded" href={QGISmanual} target="_blank">Learn more</a>
             <hr className="mt-5 mb-3" />
             <div className="row pt-4">
               <div className="col-md-6">
@@ -101,7 +106,7 @@ class DataQgis extends React.Component {
                   <li>Download the <a href="#" target="_blank">plugin file</a>.</li>
                   <li>Open your <a href="https://www.qgis.org/en/site/" target="_blank">QGIS installation</a></li>
                   <li>Navigate to plugins</li>
-                  <li>Upload the <a href="#" target="_blank">plugin file</a></li>
+                  <li>Upload the <a href="https://github.com/SAEON-uLwazi/Carbon-Sinks" target="_blank">plugin file</a></li>
                 </ul>
               </div>
             </div>

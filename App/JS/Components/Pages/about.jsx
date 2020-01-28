@@ -25,7 +25,7 @@ class AboutCSA extends React.Component {
             <img src={logoGis} />
             <h5 className="mt-5">Project leads: </h5>
             <img className="mt-3" src={logoCsir} />
-            <h5 className="mt-5">Development: </h5>
+            <h5 className="mt-5">Development, Model Specification, and Data Collection and Analysis: </h5>
             <img className="mt-3" src={logoSaeon} />
             </div>
             <div className="col-md-10 mpl-3">
@@ -38,11 +38,11 @@ class AboutCSA extends React.Component {
                 <h5>2019 National Terrestrial Carbon Sinks Assessment for South Africa</h5>
                 <p>Since the development of the NTCSA 2014 there has been a number of changes and developments. Most importantly the land cover of the country has changed, and as such, there is an associated change in carbon stocks. There has also been a great deal of development around some of the uncertainties associated with the 2014 NTCSA. For instance, the CSIR has created updated maps of above-ground woody biomass for the savanna biomes that are far more detailed and accurate than the maps used in the 2014 NTCSA. There has also been ongoing research in many of the components relating to the initial assumptions on which the NTCSA was based.</p>
                 <h5 className="mt-4">Open Source Developments</h5>
-                <p>The web-based Carbon Sinks Atlas and associated Plugins have been developed by and is hosted by The South African Environmental Observation Network (SAEON). To facilitate collaboration, all the development code and algorithms are open source projects. <a href="https://github.com/SAEONData" target="_blank">Please click here to access our Github Carbon Sinks Code Repository</a>. </p>
+                <p>The web-based Carbon Sinks Atlas and associated Plugins have been developed by and is hosted by The South African Environmental Observation Network (SAEON). To facilitate collaboration, all the development code and algorithms are open source projects. <a href="https://github.com/SAEON-uLwazi/Carbon-Sinks" target="_blank">Please click here to access our Github Carbon Sinks Code Repository</a>. </p>
               </div>
               <div className="col-md-6">
                 <h5>Achievements </h5>
-                <p>Through funding providing by GIZ, the CSIR in collaboration with SAEON and the Department of Environmental Affairs have been working to update the NTCSA and the web-based Carbon Atlas. Improvements to the previous version include:</p>
+                <p>Through funding provided by GIZ, the CSIR in collaboration with SAEON and the Department of Environmental Affairs have been working to update the NTCSA and the web-based Carbon Atlas. Improvements to the previous version include:</p>
                 <ul>
                   <li>Updated functionality and usability of the Carbon Sinks Atlas user interface for faster and more advanced data queries allowing you to search, subset, and download the data directly in your QGIS desktop application using our new plugin.</li>
                   <li>Updated search and discovery of data.</li>

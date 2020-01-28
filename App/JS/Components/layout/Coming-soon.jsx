@@ -1,11 +1,13 @@
 import React from 'react';
 import { Card, CardBody } from 'mdbreact';
 
+
 class CSAComing extends React.Component {
 
   render() {
 
     return (
+      <div className="container-fluid">
           <Card className="mb-5 mt-3 test">
             <CardBody>
               <div
@@ -22,6 +24,7 @@ class CSAComing extends React.Component {
               </div>
             </CardBody>
           </Card>
+          </div>
     )
   }
 }

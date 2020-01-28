@@ -39,7 +39,7 @@ class DOCprivacy extends React.Component {
               {/* <IconList></IconList> */}
             </div>
           </div>
-          <h5>Disclaimer</h5>
+          <h5>Privacy Policy</h5>
           <Row>
           <Col md="auto"><Button type="button" className="btn btn-success btn-lg" onClick={() => { location.hash = "/doc-disclaimer" }}>
             <em className="fa fa-chevron-right mr-1"></em> Disclaimer</Button></Col>

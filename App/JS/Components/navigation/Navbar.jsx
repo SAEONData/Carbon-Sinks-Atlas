@@ -8,6 +8,7 @@ import { ssoBaseURL, ccrdSiteBaseURL, ndaoSiteBaseURL } from '../../../js/config
 import NCCRD from '../pages/Tools/NCCRD.jsx';
 import { data as NavData } from '../../../data/sideNavData';
 import IconList from '../Iconlist/index.jsx'
+import QGISmanual from '../../../Content/QGIS-plugin-user-manual-quick-start.pdf';
 import EASearch from '../search/search.jsx';
 
 
@@ -131,6 +132,9 @@ class Navbar extends React.Component {
                   </DropdownToggle>
                   <DropdownMenu>
                     <DropdownItem onClick={() => { location.hash = "model-reports" }}>
+                      Model
+                    </DropdownItem>
+                    <DropdownItem onClick={() => { location.hash = "coming-soon" }}>
                       Technical reports
                     </DropdownItem>
                   </DropdownMenu>
@@ -146,7 +150,7 @@ class Navbar extends React.Component {
 
               {/* Menu item */}
               {/* <NavItem>
-                <a className="nav-link Ripple-parent" target="_blank" href="https://www.environment.gov.za/documents/research">
+                <a className="nav-link Ripple-parent" target="_blank" href="https://saeon.atlassian.net/servicedesk/customer/portal/7">
                 <b>Documents</b>
                 </a>
               </NavItem> */}
@@ -165,16 +169,18 @@ class Navbar extends React.Component {
                     <b>Help</b>
                   </DropdownToggle>
                   <DropdownMenu>
-                    <DropdownItem onClick={() => { location.hash = "data-qgis" }}>
+                    
+                    <button className="dropdown-item"  onClick={(event) => {event.preventDefault(); window.open(QGISmanual);}}>
                       QGIS plugin manuals
-                    </DropdownItem>
+                      </button>
+                    
                     <DropdownItem onClick={() => { location.hash = "help-glossary" }}>
                       Glossary
                     </DropdownItem>
                     <DropdownItem onClick={() => { location.hash = "help-acronyms" }}>
                       Acronyms
                     </DropdownItem>
-                    <DropdownItem onClick={() => { location.hash = "model-reports" }}>
+                    <DropdownItem onClick={(event) => {event.preventDefault(); window.open("https://saeon.atlassian.net/servicedesk/customer/portal/7");}}>
                       Log an issue
                     </DropdownItem>
                   </DropdownMenu>

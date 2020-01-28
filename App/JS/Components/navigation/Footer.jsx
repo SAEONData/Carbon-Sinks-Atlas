@@ -123,7 +123,7 @@ class Footer extends React.Component {
           <div className="row">
     <div className="col-md-3">
         <h4><b>Technology</b></h4>
-        <div >DEA NCCIS uses open source, government funded facilities provided by SAEON. The DSI and NRF funds the SAEON Open Data Platform (ODP) and associated portals. Developed by SAEON on behalf of DST, DEA, DRDLR, and other stakeholders.</div>
+        <div >DEA NCCIS uses open source, government funded facilities provided by SAEON. The DSI and NRF funds the SAEON Open Data Platform (ODP) and associated portals. Developed by SAEON on behalf of DSI, DEA, DRDLR, and other stakeholders.</div>
     </div>
     <div className="col-md-3">
         <h4><b>Legal</b></h4>

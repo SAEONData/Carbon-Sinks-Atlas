@@ -8,14 +8,14 @@ class IconList extends React.Component {
       return (
           <>
         <ul className="ea-links">
-        <li>
+        {/* <li>
         <a onClick={() => { location.hash = "/info-events" }} title="Events and news" className="tooltip-ea tooltip-ea-r">
         <i className="fa fa-newspaper-o"></i>
         </a>
-        </li>
+        </li> */}
         <li>
-        <a onClick={(event) => {event.preventDefault(); window.open("http://elearning.ccis.saeon.ac.za");}} title="Help and guidance" className="tooltip-ea tooltip-ea-r">
-        <i className="fa fa-question-circle"></i>
+        <a onClick={() => { location.hash = "/contact" }} title="Contact us" className="tooltip-ea tooltip-ea-r">
+        <i className="fa fa-envelope"></i>
         </a>
         </li>
         {/* <li>

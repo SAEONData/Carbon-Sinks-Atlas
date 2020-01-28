@@ -44,7 +44,7 @@ class Home extends React.Component {
               <div className="col-xl-10 col-md-11 col-10">
                 <h5 className="font-weight-bold mb-3">Download the data using QGIS</h5>
                 <p className="grey-text">The ready to use QGIS Plugin searches the Carbon Sinks Data Collection and fetches the data from relevant SAEON databases and loads the data into your QGIS map view. The Plugin provides services for querying, sub-setting, and downloading data.</p>
-                <button type="button" className="btn btn-ea-green btn-rounded" onClick={() => { location.hash = "explore-data" }}>Get the plugin</button>
+                <button type="button" className="btn btn-ea-green btn-rounded" onClick={() => { location.hash = "/data-qgis" }}>Get the plugin</button>
               </div>
           </div>
           {/* CTA END */}

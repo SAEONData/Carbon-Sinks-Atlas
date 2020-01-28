@@ -24,7 +24,13 @@ class ModelCSA extends React.Component {
             <div className="row">
               <div className="col-md-4">
                 <h5>Data model</h5>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus a libero viverra, cursus mi vel, facilisis massa. Ut mattis, lacus sed tempus accumsan, sapien dolor viverra nulla, sed aliquet massa elit aliquet erat.</p>
+                <table className="table table-bordered table-hover table-striped dataTable">
+                  <tr><th colspan="3">Common conversion factors</th></tr>
+                  <tr><td>1 gC/m2  = 0.01  tC/ha</td><td>:</td><td>1 tC/ha = 100 gC/m2</td></tr>
+                  <tr><td>1 kg/m2 = 10 t/ha</td><td>:</td><td>1 t/ha = 0.1 kg/m2</td></tr>
+                  <tr><td>1km2 = 100 ha</td><td>:</td><td>1 ha = 0.01 km2</td></tr>
+                  <tr><td>1 tonne = 0.000001 Tg</td><td>:</td><td>1 Tg = 1 000 000 t</td></tr>
+                </table>
                 <div className="row">
                   <div className="col-md-4"><img src={photog1} /></div>
                   <div className="col-md-4"><img src={photog2} /></div>

@@ -18,6 +18,8 @@ import LoadingPanel from './components/input/LoadingPanel.jsx';
 import Header from './components/navigation/Header.jsx';
 import SideNav from './components/navigation/SideNav.jsx';
 import AboutCSA from './Components/Pages/about.jsx';
+import Contact from './Components/Pages/contact.jsx';
+import ComingSoon from './Components/Layout/Coming-soon.jsx';
 import ModelCSA from './Components/Pages/model-reports.jsx';
 import DataQgis from './Components/Pages/data-qgis.jsx';
 import ExploreData from './Components/Pages/explore-data.jsx';
@@ -161,6 +163,8 @@ class App extends React.Component {
                   <Route path="/doc-disclaimer" component={DOCdisclaimer} />
                   <Route path="/doc-conditions" component={DOCconditions} />
                   <Route path="/doc-privacy" component={DOCprivacy} />
+                  <Route path="/contact" component={Contact} />
+                  <Route path="/coming-soon" component={ComingSoon} />
                   <Redirect to="/" />
                 </Switch>
               </div>
