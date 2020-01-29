@@ -95,9 +95,8 @@ class DataQgis extends React.Component {
                 <h5>Features</h5>
                 <ul>
                   <li>Download raw data</li>
-                  <li>Draw layer selectors</li>
-                  <li>Run expressions</li>
-                  <li>Section specific data</li>
+                  <li>Draw custom layers</li>
+                  <li>Run multiple expressions</li>
                 </ul>
               </div>
               <div className="col-md-6">

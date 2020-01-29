@@ -34,8 +34,6 @@ button:hover{
     height: 100px;
     width: 100px;
     margin-bottom: 15px;
-
-
 }
 .credit-bg{
     border-radius: 10px;
@@ -63,6 +61,9 @@ button:hover{
 }
 .light-bg{
     background-color:#fff;
+}
+.light-border{
+    border: 1px solid #dee2e6;
 }
 .page-full-light{
     margin-top: -22px;
@@ -130,6 +131,9 @@ h5,.ea-content-full h1{
 }
 h6{
     font-weight:bolder;
+}
+.text-small{
+    font-size:14px;
 }
 img{
     max-width:100%;
@@ -267,6 +271,25 @@ table.dataTable thead .sorting:before, table.dataTable thead .sorting_asc:before
     .ea-card{
         height: 100%;
     }
+    .greenbg-4-8,.greybg-4-8{
+        position:relative;
+    }
+    .greenbg-4-8 .col-md-4{
+        color:#fff;
+    }
+    .greenbg-4-8:before,.greybg-4-8:before{
+        display:block;
+        content:" ";
+        position: absolute;
+        right: 66.666667%;
+        background:rgb(46, 125, 50);
+        left: -35px;
+        top: -3rem;
+        bottom: 0;
+    }
+    .greybg-4-8:before{
+        background:#f5f5f5;
+    }  
     
 }
 /* Body END*/
