@@ -73,9 +73,16 @@ $(document).ready(function() {
     
 
 });
+
 $(window).on('hashchange', function(){
-    explorer();
-    console.log('window changed');
+
+    setTimeout(function(){
+        explorer();
+        console.log('window changed 4');
+      }, 2000);
+
+    
+
 });
 
 /* Modal */
