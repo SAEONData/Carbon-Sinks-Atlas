@@ -20,7 +20,11 @@ import SideNav from './components/navigation/SideNav.jsx';
 import AboutCSA from './Components/Pages/about.jsx';
 import Contact from './Components/Pages/contact.jsx';
 import ComingSoon from './Components/Layout/Coming-soon.jsx';
+
 import ModelCSA from './Components/Pages/model-reports.jsx';
+import ModelWorks from './Components/Pages/model-works.jsx';
+import ModelCalc from './Components/Pages/model-calc.jsx';
+
 import DataQgis from './Components/Pages/data-qgis.jsx';
 import ExploreData from './Components/Pages/explore-data.jsx';
 import HelpAcronyms from './Components/Pages/help-acronyms.jsx';
@@ -101,13 +105,28 @@ class App extends React.Component {
     return ignore
   }
 
-  
+//   explorer(){
+//     /* Explorer page */
+// if ($(".ea-content-full").hasClass("explore-data")) {
+//     setTimeout(function(){
+//         console.log('explorer meh start');
+//         $('#ea-header').addClass('explorer-scrollnav');
+//         $('#app').addClass('full-explorer');
+//         console.log('explorer meh end');
+//       }, 4000);
+//   }else{
+//     $('#ea-header').removeClass('explorer-scrollnav');
+//     $('#app').removeClass('full-explorer');
+//   };
+// };
   saveCurrentURL() {
 
 
 
     if (location.hash !== this.state.currentURL && !this.ignoreURL()) {
       console.log("NAV", location.hash);
+      // this.explorer();
+      // console.log("Test DONE");
       ReactGA.initialize('UA-145174772-1');
       ReactGA.pageview(location.hash);
       // console.log('test', window.location.pathname + window.location.search)
@@ -131,6 +150,7 @@ class App extends React.Component {
   }
 
   render() {
+    
 
     let { loading, showSideNav } = this.props
     let { navbar } = this.state
@@ -155,6 +175,8 @@ class App extends React.Component {
                   <Route path="/" component={Home} exact />
                   <Route path="/about" component={AboutCSA} />
                   <Route path="/model-reports" component={ModelCSA} />
+                  <Route path="/model-works" component={ModelWorks} />
+                  <Route path="/model-calc" component={ModelCalc} />
                   <Route path="/data-qgis" component={DataQgis} />
                   <Route path="/explore-data" component={ExploreData} />
                   <Route path="/help-acronyms" component={HelpAcronyms} />
@@ -178,7 +200,8 @@ class App extends React.Component {
 
         </Router>
       </div>
-    )
+    );
+    
   }
 }
 

@@ -98,12 +98,13 @@ class SideNav extends React.Component {
     <li>
 
         <div className="ea-parent">
+        
             <span>Climate Information Centre</span>
             <ul className="ea-child">
-                <li><a onClick={()=> { location.hash = "ComingSoon", this.props.toggleSideNav(false) }}>GHG Emissions Database</a></li>
-                <li><a onClick={()=> { location.hash = "ComingSoon", this.props.toggleSideNav(false) }}>Trends</a></li>
-                <li><a onClick={()=> { location.hash = "ComingSoon", this.props.toggleSideNav(false) }}>Projections</a></li>
-                <li><a onClick={()=> { location.hash = "ComingSoon", this.props.toggleSideNav(false) }}>Impacts</a></li>
+                <li><a href="https://ccis.environment.gov.za/#/cic-ghg" target="_blank" onClick={()=> { this.props.toggleSideNav(false) }} >GHG Emissions Database</a></li>
+                <li><a  href="https://ccis.environment.gov.za/#/cic-trends" target="_blank" onClick={()=> { this.props.toggleSideNav(false) }}>Trends</a></li>
+                <li><a  href="https://ccis.environment.gov.za/#/cic-projections" target="_blank" onClick={()=> { this.props.toggleSideNav(false) }}>Projections</a></li>
+                <li><a  href="https://ccis.environment.gov.za/#/cic-vulnerability" target="_blank" onClick={()=> { this.props.toggleSideNav(false) }}>Impacts</a></li>
             </ul>
         </div>
     </li>
@@ -111,20 +112,20 @@ class SideNav extends React.Component {
         <div className="ea-parent">
             <span>Climate Resources</span>
             <ul className="ea-child">
-                <li><a onClick={()=> { location.hash = "ComingSoon", this.props.toggleSideNav(false) }}>Technology Needs Assessment</a></li>
-                <li><a onClick={()=> { location.hash = "ComingSoon", this.props.toggleSideNav(false) }}>Climate Finance</a></li>
-                <li><a onClick={()=> { location.hash = "ComingSoon", this.props.toggleSideNav(false) }}>Technical Assistance</a></li>
+                <li><a  href="https://ccis.environment.gov.za/#/ComingSoon" target="_blank" onClick={()=> { this.props.toggleSideNav(false) }}>Technology Needs Assessment</a></li>
+                <li><a  href="https://ccis.environment.gov.za/#/ComingSoon" target="_blank" onClick={()=> { this.props.toggleSideNav(false) }}>Climate Finance</a></li>
+                <li><a  href="https://ccis.environment.gov.za/#/ComingSoon" target="_blank" onClick={()=> { this.props.toggleSideNav(false) }}>Technical Assistance</a></li>
             </ul>
         </div>
     </li>
     <li>
-    <a onClick={()=> { location.hash = "ComingSoon", this.props.toggleSideNav(false) }}>Governement Response</a>
+    <a  href="https://ccis.environment.gov.za/nccrd/#/" target="_blank" onClick={()=> { this.props.toggleSideNav(false) }}>Governement Response</a>
     </li>
     <li>
         <div className="ea-parent">
             <span>Submit a climate change response project</span>
             <ul className="ea-child">
-                <li><a onClick={()=> { location.hash = "ComingSoon", this.props.toggleSideNav(false) }}>NCCRD (Portal link)</a></li>
+                <li><a href="https://ccis.environment.gov.za/nccrd/#/" target="_blank" onClick={()=> { this.props.toggleSideNav(false) }}>NCCRD (Portal link)</a></li>
             </ul>
         </div>
     </li>
@@ -132,9 +133,9 @@ class SideNav extends React.Component {
         <div className="ea-parent">
             <span>Design a climate change plan</span>
             <ul className="ea-child">
-                <li><a onClick={()=> { location.hash = "ComingSoon", this.props.toggleSideNav(false) }}>Risk and Vulnerability Assessment</a></li>
-                <li><a onClick={()=> { location.hash = "ComingSoon", this.props.toggleSideNav(false) }}>Stakeholder Engagement</a></li>
-                <li><a onClick={()=> { location.hash = "ComingSoon", this.props.toggleSideNav(false) }}>Planning Integration</a></li>
+                <li><a  href="https://ccis.environment.gov.za/nccrd/#/" target="_blank" onClick={()=> { this.props.toggleSideNav(false) }}>Risk and Vulnerability Assessment</a></li>
+                <li><a  href="https://ccis.environment.gov.za/nccrd/#/" target="_blank" onClick={()=> { this.props.toggleSideNav(false) }}>Stakeholder Engagement</a></li>
+                <li><a  href="https://ccis.environment.gov.za/nccrd/#/" target="_blank" onClick={()=> { this.props.toggleSideNav(false) }}>Planning Integration</a></li>
             </ul>
         </div>
     </li>
@@ -142,17 +143,17 @@ class SideNav extends React.Component {
         <div className="ea-parent">
             <span>Evaluate a climate change plan</span>
             <ul className="ea-child">
-                <li><a onClick={()=> { location.hash = "ComingSoon", this.props.toggleSideNav(false) }}>Adaptation | DAO</a></li>
-                <li><a onClick={()=> { location.hash = "ComingSoon", this.props.toggleSideNav(false) }}>Mitigation</a></li>
-                <li><a onClick={()=> { location.hash = "ComingSoon", this.props.toggleSideNav(false) }}>Indicators</a></li>
-                <li><a onClick={()=> { location.hash = "ComingSoon", this.props.toggleSideNav(false) }}>SDGs</a></li>
-                <li><a onClick={()=> { location.hash = "ComingSoon", this.props.toggleSideNav(false) }}>T&E System</a></li>
-                <li><a onClick={()=> { location.hash = "ComingSoon", this.props.toggleSideNav(false) }}>Other Indicators and Policy</a></li>
+                <li><a  href="https://ccis.environment.gov.za/ndao/#/" target="_blank" onClick={()=> { this.props.toggleSideNav(false) }}>Adaptation | DAO</a></li>
+                <li><a  href="https://ccis.environment.gov.za/ndao/#/ame" target="_blank" onClick={()=> { this.props.toggleSideNav(false) }}>Mitigation</a></li>
+                <li><a  href="https://ccis.environment.gov.za/ndao/#/" target="_blank" onClick={()=> { this.props.toggleSideNav(false) }}>Indicators</a></li>
+                <li><a  href="https://ccis.environment.gov.za/ndao/#/" target="_blank" onClick={()=> { this.props.toggleSideNav(false) }}>SDGs</a></li>
+                <li><a  href="https://ccis.environment.gov.za/#/cic-ghg" target="_blank" onClick={()=> { this.props.toggleSideNav(false) }}>T&E System</a></li>
+                <li><a  href="https://ccis.environment.gov.za/#/cic-extreme" target="_blank" onClick={()=> { this.props.toggleSideNav(false) }}>Other Indicators and Policy</a></li>
             </ul>
         </div>
     </li>
     <li>
-    <a onClick={()=> { location.hash = "ComingSoon", this.props.toggleSideNav(false) }}>Review Report</a>
+    <a  href="https://ccis.environment.gov.za/ndao/#/" target="_blank" onClick={()=> { this.props.toggleSideNav(false) }}>Review Report</a>
     </li>
 </ul>
 <hr className="mt-4" />

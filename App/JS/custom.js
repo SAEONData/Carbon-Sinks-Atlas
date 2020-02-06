@@ -3,11 +3,27 @@
     $(window).scroll(function(){
         if($(this).scrollTop() > 150) {
             $('#ea-header').addClass('scrollnav');
+            // $('#app').addClass('scrollnavbody');
         }
         else{
             $('#ea-header').removeClass('scrollnav');
+            // $('#app').removeClass('scrollnavbody');
         }
     });
+     function explorer(){
+        /* Explorer page */
+    if ($(".ea-content-full").hasClass("explore-data")) {
+        setTimeout(function(){
+            console.log('explorer meh start');
+            $('#ea-header').addClass('explorer-scrollnav');
+            $('#app').addClass('full-explorer');
+            console.log('explorer meh end');
+          }, 4000);
+      }else{
+        $('#ea-header').removeClass('explorer-scrollnav');
+        $('#app').removeClass('full-explorer');
+      };
+    };
 
 /* Sidenav Dropdowns */
 
@@ -50,9 +66,25 @@ $('body').on('click', '.ea-tabs .nav-tabs a', function(){
 $(document).ready(function() {
     $("#homemap").attr("src","https://map-ccis.saeon.ac.za/");
     $("body").on("click", ".supportToggle", function(){
-        console.log('taryn')
         $("#supportform").toggleClass('show');
         $("#supportform").fadeToggle(300);
-    })
+    });
+    explorer();
+    
 
 });
+$(window).on('hashchange', function(){
+    explorer();
+    console.log('window changed');
+});
+
+/* Modal */
+$('body').on('click', '.modalshow', function(){
+    $('.modalqgis').show();
+    $('.modalqgis').addClass('fade modal show');
+});
+$('body').on('click', '.modalhide', function(){
+    $('.modalqgis').hide();
+    $('.modalqgis').removeClass('fade modal show');
+});
+// $('#myModal').modal('show')

@@ -12,7 +12,7 @@ class ExploreData extends React.Component {
             <h1>Explore Data</h1>
           </div>
         </section> */}
-        <section className="ea-content-full light-bg" style={{ padding: "0"}}>
+        <section className="ea-content-full light-bg explore-data" style={{ padding: "0"}}>
           <div className="pt-0 pb-0">
             <iframe src="https://gisportal.saeon.ac.za/portal/apps/webappviewer/index.html?id=732dfe12e242456bbe79cfb132b7757e" frame="none" border="none" style={{ width: "100%" , height: "800px" , border:"none"}} />
           </div>

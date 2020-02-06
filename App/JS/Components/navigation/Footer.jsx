@@ -111,7 +111,7 @@ class Footer extends React.Component {
 
     return (
       <>
-        <div style={{
+        <div className="CSA-footer" style={{
           padding: "5px 45px 5px 45px",
           borderTop: "1px solid gainsboro",
           borderLeft: "1px solid gainsboro",
@@ -155,7 +155,7 @@ class Footer extends React.Component {
           <br />
         </div>
 
-        <div style={{
+        <div className="CSA-footer" style={{
           padding: "10px 45px 10px 45px",
           backgroundColor: DEAGreen,
           color: "white"
