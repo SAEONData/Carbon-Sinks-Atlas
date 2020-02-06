@@ -127,7 +127,7 @@ class App extends React.Component {
       console.log("NAV", location.hash);
       // this.explorer();
       // console.log("Test DONE");
-      ReactGA.initialize('UA-145174772-1');
+      ReactGA.initialize('UA-157886362-1');
       ReactGA.pageview(location.hash);
       // console.log('test', window.location.pathname + window.location.search)
 
