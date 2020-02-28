@@ -53,7 +53,7 @@ class Contact extends React.Component {
             <div className="col-md-4">
               <div className="ea-card">
               <div className="text-center"><img src={environmental_affairs_logo} /></div>
-              <h4><strong>DEA Contact:</strong></h4>
+              <h4><strong>DEFF Contact:</strong></h4>
               <p><strong>Hlengiwe Mbatha</strong><br/>Queries about the project</p>
               <a href="mailto:HMbatha@environment.gov.za">HMbatha@environment.gov.za</a>
               </div>

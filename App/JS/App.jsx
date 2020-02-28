@@ -25,8 +25,11 @@ import ModelCSA from './Components/Pages/model-reports.jsx';
 import ModelWorks from './Components/Pages/model-works.jsx';
 import ModelCalc from './Components/Pages/model-calc.jsx';
 
+import TechReports from './Components/Pages/reports.jsx';
+
 import DataQgis from './Components/Pages/data-qgis.jsx';
 import ExploreData from './Components/Pages/explore-data.jsx';
+import MunProfiles from './Components/Pages/municipality-profiles.jsx';
 import HelpAcronyms from './Components/Pages/help-acronyms.jsx';
 import HelpGlossary from './Components/Pages/help-glossary.jsx';
 import HelpQgis from './Components/Pages/help-qgis.jsx';
@@ -177,8 +180,10 @@ class App extends React.Component {
                   <Route path="/model-reports" component={ModelCSA} />
                   <Route path="/model-works" component={ModelWorks} />
                   <Route path="/model-calc" component={ModelCalc} />
+                  <Route path="/reports" component={TechReports} />
                   <Route path="/data-qgis" component={DataQgis} />
                   <Route path="/explore-data" component={ExploreData} />
+                  <Route path="/municipality-profiles" component={MunProfiles} />
                   <Route path="/help-acronyms" component={HelpAcronyms} />
                   <Route path="/help-glossary" component={HelpGlossary} />
                   <Route path="/help-qgis" component={HelpQgis} />

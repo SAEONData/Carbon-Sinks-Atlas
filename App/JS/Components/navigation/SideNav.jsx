@@ -95,66 +95,12 @@ class SideNav extends React.Component {
 />
 <hr className="mt-4 mb-4" />
 <ul className="ea-side-nav pl-3 pr-3">
-    <li>
-
-        <div className="ea-parent">
-        
-            <span>Climate Information Centre</span>
-            <ul className="ea-child">
-                <li><a href="https://ccis.environment.gov.za/#/cic-ghg" target="_blank" onClick={()=> { this.props.toggleSideNav(false) }} >GHG Emissions Database</a></li>
-                <li><a  href="https://ccis.environment.gov.za/#/cic-trends" target="_blank" onClick={()=> { this.props.toggleSideNav(false) }}>Trends</a></li>
-                <li><a  href="https://ccis.environment.gov.za/#/cic-projections" target="_blank" onClick={()=> { this.props.toggleSideNav(false) }}>Projections</a></li>
-                <li><a  href="https://ccis.environment.gov.za/#/cic-vulnerability" target="_blank" onClick={()=> { this.props.toggleSideNav(false) }}>Impacts</a></li>
-            </ul>
-        </div>
-    </li>
-    <li>
-        <div className="ea-parent">
-            <span>Climate Resources</span>
-            <ul className="ea-child">
-                <li><a  href="https://ccis.environment.gov.za/#/ComingSoon" target="_blank" onClick={()=> { this.props.toggleSideNav(false) }}>Technology Needs Assessment</a></li>
-                <li><a  href="https://ccis.environment.gov.za/#/ComingSoon" target="_blank" onClick={()=> { this.props.toggleSideNav(false) }}>Climate Finance</a></li>
-                <li><a  href="https://ccis.environment.gov.za/#/ComingSoon" target="_blank" onClick={()=> { this.props.toggleSideNav(false) }}>Technical Assistance</a></li>
-            </ul>
-        </div>
-    </li>
-    <li>
-    <a  href="https://ccis.environment.gov.za/nccrd/#/" target="_blank" onClick={()=> { this.props.toggleSideNav(false) }}>Governement Response</a>
-    </li>
-    <li>
-        <div className="ea-parent">
-            <span>Submit a climate change response project</span>
-            <ul className="ea-child">
-                <li><a href="https://ccis.environment.gov.za/nccrd/#/" target="_blank" onClick={()=> { this.props.toggleSideNav(false) }}>NCCRD (Portal link)</a></li>
-            </ul>
-        </div>
-    </li>
-    <li>
-        <div className="ea-parent">
-            <span>Design a climate change plan</span>
-            <ul className="ea-child">
-                <li><a  href="https://ccis.environment.gov.za/nccrd/#/" target="_blank" onClick={()=> { this.props.toggleSideNav(false) }}>Risk and Vulnerability Assessment</a></li>
-                <li><a  href="https://ccis.environment.gov.za/nccrd/#/" target="_blank" onClick={()=> { this.props.toggleSideNav(false) }}>Stakeholder Engagement</a></li>
-                <li><a  href="https://ccis.environment.gov.za/nccrd/#/" target="_blank" onClick={()=> { this.props.toggleSideNav(false) }}>Planning Integration</a></li>
-            </ul>
-        </div>
-    </li>
-    <li>
-        <div className="ea-parent">
-            <span>Evaluate a climate change plan</span>
-            <ul className="ea-child">
-                <li><a  href="https://ccis.environment.gov.za/ndao/#/" target="_blank" onClick={()=> { this.props.toggleSideNav(false) }}>Adaptation | DAO</a></li>
-                <li><a  href="https://ccis.environment.gov.za/ndao/#/ame" target="_blank" onClick={()=> { this.props.toggleSideNav(false) }}>Mitigation</a></li>
-                <li><a  href="https://ccis.environment.gov.za/ndao/#/" target="_blank" onClick={()=> { this.props.toggleSideNav(false) }}>Indicators</a></li>
-                <li><a  href="https://ccis.environment.gov.za/ndao/#/" target="_blank" onClick={()=> { this.props.toggleSideNav(false) }}>SDGs</a></li>
-                <li><a  href="https://ccis.environment.gov.za/#/cic-ghg" target="_blank" onClick={()=> { this.props.toggleSideNav(false) }}>T&E System</a></li>
-                <li><a  href="https://ccis.environment.gov.za/#/cic-extreme" target="_blank" onClick={()=> { this.props.toggleSideNav(false) }}>Other Indicators and Policy</a></li>
-            </ul>
-        </div>
-    </li>
-    <li>
-    <a  href="https://ccis.environment.gov.za/ndao/#/" target="_blank" onClick={()=> { this.props.toggleSideNav(false) }}>Review Report</a>
-    </li>
+    <li><a href="http://ccis.environment.gov.za/" target="_blank" onClick={()=> { this.props.toggleSideNav(false) }}>Back to NCCIS</a></li>
+    <li><a href="https://ccis.environment.gov.za/nccrd" target="_blank" onClick={()=> { this.props.toggleSideNav(false) }}>Submit Project to NCCRD</a></li>
+    <li><a href="https://ccis.environment.gov.za/#/cic" target="_blank" onClick={()=> { this.props.toggleSideNav(false) }}>Climate Resources</a></li>
+    <li><a href="https://ccis.environment.gov.za/#/" target="_blank" onClick={()=> { this.props.toggleSideNav(false) }}>Climate Data</a></li>
+    <li><a href="#" target="_blank" onClick={() => { location.hash = "/contact" }}>Contact</a></li>
+    
 </ul>
 <hr className="mt-4" />
         </Drawer>

@@ -85,14 +85,12 @@ class DataQgis extends React.Component {
             <button className="btn btn-primary"><i className="fa fa-cloud-download" aria-hidden="true"></i> Download the latest plugin version</button>
             <hr className="mt-5 mb-3" /> */}
             <h1>Getting started</h1>
-            <p>The system will run on any PC loaded with <a href="https://www.qgis.org/en/site/" target="_blank">QGIS 3.8 and below</a>. In the plugin menu item of QGIS, click the 'Manage and Install Plugins…' to open the plugins dialog. Navigate to the settings option and make sure 'Show also experimental plugins' is checked, then choose the 'Install from zip' option and select the 'carbon_sinks.zip' file. Click the 'Install Plugin' button to install the plugin.</p>
+            <p>The system will run on any PC loaded with <a href="https://www.npackd.org/p/qgis/3.8" target="_blank">QGIS 3.8 and below</a>. In the plugin menu item of QGIS, click the 'Manage and Install Plugins…' to open the plugins dialog. Navigate to the settings option and make sure 'Show also experimental plugins' is checked, then choose the 'Install from zip' option and select the 'carbon_sinks.zip' file. Click the 'Install Plugin' button to install the plugin.</p>
             <p>The plugin has two main interfaces:</p>
             <ul>
               <li>The Carbon Sinks window (a search and discovery interface which opens when the plugin is clicked); and </li>
               <li>The Model builder (accessible from the ‘Model’ button in the main Carbon Sinks window).</li>
             </ul>
-            <a className="btn btn-secondary" href={QGISplugin}><i className="fa fa-cloud-download" aria-hidden="true"></i> Download the plugin</a>
-            <a className="btn btn-ea-green btn-rounded" href={QGISconfig} target="_blank">Download the config file</a>
             <button className="btn btn-ea-green btn-rounded modalshow" type="button" >Learn more</button>
 
 
@@ -120,19 +118,23 @@ class DataQgis extends React.Component {
               <div className="col-md-6">
                 <h5>Installation</h5>
                 <ul>
-                  <li>Open your <a href="https://www.qgis.org/en/site/" target="_blank">QGIS installation</a></li>
+                  <li>Open your <a href="https://www.npackd.org/p/qgis/3.8" target="_blank">Version 3.8 QGIS installation</a></li>
                   <li>Navigate to plugins</li>
                   <li>Install the <a href={QGISplugin} target="_blank">plugin file</a></li>
                 </ul>
-                <a className="btn btn-ea-green btn-rounded" href={QGISmanual} target="_blank"><i className="fa fa-cogs"></i> Installation manual</a>
-              </div>
-              <div className="col-md-6">
                 <h5>Features</h5>
                 <ul>
                   <li>Download raw data</li>
                   <li>Draw custom layers</li>
                   <li>Run multiple expressions</li>
                 </ul>
+                
+              </div>
+              <div className="col-md-6">
+                <h5>Download Files:</h5>
+                <a className="btn btn-ea-green btn-rounded w-100" href={QGISmanual} target="_blank"><i className="fa fa-cogs"></i> Installation manual</a><br />
+                <a className="btn btn-secondary w-100" href={QGISplugin}><i className="fa fa-cloud-download" aria-hidden="true"></i> Download the plugin</a><br />
+                <a className="btn btn-ea-green btn-rounded w-100" href={QGISconfig} target="_blank">Download the config file</a>
               </div>
             </div>
             </div>

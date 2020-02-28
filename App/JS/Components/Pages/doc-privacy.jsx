@@ -96,7 +96,7 @@ class DOCprivacy extends React.Component {
               </table>
               <p className="mt-3"><b>Our privacy policy also covers our subsidiaries and their respective Web sites:</b></p>
               <table className="table-plain">
-              <tr><td>Subsidiary Name:</td><td>DST-sponsored data dissemination sites</td></tr>
+              <tr><td>Subsidiary Name:</td><td>DSI-sponsored data dissemination sites</td></tr>
               <tr><td>Address:</td><td>Persequor Park</td></tr>
               <tr><td>City, Zip:</td><td>Pretoria , 0001</td></tr>
               <tr><td>Country:</td><td>South Africa</td></tr>

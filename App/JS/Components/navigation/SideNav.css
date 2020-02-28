@@ -11,3 +11,10 @@
   border: 1px solid black;
   border-radius: 3px;
 }
+.ea-side-nav a{
+  color:#000;
+}
+.ea-side-nav a:hover{
+  color:rgb(46, 125, 50);
+  font-weight:bold;
+}

@@ -25,6 +25,9 @@ button:hover{
     color:rgb(46, 125, 50);
     font-size:40px;
 }
+.icn-large{
+    font-size:40px;
+}
 .bg-ea-green .icn-home{
     background: #fff;
     font-size: 80px;
@@ -296,6 +299,9 @@ table.dataTable thead .sorting:before, table.dataTable thead .sorting_asc:before
     }   
     .dgreybg-4-8:before{
         background:#616161;
+    }
+    .articleE{
+        min-height:100px;
     }
     
 }

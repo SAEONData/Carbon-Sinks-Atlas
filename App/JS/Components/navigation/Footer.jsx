@@ -123,21 +123,21 @@ class Footer extends React.Component {
           <div className="row">
     <div className="col-md-3">
         <h4><b>Technology</b></h4>
-        <div >DEA NCCIS uses open source, government funded facilities provided by SAEON. The DSI and NRF funds the SAEON Open Data Platform (ODP) and associated portals. Developed by SAEON on behalf of DSI, DEA, DRDLR, and other stakeholders.</div>
+        <div >DEFF NCCIS uses open source, government funded facilities provided by SAEON. The DSI and NRF funds the SAEON Open Data Platform (ODP) and associated portals. Developed by SAEON on behalf of DSI, DEFF, DARDLR, and other stakeholders.</div>
     </div>
     <div className="col-md-3">
         <h4><b>Legal</b></h4>
         <div><a onClick={() => { location.hash = "/doc-disclaimer" }}><b>Disclaimer</b></a></div>
         <div><a onClick={() => { location.hash = "/doc-conditions" }}> <b>Conditions of use</b></a></div>
-        <div><a className="text-dark" href="https://docs.google.com/document/d/e/2PACX-1vT8ajcogJEEo0ZC9BGIej_jOH2EV8lMFrwOu8LB4K9pDq7Tki94mUoVxU8hGM-J5EL8V3w5o83_TuEl/pub" target="link"><b>Data Licenses</b></a></div>
-        <div><a onClick={() => { location.hash = "/doc-privacy" }}> <b>Privacy policy</b></a></div>
+        {/* <div><a className="text-dark" href="https://docs.google.com/document/d/e/2PACX-1vT8ajcogJEEo0ZC9BGIej_jOH2EV8lMFrwOu8LB4K9pDq7Tki94mUoVxU8hGM-J5EL8V3w5o83_TuEl/pub" target="link"><b>Data Licenses</b></a></div>
+        <div><a onClick={() => { location.hash = "/doc-privacy" }}> <b>Privacy policy</b></a></div> */}
     </div>
     <div className="col-md-3">
         <h4><b>SAEON ODP</b></h4>
-        <a onClick={(event) => {event.preventDefault(); window.open("http://elearning.ccis.saeon.ac.za");}}><img src={logoSaeon} style={{maxHeight: '82px', marginBottom: '15px', marginLeft: '-30px'}} /></a>
-        <div><a className="text-dark" href="https://docs.google.com/document/d/e/2PACX-1vQ7DWVfot6ZEuX22aciju9MW5PAZJoi6v_lFUFCiwVajRzG91YxjPaCj2NCsUV5WI8hlTdOfBrCxxc1/pub" target="link"><b>Open Data Platform</b></a></div>
-        <div><a className="text-dark" href="http://app01.saeon.ac.za/dev/UI_footside/page_contribute.html" target="link"><b>Contribute</b></a></div>
-        <div><a className="text-dark" href="https://ulwazi.saeon.ac.za/contact/" target="link"><b>Contact Us</b></a></div>
+        <a onClick={(event) => {event.preventDefault(); window.open("https://ulwazi.saeon.ac.za/projects/open-data-platform/");}}><img src={logoSaeon} style={{maxHeight: '82px', marginBottom: '15px', marginLeft: '-30px'}} /></a>
+        <div><a className="text-dark" href="https://ulwazi.saeon.ac.za/projects/open-data-platform/" target="link"><b>Open Data Platform</b></a></div>
+        {/* <div><a className="text-dark" href="http://app01.saeon.ac.za/dev/UI_footside/page_contribute.html" target="link"><b>Contribute</b></a></div> */}
+        {/* <div><a className="text-dark" href="https://ulwazi.saeon.ac.za/contact/" target="link"><b>Contact Us</b></a></div> */}
     </div>
     <div className="col-md-3 footer-funding">
         <h4><b>Funding</b></h4>

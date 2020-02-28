@@ -123,29 +123,30 @@ class Navbar extends React.Component {
                 <b>About</b>
                 </NavLink>
               </NavItem>
-              
-               {/* Menu item */}
-              <NavItem>
-                <Dropdown>
-                  <DropdownToggle nav caret>
-                    <b>Model</b>
-                  </DropdownToggle>
-                  <DropdownMenu>
-                    <DropdownItem onClick={() => { location.hash = "model-reports" }}>
-                      Model
-                    </DropdownItem>
-                    <DropdownItem onClick={() => { location.hash = "coming-soon" }}>
-                      Technical reports
-                    </DropdownItem>
-                  </DropdownMenu>
-                </Dropdown>
-              </NavItem>
 
               {/* Menu item */}
               <NavItem>
-                <NavLink to="/explore-data">
-                <b>Explore data</b>
+                <NavLink to="/model-reports">
+                <b>Model</b>
                 </NavLink>
+              </NavItem>
+              
+
+              {/* Menu item */}
+              <NavItem>
+                <Dropdown>
+                  <DropdownToggle nav caret>
+                    <b>Explore data</b>
+                  </DropdownToggle>
+                  <DropdownMenu>
+                    <DropdownItem onClick={() => { location.hash = "explore-data" }}>
+                      South African Data
+                    </DropdownItem>
+                    <DropdownItem onClick={() => { location.hash = "municipality-profiles" }}>
+                      Municipality Data
+                    </DropdownItem>
+                  </DropdownMenu>
+                </Dropdown>
               </NavItem>
 
               {/* Menu item */}
@@ -157,8 +158,25 @@ class Navbar extends React.Component {
 
                {/* Menu item */}
               <NavItem>
-                <NavLink to="/data-qgis">
-                <b>Download data</b>
+              <Dropdown>
+                  <DropdownToggle nav caret>
+                    <b>Download Data</b>
+                  </DropdownToggle>
+                  <DropdownMenu>
+                    <DropdownItem onClick={(event) => {event.preventDefault(); window.open('http://www.sasdi.net/search.aspx?guid=d4fd3bfc-b26e-6b1e-9318-5266144a65c5&control=hide&noframe=true&tab=Results');}}>
+                      Search and Download Data
+                    </DropdownItem>
+                    <DropdownItem onClick={() => { location.hash = "/data-qgis" }}>
+                      QGIS Plugin
+                    </DropdownItem>
+                  </DropdownMenu>
+                </Dropdown>
+              </NavItem>
+
+              {/* Menu item */}
+              <NavItem>
+                <NavLink to="/reports">
+                <b>Technical reports</b>
                 </NavLink>
               </NavItem>
 

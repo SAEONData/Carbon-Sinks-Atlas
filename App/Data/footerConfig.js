@@ -8,16 +8,14 @@ export const footerContent = {
     {
       text: "Technology",
       links: [
-        { text: "DEA NCCIS uses open source, government funded facilities provided by SAEON. The DSI and NRF funds the SAEON Open Data Platform (ODP) and associated portals. Developed by SAEON on behalf of DSI, DEA, DRDLR, and other stakeholders." },
+        { text: "DEFF NCCIS uses open source, government funded facilities provided by SAEON. The DSI and NRF funds the SAEON Open Data Platform (ODP) and associated portals. Developed by SAEON on behalf of DSI, DEFF, DARDLR, and other stakeholders." },
       ]
     },
     {
       text: "Legal",
       links: [
         { text: "Disclaimer", link: "http://noframe.media.dirisa.org/wiki-1/disclaimer?searchterm=disclaimer" },
-        { text: "Terms and Conditions", link: "http://noframe.media.dirisa.org/wiki-1/conditions-of-use?searchterm=conditions" },
-        { text: "Data Licenses", link: "https://docs.google.com/document/d/e/2PACX-1vT8ajcogJEEo0ZC9BGIej_jOH2EV8lMFrwOu8LB4K9pDq7Tki94mUoVxU8hGM-J5EL8V3w5o83_TuEl/pub" },
-        { text: "Privacy", link: "http://noframe.media.dirisa.org/wiki-1/privacy-statement"}
+        { text: "Terms and Conditions", link: "http://noframe.media.dirisa.org/wiki-1/conditions-of-use?searchterm=conditions" }
       ]
     },
     {
