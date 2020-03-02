@@ -40,6 +40,7 @@ class ModelCSA extends React.Component {
                 <p>Deserts, due to their aridity and small spatial area, have the smallest carbon stock of all biomes, with forests and azonal vegetation, both having only about 1% of terrestrial carbon stocks each.</p>
                 <p>In South Africa there is very limited carbon stock change as a consequence of land cover change, with the large change being observed between 2014 and 2018 being a consequence of changes in land cover measurements rather than actual “on-the-ground” change. In particular the addition of a new fallow land cover class is responsible for most of the observed change. </p>
                 <button className="btn btn-light" onClick={() => { location.hash = "coming-soon" }}><i className="fa fa-info-circle" aria-hidden="true"></i> Read the technical report here</button>
+                <button className="btn btn-light" onClick={() => { location.hash = "municipality-profiles" }}><i className="fa fa-info-circle" aria-hidden="true"></i> View Summaries for District Municipalities</button>
                 <div className="row mt-4 no-gutters">
                   <div className="col-md-2"><img src={photog1} /></div>
                   <div className="col-md-2"><img src={photog2} /></div>

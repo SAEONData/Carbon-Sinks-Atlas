@@ -259,8 +259,8 @@ table.dataTable thead .sorting:before, table.dataTable thead .sorting_asc:before
     }
     .bg-image-bl{
         position: relative;
-        padding-top: 100px;
-        padding-bottom: 100px;
+        padding-top: 80px;
+        padding-bottom: 80px;
     }
     .bg-imge-el{
         position: absolute;

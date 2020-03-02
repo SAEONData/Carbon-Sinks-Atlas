@@ -20,15 +20,15 @@ class AboutCSA extends React.Component {
         <section className="ea-content-full light-bg">
           <div className="container-fluid mt-4 pt-5 pb-5">
           <div className="row">
-            <div className="col-md-2 pb-5 m-border-r">
+            {/* <div className="col-md-2 pb-5 m-border-r">
             <h5>Funders: </h5>
             <img src={logoGis} />
             <h5 className="mt-5">Project leads: </h5>
             <img className="mt-3" src={logoCsir} />
             <h5 className="mt-5">Development, Model Specification, and Data Collection and Analysis: </h5>
             <img className="mt-3" src={logoSaeon} />
-            </div>
-            <div className="col-md-10 mpl-3">
+            </div> */}
+            <div className="col-md-12">{/* <div className="col-md-10 mpl-3"> */}
             <h1>The foundation</h1>
             <p>South Africa's National Climate Change Response Policy (NCCRP) highlighted the need to assess the national carbon sinks related to forest restoration, wetlands, agricultural practice, all significant changes in land use and to quantify the potential future carbon stocks under varying climate change scenarios and land use change.</p>
             <p>In 2014 the CSIR (in partnership with a number of other organisations) produced the National Terrestrial Carbon Sinks Assessment for South Africa. The CSIR in collaboration with SAEON later converted the NTCSA outputs into atlas format to make the data more widely accessible - the South African Carbon Sinks Atlas.</p>
