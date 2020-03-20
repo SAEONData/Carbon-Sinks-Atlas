@@ -4,31 +4,21 @@ import Home1 from '../../../../Images/LandingPage/carbon.jpg';
 import Home2 from '../../../../Images/LandingPage/system-screens.jpg';
 import Home3 from '../../../../Images/LandingPage/world-ways.svg';
 import Home4 from '../../../../Images/LandingPage/home-intro.jpg';
-
-
-import Home5 from '../../../../Images/LandingPage/homebg.gif';
-import Home6 from '../../../../Images/LandingPage/home-diagram.png';
 class Home extends React.Component {
 
   render() {
 
-
     return (
       <>
-        <section className="ea-content-full pt-0 light-bg">
-
-            
+        <section className="ea-content-full pt-0 light-bg pb-4">
+          <div className="bg-image-bl">
+            <img src={Home4} className="bg-imge-el" />
             <div className="row">
-              <div className="col-md-6 bg-hm-img">
-                <img src={Home5} className="hm-bg-img" />
-                <img src={Home6} className="hm-img" />
-              </div>
-              <div className="col-md-6 hm-points">
+              <div className="col-md-6"></div>
+              <div className="col-md-6">
                 {/* CTA START */}
-                
   
               <div className="row mb-5">
-              <div className="hm-points-line"></div>
               <div className="col-1">
                 <i className="fa fa-map-o icn-home"></i>
               </div>
@@ -40,19 +30,15 @@ class Home extends React.Component {
                   <li>Export the online view for use in reports;</li>
                   <li>Download an individual dataset of interest. </li>
                 </ul>
-                <button type="button" className="btn btn-ea-green btn-rounded" onClick={() => { location.hash = "explore-data" }}>
-                  South Africa</button>
-                <button type="button" className="btn btn-ea-green btn-rounded" onClick={() => { location.hash = "/municipality-profiles" }}>
-                  Municipalities</button>
-                <button type="button" className="btn btn-ea-green btn-rounded" onClick={(event) => {event.preventDefault(); window.open("http://www.sasdi.net/search.aspx?guid=d4fd3bfc-b26e-6b1e-9318-5266144a65c5&control=hide&noframe=true&tab=Results");}}>
-                  Search Data</button>
+                <button type="button" className="btn btn-ea-green btn-rounded mr-3" onClick={() => { location.hash = "explore-data" }}>Go to the online atlas</button>
+                <button type="button" className="btn btn-ea-green btn-rounded" onClick={(event) => {event.preventDefault(); window.open("http://www.sasdi.net/search.aspx?guid=d4fd3bfc-b26e-6b1e-9318-5266144a65c5&control=hide&noframe=true&tab=Results");}}>Search Data</button>
               </div>
           </div>
           {/* CTA END */}
 
           {/* CTA START */}
 
-              <div className="row mt-3 ">
+              <div className="row mt-3 mb-5">
               <div className="col-1">
                 <i className="fa fa-cloud-download icn-home"></i>
               </div>
@@ -61,21 +47,21 @@ class Home extends React.Component {
                 <p className="grey-text">The ready to use QGIS Plugin searches the Carbon Sinks Data Collection and fetches the data from relevant SAEON databases and loads the data into your QGIS map view. The Plugin provides services for querying, sub-setting, and downloading data.</p>
                 <button type="button" className="btn btn-ea-green btn-rounded" onClick={() => { location.hash = "/data-qgis" }}>Get the plugin</button>
               </div>
-
+          </div>
           {/* CTA END */}
 
           {/* CTA START */}
 
-          {/* <div className="row mt-3">
+          <div className="row mt-3">
               <div className="col-1">
                 <i className="fa fa-area-chart icn-home"></i>
               </div>
               <div className="col-xl-10 col-md-11 col-10">
                 <h5 className="font-weight-bold mb-3">View District Municiple Profiles</h5>
                 <p className="grey-text">Get an in depth  understanding on what the key messages are from the carbon sinks atlas at the local level. These include charts and summaries of recent land-cover changes, and carbon losses and gains.</p>
-                
+                <button type="button" className="btn btn-ea-green btn-rounded" onClick={() => { location.hash = "/municipality-profiles" }}>View profiles</button>
               </div>
-          </div> */}
+          </div>
           {/* CTA END */}
 
           {/* CTA START */}

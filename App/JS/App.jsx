@@ -20,6 +20,7 @@ import SideNav from './components/navigation/SideNav.jsx';
 import AboutCSA from './Components/Pages/about.jsx';
 import Contact from './Components/Pages/contact.jsx';
 import ComingSoon from './Components/Layout/Coming-soon.jsx';
+import TestPage from './Components/Pages/test-page.jsx';
 
 import ModelCSA from './Components/Pages/model-reports.jsx';
 import ModelWorks from './Components/Pages/model-works.jsx';
@@ -30,6 +31,7 @@ import TechReports from './Components/Pages/reports.jsx';
 import DataQgis from './Components/Pages/data-qgis.jsx';
 import ExploreData from './Components/Pages/explore-data.jsx';
 import MunProfiles from './Components/Pages/municipality-profiles.jsx';
+import MunProfilesLocal from './Components/Pages/municipality-profiles-local.jsx';
 import HelpAcronyms from './Components/Pages/help-acronyms.jsx';
 import HelpGlossary from './Components/Pages/help-glossary.jsx';
 import HelpQgis from './Components/Pages/help-qgis.jsx';
@@ -184,6 +186,7 @@ class App extends React.Component {
                   <Route path="/data-qgis" component={DataQgis} />
                   <Route path="/explore-data" component={ExploreData} />
                   <Route path="/municipality-profiles" component={MunProfiles} />
+                  <Route path="/municipality-profiles-local" component={MunProfilesLocal} />
                   <Route path="/help-acronyms" component={HelpAcronyms} />
                   <Route path="/help-glossary" component={HelpGlossary} />
                   <Route path="/help-qgis" component={HelpQgis} />
@@ -192,6 +195,7 @@ class App extends React.Component {
                   <Route path="/doc-privacy" component={DOCprivacy} />
                   <Route path="/contact" component={Contact} />
                   <Route path="/coming-soon" component={ComingSoon} />
+                  <Route path="/test-page" component={TestPage} />
                   <Redirect to="/" />
                 </Switch>
               </div>

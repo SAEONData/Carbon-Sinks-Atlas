@@ -14,7 +14,7 @@ module.exports = {
   mode,
   devServer: {
     historyApiFallback: true,
-    port: 8091
+    port: 8097
   },
   entry: {
     app: ["babel-polyfill", './js/index.jsx'],
@@ -40,11 +40,6 @@ module.exports = {
     rules: [{
       test: /\.jsx?$/,
       use: ['babel-loader'],
-      exclude: /node_modules/
-    },
-    {
-      test: /\.json$/,
-      use: ['json-loader'],
       exclude: /node_modules/
     },
     {
