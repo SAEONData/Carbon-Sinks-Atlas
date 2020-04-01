@@ -1,13 +1,14 @@
 import React from 'react';
-import { Row, Col, Button, MDBCarousel, MDBCard, MDBCarouselInner, MDBCarouselItem, MDBRow, MDBCol, MDBIcon } from 'mdbreact'
-import Home1 from '../../../../Images/LandingPage/carbon.jpg';
-import Home2 from '../../../../Images/LandingPage/system-screens.jpg';
-import Home3 from '../../../../Images/LandingPage/world-ways.svg';
-import Home4 from '../../../../Images/LandingPage/home-intro.jpg';
+// import { Row, Col, Button, MDBCarousel, MDBCard, MDBCarouselInner, MDBCarouselItem, MDBRow, MDBCol, MDBIcon } from 'mdbreact'
+// import Home1 from '../../../../Images/LandingPage/carbon.jpg';
+// import Home2 from '../../../../Images/LandingPage/system-screens.jpg';
+// import Home3 from '../../../../Images/LandingPage/world-ways.svg';
+// import Home4 from '../../../../Images/LandingPage/home-intro.jpg';
 
 
 import Home5 from '../../../../Images/LandingPage/homebg.gif';
 import Home6 from '../../../../Images/LandingPage/home-diagram.png';
+import Home7 from '../../../../Images/LandingPage/home-diagram-mobile.png';
 class Home extends React.Component {
 
   render() {
@@ -21,7 +22,8 @@ class Home extends React.Component {
             <div className="row">
               <div className="col-md-6 bg-hm-img">
                 <img src={Home5} className="hm-bg-img" />
-                <img src={Home6} className="hm-img" />
+                <img src={Home6} className="hm-img hm-img-large" />
+                <img src={Home7} className="hm-img hm-img-small" />
               </div>
               <div className="col-md-6 hm-points">
                 {/* CTA START */}

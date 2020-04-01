@@ -529,10 +529,64 @@ table.dataTable thead .sorting:before, table.dataTable thead .sorting_asc:before
 .ea-home-maps a:hover{
     background-color:#f9f9f9;
 }
+.hm-img-small{
+    display:none;
+}
 @media (min-width: 768px){
     .ea-home-maps .col{
         width:20%;
     }
+}
+@media screen and (max-width: 1740px) and (min-width: 1640px){
+    .bg-hm-img{
+        -ms-flex: 0 0 58.333333%;
+        flex: 0 0 58.333333%;
+        max-width: 58.333333%;
+    }
+    .hm-points{
+        -ms-flex: 0 0 41.666667%;
+        flex: 0 0 41.666667%;
+        max-width: 41.666667%;
+    }
+}
+@media screen and (max-width: 1640px) and (min-width: 1280px){
+    .bg-hm-img{
+        -ms-flex: 0 0 58.333333%;
+        flex: 0 0 58.333333%;
+        max-width: 58.333333%;
+    }
+    .hm-points{
+        -ms-flex: 0 0 41.666667%;
+        flex: 0 0 41.666667%;
+        max-width: 41.666667%;
+    }
+    .hm-points .btn {
+        padding: 0.84rem 1.14rem;
+    }
+    .hm-points .col-10 {
+        padding-left: 50px;
+        padding-right: 0;
+    }
+    .hm-points .row{
+        margin-bottom: 15px!important;
+    }
+    .hm-img-large{
+        display:none;
+    }
+    .hm-img-small{
+        display:block;
+        bottom: 76px;
+    }
+    .hm-points {
+        font-size: 14px;
+        padding-right: 0;
+        padding-left: 0;
+    }
+    .hm-points-line {
+        left: 0px;
+        z-index: 1;
+    }
+
 }
 /* Home page END */
 /* Side navigation */
@@ -767,4 +821,42 @@ table#tableSmall.dataTable thead tr th.sorting:after{
 #tableSmall tr td:first-child,
 #tableSmall tr th:first-child{
     display:none;
+}
+/* Mobile View */
+@media (max-width: 768px){
+    .h1, h1 {
+        font-size: 1.5rem;
+    }
+    #ea-header h5{
+        font-weight: 300;
+        font-size: 12px;
+        letter-spacing: 0!important;
+    }
+    #ea-body {
+        padding-top: 143px;
+    }
+    .hm-points-line,.hm-points .icn-home {
+        display: none;
+    }
+    .hm-points {
+        padding-top: 30px;
+    }
+    .hm-points .col-10 {
+        padding-left: 0;
+        padding-right: 0;
+    }
+    .hm-points .btn {
+        padding: 10px;
+    }
+    .bg-hm-img {
+        margin: 0;
+        height: 251px;
+    }
+    .hm-bg-img {
+        left: 0;
+        width: 100%;
+    }
+    .hm-img {
+        max-width: 100%;
+    }
 }

@@ -98,7 +98,7 @@ class SideNav extends React.Component {
     <li><a href="http://ccis.environment.gov.za/" target="_blank" onClick={()=> { this.props.toggleSideNav(false) }}>Back to NCCIS</a></li>
     <li><a href="https://ccis.environment.gov.za/nccrd" target="_blank" onClick={()=> { this.props.toggleSideNav(false) }}>Submit Project to NCCRD</a></li>
     <li><a href="https://ccis.environment.gov.za/#/cic" target="_blank" onClick={()=> { this.props.toggleSideNav(false) }}>Climate Resources</a></li>
-    <li><a href="https://ccis.environment.gov.za/#/ComingSoon" target="_blank" onClick={()=> { this.props.toggleSideNav(false) }}>Climate Data</a></li>
+    <li><a href="https://ccis.environment.gov.za/#/climate-services" target="_blank" onClick={()=> { this.props.toggleSideNav(false) }}>Climate Data</a></li>
     <li><a href="https://ccis.environment.gov.za/carbon-sinks/#/contact" target="_blank" onClick={()=> { this.props.toggleSideNav(false) }}>Contact</a></li>
     
 </ul>
