@@ -137,6 +137,16 @@ $('body').on('click', '.modalhide', function(){
     $('.modalqgis').removeClass('fade modal show');
 });
 // $('#myModal').modal('show')
+/* Map */
+
+$('body').on('click', '#extractit', function(){
+    $('#mapsalocal g').each(function(){
+        var maplabel = $(this).attr('label');
+        console.log(maplabel);
+        //this wrapped in jQuery will give us the current .letter-q div
+        $('#extractlist').append(maplabel + '<br />');
+    });
+});
 /* Data Table Filter */
 function tableBuild() {
 

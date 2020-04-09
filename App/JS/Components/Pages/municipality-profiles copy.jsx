@@ -1,7 +1,7 @@
 import React from 'react';
 import { Row, Col, Button } from 'mdbreact';
 import TestData from '../Pages/Data/testdatajs.json';
-import SouthAfricaMunicipalities from '../maps/southafricamunicipalities.jsx';
+import SouthAfricaMap from '../maps/southafrica.jsx';
 
 const socialMediaList = TestData;
 
@@ -26,21 +26,29 @@ class MunProfiles extends React.Component {
         <section className="ea-content-full light-bg">
           <div className="container-fluid mt-4 pt-5 pb-5">
           <div className="row">
-            <div className="col-md-7 text-center">
-            <h5>Select a municipality:</h5>
-            <div className="row">
-              <div className="col-md-7">
-                Select the province below to view details:
-              </div>
-              <div className="col-md-5">
-                <input type="search" placeholder="search" />
-              </div>
+          <div className="col-md-3">
+              {/* {socialMediaList.map(s => (<li>{s}</li>))} */}
+              <h5>Provinces</h5>
+              <h6>Change in Carbon Stocks between 1990 and 2018</h6>
+              <table className="table table-bordered table-hover table-striped dataTable statsTable statsTableArrows">
+                <tr><td>Eastern Cape</td><td>-2902</td></tr>
+                <tr><td>Free State</td><td>387</td></tr>
+                <tr><td>Gauteng</td><td>2602</td></tr>
+                <tr><td>KwaZulu-Natal</td><td>-203</td></tr>
+                <tr><td>Limpopo</td><td>-1919</td></tr>
+                <tr><td>Mpumalanga</td><td>11049</td></tr>
+                <tr><td>North West</td><td>-3352</td></tr>
+                <tr><td>Northern Cape</td><td>-2967</td></tr>
+                <tr><td>Western Cape</td><td>1927</td></tr>
+              </table>
             </div>
-            <h6 className="mb-5"> <em className="fa fa-search"></em></h6>
-              <SouthAfricaMunicipalities />
+            <div className="col-md-5 text-center">
+            <h5>Select province:</h5>
+            <h6 className="mb-5">Select the province below to view details: <em className="fa fa-search"></em></h6>
+              <SouthAfricaMap />
             </div>
             
-            <div className="col-md-5">
+            <div className="col-md-4">
               <div className="stats-prov ZA-WC stats-active">
                 
                 <table className="table table-bordered table-hover table-striped dataTable statsTable statsTableProvince statsActive ZA-EC">

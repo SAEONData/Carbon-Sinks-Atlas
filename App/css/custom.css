@@ -438,9 +438,6 @@ table.dataTable thead .sorting:before, table.dataTable thead .sorting_asc:before
     footer img{
         max-height: 100px;
     }
-    .footer-funding img{
-        max-height: 90px;
-    }
 }
 /* Footer END */
 /* Home page */
@@ -859,4 +856,16 @@ table#tableSmall.dataTable thead tr th.sorting:after{
     .hm-img {
         max-width: 100%;
     }
+}
+/* Map */
+#mapsalocal path,
+#mapsalocal polygon{
+    fill: #f5f5f5;
+    stroke-width: 1;
+    stroke: #dcdcdc;
+}
+#mapsalocal path:hover,
+#mapsalocal polygon:hover{
+    fill: #719062;
+    cursor:pointer;
 }
