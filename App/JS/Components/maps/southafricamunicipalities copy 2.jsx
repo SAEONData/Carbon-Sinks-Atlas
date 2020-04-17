@@ -18,7 +18,7 @@ id="mapsalocal"
 <g id="local__municipality" groupmode="layer" label="local__municipality">
 	<g>
 		<g id="local__municipality_2" label="Letsemeng">
-			<path class="st0" d="M355,365l-1,1v1h-1v1h-1h-1v-1h-1v-1h-1h-1h-1h-1v-1h-1v-1v-1v-1v1h-1h-1h-1v-1h-1v-1v-1h-1h-1v-1h-1h-1h-1
+			<path className="st0" d="M355,365l-1,1v1h-1v1h-1h-1v-1h-1v-1h-1h-1h-1h-1v-1h-1v-1v-1v-1v1h-1h-1h-1v-1h-1v-1v-1h-1h-1v-1h-1h-1h-1
 				v-1h-1v-1h-1v-1v-1h-1v-1v-1v-1v-1h1v-1v-1h1v-1l1-1l1-2l1-1v-1v-1l1-1v-1h1v-1l1-1v-1l1-1v-1l1-1v-1l1-1v-1l1-1l1-1v-1l1-1v-1
 				l1-1l1-2v-1l1-1l1-1l-1,1l1,2h1h1h1h1v1h1l1,1h1v-1v-1h1h1h2l1,2h1v-1h1v1l1-1h1v-1h1h1v-1v1h1v-1v1h1v-1v1h1h1h1h1h1h1v-1h1h1
 				v-1h1v1h1h1h1v1v-1h1h1v1h1h1h1v2v1l-1,1h1l1,1h-1v1v1v1h1v1h-1v1h1l-1,1v1v1h-1h-1h-1h-1h-1l-1-1h-1l-1,2h1v1h-1h-1l-1,1l-1-1v1
@@ -27,7 +27,7 @@ id="mapsalocal"
 				H355"/>
 		</g>
 		<g id="local__municipality_3" label="Kopanong">
-			<path class="st0" d="M408,382v1h1v1h1v1l1,1l-1,2l-1,1v-1h-1h-1h-1v-1v-1h-1h-1h-1v1h1v1h-1v-1h-1h-1h-1v1h-1h-1h-1h-1v1v1h-1v-1
+			<path className="st0" d="M408,382v1h1v1h1v1l1,1l-1,2l-1,1v-1h-1h-1h-1v-1v-1h-1h-1h-1v1h1v1h-1v-1h-1h-1h-1v1h-1h-1h-1h-1v1v1h-1v-1
 				v-1h-1h-1v1v1h1v1h-1h-1v1h-1h-1h-1v1v1h-1h-1v-1h-1v-1h-1h-1v1h-1v-1v-1v-1h-1h-1v1h-1h-1h-1v1h-1v-1h-1v-1h-1v-1h-1h-1h-1h-1
 				h-1v-1h-1v-1h-1v-1h-1v1v-1h-1l-1-1v-1h-1v-1h-1v-1h-1v-1h-1h-1v-1v-1v-1h-1h-1v-1h-1h-1v-1h1v-1h-1v-1h-1v1h-1v-1v-1v-1h-1v-1
 				h-1v-1h-1v-1l-1-1h1h1h1v-1h1v-1l1-1h-1v-1h1v-1h1h1h1v-1h-1v-1v-1h1h-1v-1h1l-1-1v-1v-1v-1v-1v-1v-1h1h1h1v-1h1v-1v-2l1,1h1h1
@@ -37,23 +37,23 @@ id="mapsalocal"
 				v-1h-1v1h-1v1h1h1v1v1h-1l-1,1l1,1l1,1v1v1h1h-1h1l-1,1v1h-1h-1v1h-1v1h-1v1h1h-1v1l1,1v1v1h-1l1,1h-1v1h1l1,1h-1h1h1v1h1V382"/>
 		</g>
 		<g id="local__municipality_4" label="Buffalo_City">
-			<path class="st0" d="M474,487h1H474h-1v1h-1h-1v1h-1h-1v1h-1h-1v1h-1v1h-1h-1v1h-1v1h-1v1v-1h-1v1h-1v1h-1h-1v1h-1v-1v1h-1v-1h-1
+			<path className="st0" d="M474,487h1H474h-1v1h-1h-1v1h-1h-1v1h-1h-1v1h-1v1h-1h-1v1h-1v1h-1v1v-1h-1v1h-1v1h-1h-1v1h-1v-1v1h-1v-1h-1
 				v-1h-1v-1h1v-1h-1h-1v-1h1h-1v-1h1h1h1v-1v-1h-1h1v-1h-1h1v-1h1v-1h1v-1h-1h-1h-1v1h-1v-1h-1v-1v-1h1h1h-1v-1v1v-1h-1h-1v1v-1h-1
 				v1h-1h-1v-1v1v-1h-1v1v-1h-1v-1v-1h-1v-1h-1h-1h1v-1h1h-1h1v-1h1l-1-1h1h1v-1h-1v-1h1v-1h1h1h1h1h1v1v1l-1-1v1h-1v1v1h1h-1v1h1v1
 				h1h1v-1h-1h1h1h1v-1h1v-1h1v-1v-1l1,1h1h-1v1v1h1v1v-1v1v-1v1h1h1v1v-1h1v1v-1h1v1h1v-1h1h1h-1v-1h1h1l1-1h1v1h1v1h1v-1v1v-1h1
 				v-1h1l1-1h1v1h-1v1l1,1v1h1v1h1v1h1h1v1h1h-1v1h-1v1h-1h-1v1v-1v1h-1v1h-1h-1V487"/>
 		</g>
 		<g id="local__municipality_5" label="City_of_Cape_Town">
-			<path class="st0" d="M95,523v-1V523v-1h1v-1h1h1h-1v1v-1v1h1h-1h1h1h-1h1v-1h1v-1v-1h-1v-1v-1h-1v-1v-1v-1v-1h-1h1h-1v-1v1v-1v-1
+			<path className="st0" d="M95,523v-1V523v-1h1v-1h1h1h-1v1v-1v1h1h-1h1h1h-1h1v-1h1v-1v-1h-1v-1v-1h-1v-1v-1v-1v-1h-1h1h-1v-1v1v-1v-1
 				h-1v-1h-1v-1h-1v-1l1-1v-1h1h1h1v-1v-1h1l1,1h1v1v1h1l1-1v1v1l1,1h1v1v1h1h1l1,1v1h1v-1v1h1v-1h1v-1h1h1v1h-1v1v1h1v1h1h-1v1h-1
 				l1,1h-1v1h-1v1h-1v1v1h-1v1l1,1l-1,1h1h-1h1v1v1v1h1h1v1h1v-1h-1h1h1h1h-1h1h1v-1h1v-1h1v1h1l1,1v1v1h-1v1h-1v1h1v1h-1v1h-1v1h-1
 				v1h-1v-1v1v1h-1v-1v-1h-1h1h-1h1h-1h1h-1h1h-1v-1v1v-1v-1h1h1v-1h-1h1h-1v-1h-1v-1h-1h-1v-1h-1h-1h-1h-1h-1h-1h-1v1h-1h-1h-1h-1
 				v1h-1h-1v1v-1v1v1h-1v1h1h1v1v1v1v1v1v1h1v1v-1h-1h1h-1v1v-1h-1h-1v-1h-1h1v-1h-1v-1h-1h1v-1h-1h1h-1v-1v-1v-1h-1h-1v-1h1v-1v1
 				v-1h1v-1h-1h1h-1h1v-1v-1h-1v1v-1v1v-1v1h-1h1h-1v-1v-1v1v-1h1v-1h1v-1V523v1V523"/>
-			<path class="st0" d="M95,518v-1V518h1H95"/>
+			<path className="st0" d="M95,518v-1V518h1H95"/>
 		</g>
 		<g id="local__municipality_7" label="Mbhashe">
-			<path class="st0" d="M508,447v1h1v-1h1h-1v-1h1h-1h1v1v-1h1v-1v1v-1h1h-1h1v-1l1,1v-1h1h1v1v-1h1v1v-1v1h1v1v-1v1h1v1v-1v1h1v1
+			<path className="st0" d="M508,447v1h1v-1h1h-1v-1h1h-1h1v1v-1h1v-1v1v-1h1h-1h1v-1l1,1v-1h1h1v1v-1h1v1v-1v1h1v1v-1v1h1v1v-1v1h1v1
 				v-1h1v1h1v1h-1v1h-1v1v-1v1h-1v1h-1v1h-1v1h-1v1h-1h1h-1v1v-1v1h-1v1h-1v1h-1l-1,1h-1v1h-1v1h-1v1h-1h1h-1v1h-1v1h-1v-1h-1h-1h-1
 				h1v-1h-1h-1h1v-1h-1h-1h1v-1h-1v-1h1h-1h-1v-1v1h-1v-1v1v-1v1h-1h-1h-1h-1v-1v-1h-1v-1h-1h-1h-1v-1h-1h1h-1v-1h1h1v-1h-1h-1v-1
 				v-1v-1h-1v-1h1v-1h-1h-1v-1h-1h-1v1h-1h-1h-1l-1,1v-1h-1h-1h1v-1v1h1v-1l1-1h1h1v-1h1h1v-1h-1h1v1v-1v1l1-1v-1v-1h1v-1v-1v-1v-1
@@ -61,19 +61,19 @@ id="mapsalocal"
 				h1h1v-1h1h-1v-1h1h-1v-1h1h1h-1v1h1v1h-1h1h1v1H508"/>
 		</g>
 		<g id="local__municipality_8" label="Mnquma">
-			<path class="st0" d="M502,466h-1v1v-1v1h-1v1v1h-1h-1v1h-1v1h-1v-1v1h-1v1h-1l-1,1h-1v-1v-1h-1h-1h-1v-1h-1v1v-1h-1v-1h-1h-1h-1
+			<path className="st0" d="M502,466h-1v1v-1v1h-1v1v1h-1h-1v1h-1v1h-1v-1v1h-1v1h-1l-1,1h-1v-1v-1h-1h-1h-1v-1h-1v1v-1h-1v-1h-1h-1h-1
 				v-1h1v-1h-1v-1h-1v-1v1h-1h1v1h-1h-1h-1v-1h-1h-1h-1h-1v-1h1v-1h-1v1h-1v-1h-1h-1v-1h1h1h-1v-1h-1v-1h-1v1h-1v-1h-1h-1h-1h1v1h1
 				h-1v1h-1v-1v-1h-1v-1h-1h1v-1v1h1v-1h1h-1h1v-1h-1h1h-1v-1h1h-1v-1h1v-1h-1v-1h1v1h1h-1v-1h1h-1h1v-1v-1h1v-1v1h-1v-1h-1v-1v-1h1
 				h1v1v1h1h1h1h-1v-1v-1h-1h1v-1h1v1h1h1v-1h1h1v-1v1h1h1v1l1-1h1h1h1v-1h1h1v1h1h1v1h-1v1h1v1v1v1h1h1v1h-1h-1v1h1h-1h1v1h1h1h1v1
 				h1v1v1h1h1h1h1v-1v1v-1v1h1v-1v1h1h1h-1v1h1v1h-1h1h1v1h-1h1h1v1h-1h1h1h1v1h1h-1v1h-1h-1V466"/>
 		</g>
 		<g id="local__municipality_9" label="Great_Kei">
-			<path class="st0" d="M489,476h-1H489h-1h-1v1h-1h-1h-1v1h-1v1h-1v1h1h-1v1h-1v1h-1v-1h-1h-1v-1h-1v-1h-1v-1l-1-1v-1h1v-1h-1l-1,1
+			<path className="st0" d="M489,476h-1H489h-1h-1v1h-1h-1h-1v1h-1v1h-1v1h1h-1v1h-1v1h-1v-1h-1h-1v-1h-1v-1h-1v-1l-1-1v-1h1v-1h-1l-1,1
 				h-1v1h-1v1v-1v1h-1v-1h-1v-1h-1v-1h-1v-1h-1v-1h-1h-1v-1v1h1v-1h-1h-1h1l1-1l1-1v-1v-1h1h-1v-1v-1h1h1v1v-1v-1h-1h1h1l1,1v-1h1h1
 				v1v-1v-1h1h1v1h1v-1h1v1h-1v1h1h1h1h1v1h1h1h1v-1h-1h1v-1v1h1v1h1v1h-1v1h1h1h1v1h1v1v-1h1v1h1h1h1v1v1h1v1h-1h-1v1h-1h-1V476"/>
 		</g>
 		<g id="local__municipality_10" label="Amahlathi">
-			<path class="st0" d="M441,468h-1v-1h-1h1v-1v1v-1h-1h-1h-1v1v1h-1l-1-1h-2v-1h-1l-1-2h-1h1v-1v-1v-1h-1v-1l-1-1h1h1v-1v-1h1v-1
+			<path className="st0" d="M441,468h-1v-1h-1h1v-1v1v-1h-1h-1h-1v1v1h-1l-1-1h-2v-1h-1l-1-2h-1h1v-1v-1v-1h-1v-1l-1-1h1h1v-1v-1h1v-1
 				l1,1h1v-1l1-1l1-1h1l1,1h1h1h1h1h1h1h1v1h1v1h1h1h1h1v1h1v1l1-1v1h1v1h1v-1l1,1h1v-1h1v-1h1h-1v-1l1-1h-1l1-1h1v-1h1v-1v-1h-1v-1
 				h1h1v-1h1h1h1v1v-1v1h1h1v1h-1v1h1h-1v1v1h1h1h1h1v1h-1v1h1h-1v1h1h-1h1v1h-1h1h-1v1h-1v-1v1h-1h1v1h1v1v1h1v-1h1h-1v-1h-1h1h1h1
 				v1h1v-1h1v1h1v1h1h-1h-1v1v1v1v-1h-1h-1v1l-1-1h-1h-1h1v1v1v-1h-1h-1v1v1h1h-1v1v1l-1,1l-1,1h-1h1h1v1h-1v-1v1h1h1v1h1v1h1v1
@@ -82,14 +82,14 @@ id="mapsalocal"
 				h-1v-1v-1h-1v-1h1v-1v-1h1H441"/>
 		</g>
 		<g id="local__municipality_11" label="Ngqushwa">
-			<path class="st0" d="M441,486v1h1h1v1h1h-1v-1h1h-1v-1h1h-1h1h-1v-1h1v-1h1h-1v-1h1h-1h1v-1h1v-1h1v1h1v1v-1h1v1v-1v1h1h1v-1h1v1
+			<path className="st0" d="M441,486v1h1h1v1h1h-1v-1h1h-1v-1h1h-1h1h-1v-1h1v-1h1h-1v-1h1h-1h1v-1h1v-1h1v1h1v1v-1h1v1v-1v1h1h1v-1h1v1
 				v-1h1h1v1v-1v1h1h-1h-1v1v1h1v1h1v-1h1h1h1v1h-1v1h-1v1h-1h1v1h-1h1v1v1h-1h-1h-1v1h1h-1v1h1h1v1h-1v1h1v1h1v1h1v-1v1h1h-1v1v-1
 				v1h-1h-1v1h-1h-1v1h-1v1h-1h-1v1h-1h-1v1h-1v1h-1h-1h-1v1h-1h-1v-1h-1v-1h-1v-1h-1v-1h-1v-1h-1v-1h1v-1v-1v-1h-1h1v-1h-1h-1h1v-1
 				h-1v-1v-1h-1v1v1h-1v-1v-1h-1v1v1h-1v-1h1h-1v-1h-1v-1v-1h1v1v-1h1h1v1v-1h1h1h-1v-1h1h-1v-1l1,1v-1h1v-1v-1v1h1v-1v1h-1h1h1h-1
 				v1h1v-1h1v1v-1v1h1v-1V486"/>
 		</g>
 		<g id="local__municipality_13" label="Inxuba_Yethemba">
-			<path class="st0" d="M383,464h-1h-1v-1l-1-1h-1h-1h-1h-1v1h-1l-1-1h1v-1l-1-1h-1v-1v-1h-1h-1l-1,1v1h-1v-1h-1l-1,1v-1h-1h-1v-1
+			<path className="st0" d="M383,464h-1h-1v-1l-1-1h-1h-1h-1h-1v1h-1l-1-1h1v-1l-1-1h-1v-1v-1h-1h-1l-1,1v1h-1v-1h-1l-1,1v-1h-1h-1v-1
 				h-1v-1h-1h-1h-1l-1-1h-1h-1h-1v-1h-1h-1v-1v-1h1v-1h1v-1v-1v-1h-1v-1v-1l1-1h-1v-1v-1h-1h1v-1v-1l-1-1h1h-1v-1h-1l1-1h-1v1h-1v-1
 				h-1v-1h-1v-1l-1,1h-1v-1h-1h-1v-1h-1v-1h-1h-1h1h-1v-1l-1,1h-1v1h-1h-1h-1v-1v-1v-1v-1l1-1v-1l-1-1l1-1v-1v-1h-1h1l1-1v-2h1v-1h1
 				h1h1v-1v1h1h1h1h1h1v-1h1l1-1v1h1v-1v-1h1h1h1v-1h1v-1h1h1h1h1v-1h1v1v-1h1h1h1v-1v1h1v-1h1v-1h1h1v1h1h1h1l1,1v-1h1h1h1v1h1h1
@@ -99,7 +99,7 @@ id="mapsalocal"
 				h-1h-1h-1v-1h-1h-1v-1L383,464"/>
 		</g>
 		<g id="local__municipality_14" label="Enoch_Mgijimi">
-			<polygon class="st0" points="458,455 457,456 458,456 457,457 457,459 456,459 456,460 455,460 454,459 454,460 453,460 453,459 
+			<polygon className="st0" points="458,455 457,456 458,456 457,457 457,459 456,459 456,460 455,460 454,459 454,460 453,460 453,459 
 				452,459 452,458 451,459 451,458 450,458 450,457 446,457 446,456 445,456 445,455 438,455 437,454 436,454 434,456 434,457 
 				433,457 432,456 432,457 431,457 431,459 427,459 427,462 426,463 426,462 425,462 425,463 424,463 423,462 422,462 421,461 
 				421,462 420,462 420,461 419,460 412,460 412,460.5 409.7,460.7 409,460 406,460 406,452 404,452 404,451 403,451 403,450 
@@ -116,14 +116,14 @@ id="mapsalocal"
 				458,454 			"/>
 		</g>
 		<g id="local__municipality_16" label="Emalahleni_EC">
-			<path class="st0" d="M429,433v-1h1v-1h1v-1h1v-1h1v-1h1l-1-1l-1-1v-1h1v-1v-1h-1l1-1v-1h1l1-1h1v1l1-1h1l1,1v-1h1l1,1v1h1v1h1h1
+			<path className="st0" d="M429,433v-1h1v-1h1v-1h1v-1h1v-1h1l-1-1l-1-1v-1h1v-1v-1h-1l1-1v-1h1l1-1h1v1l1-1h1l1,1v-1h1l1,1v1h1v1h1h1
 				v-1l1-1h1v-1h1h1h1v1h1v-1l1,1h1v2h1h1l1-1v-1h1v-1v-1v-1l-1-1h1v-1h1h1l1-1h1l1-1l1,1h1l-1,1h1v1v1h-1v1v1v-1v1h-1v1v-1v1v1v1h1
 				v1h-1h-1h-1v1h-1h-1v1v-1v1h-1h-1v1h1v1h-1v-1v1v1h1h-1v1h1v1h-1v-1v1v1h1h-1v1v1h-1v1v1v-1v1h1h-1h1v1v1v1v1v1v-1h-1v1v1h-1h-1
 				v-1v1h-1v-1h-1v-1v1v1h-1v1v1l-1-1v1h-1h-1l-1-1v1l-1-1h-1h-1v-1h-1v-1h-1h-1v-1h-1h-1v-1v-1v-1h-1h-1l-1-1h-1v-1v-1h-1h-1h-1
 				L429,433"/>
 		</g>
 		<g id="local__municipality_17" label="Mangaung">
-			<path class="st0" d="M442,342l-1,1v1h-1l-1-1l-1-1v1h-1v1l1,1l-1,1l1,1l-1,1h-1v-1h1v-1h-1h-1h-1v-1l-1-1h-1l-1,1h-1l-1-1v1l-1-1
+			<path className="st0" d="M442,342l-1,1v1h-1l-1-1l-1-1v1h-1v1l1,1l-1,1l1,1l-1,1h-1v-1h1v-1h-1h-1h-1v-1l-1-1h-1l-1,1h-1l-1-1v1l-1-1
 				h-1h-1v-1v-1h-1v-1h-1v-1l1-1h-1l1-1h-1h-1h-1v1h-1v1h-1v1h-1v-1v1l-1,1v1v-1h-1l-1,1v1v1h-1h-1v-1h-1h-1h-1h-1v-1v1h-1h-1h-1v1
 				v1h-1l-1-1h-1v1h-1v-1h-1v1h-1v-1v-1h-1v-1h-1h-1h-1v-1v-1h1h1v-1v-1h-1v-1h-1l-1,1h-1v-1v-1h-1h-1l-1-1h-1v1h-1v-1h-1h-1v-1v-1
 				l1-1h-1v-1h1v-1h-1v-1v-1v-1h1l-1-1h-1l1-1v-1v-2h1v-1v1h1v-1v1v-1l1-1h1h1l-1-1v-1h1v-1v-1h1l1,1v-1v1h1v-1v1h-1v1v1h1l1-1v1v1
@@ -132,7 +132,7 @@ id="mapsalocal"
 				h-1v1h1v1v1h1h1h1v-1l1-1v1h1v1H442"/>
 		</g>
 		<g id="local__municipality_18" label="Albert_Luthuli">
-			<path class="st0" d="M572,203h1h1v-1l1-1l1-1h-1h1v-1v1h1v-1h1h-1l-1-1l1-1h1l1,1l1,1h1l-1-1l1-1v-1l1,1h1v-1l2,1h1v1l1,1v1v1
+			<path className="st0" d="M572,203h1h1v-1l1-1l1-1h-1h1v-1v1h1v-1h1h-1l-1-1l1-1h1l1,1l1,1h1l-1-1l1-1v-1l1,1h1v-1l2,1h1v1l1,1v1v1
 				l1,1h1h1v1v1h-1h1l1,1h1h2h1h1v-1l1-1l1-1l1,1v1v1l1-1h2v1v1h-1v1v1l-1,1v1l-1,1v1l-1,1v1h-1v1v1h-1v1l-1,1l-1,1l-1,1l-1,1v1
 				l-1,1l-1,1l-1,2v1v1l-1-1h-1h-1l-1-2l1-1h1h1l-1-1v-1h-1l1-1v-1h-1h-1h-1h-1h-1h-1l1-1v-1l-1-1v-1h-1h-1h-1v1h-1h-1v-1l-2-1h-1
 				h-1l-1-1v1v1h-1v-1h-1l-1,1h-1h-1h-1v1h-1v1h-1v-1v-1h-1h-1h-1l-1-1l-1,1h-1v1h-1h-1v-1h-1h-1h-1h-1v1h-1v-1v-1h-1v-1v-1h1v-1v-1
@@ -140,77 +140,77 @@ id="mapsalocal"
 				H572"/>
 		</g>
 		<g id="local__municipality_19" label="Mkhondo">
-			<path class="st0" d="M580,254h-1h-1h-1l-1,1h-1l-1,1h-1v-1v1h-1v-1h-1h-1v-1h1l-1-1l1-1h1v-1l1-1v-1v-1v-1h-1v-1h-1v1h-1l-1,1h-1
+			<path className="st0" d="M580,254h-1h-1h-1l-1,1h-1l-1,1h-1v-1v1h-1v-1h-1h-1v-1h1l-1-1l1-1h1v-1l1-1v-1v-1v-1h-1v-1h-1v1h-1l-1,1h-1
 				v-1v-1v-1v-1h-1v-1v-1v-2h2h1v-1h1v-1h1h1h1v-1v1v-1v1h1v-1v1h1v-1h1h1v-1h1v-1v-1h1v-1h1h1h-1h-1h-1h-1v-1h-1v-1l-1-1v-1h1h1v-1
 				h1h1h1v-1h1v1h1v1h1h1l1-1v-1h1h1l1,1v1v1v1v1v1v1v1v1v1v1v1v1v1h1v-1h1h1v-1h1h-1h1v1v1v1h1v1h1h1v1v1v1l-1,1l1,1v1l2,1l1,1h1v1
 				l1,1v1h1l1,1l2,1h1l2,1h-1v1h-1v1l-1,1v1h-1v1h-1h-1v-1h-1v-1h-1v1h-1h-1v1v-1h-1v1v-1h-1v1v-1v1h-1h-1v-1v-1v-1h-1v1v-1v1h-1h-1
 				h1h-1v1h-1h-1v-1v1v-1h-1h-1v-1h-1h-1h-1h-1h-1v1h-1h-1h-1h-1v-1h-1l1-2l1-1v-1L580,254"/>
 		</g>
 		<g id="local__municipality_20" label="Pixley_Ka_Seme">
-			<path class="st0" d="M573,250l-1,1v1h-1l-1,1l1,1h-1v1h1h1v1h1v-1v1h1l1-1h1l1-1h1h1h1l-1,1v1l-1,1l-1,2h1v1h-1h-1h-1h-1v-1v-1
+			<path className="st0" d="M573,250l-1,1v1h-1l-1,1l1,1h-1v1h1h1v1h1v-1v1h1l1-1h1l1-1h1h1h1l-1,1v1l-1,1l-1,2h1v1h-1h-1h-1h-1v-1v-1
 				h-1h-1v1v1h-1v-1h-1v1h-1h-1v1v1h-1h-1h-1v-1v1h-1v1h-1v1l-1-1h-1v-1h-1h-1v1h-1h-1v-1h-1h-1l-1-1v1h-1v1v-1h-1v1v-1h-1v1h-1v1v1
 				h-1v1v-1h-1h-1v-1h-1v1h-1v1v1h1h-1h-1h-1h-1h-1v-1h-1v-1v1v-1v-1h-1v-1h-1h1v-1h-1v1v-1h-1v-1v1v-1v-1h-1v-1v-1v1v-1h-1h1h-1v-1
 				h-1h1h1v-1l1-1v-1h1l1,1v-1h1v-1v-1v-1h1h1h1h-1v-1v-1h1v-1v-1v-1h1v-1v-1v-1v-1h1v-1v1v-1h1v1h1v-1h1v1v-1h1v-1h1v1l1-1v-1h1v1
 				v-1h1h1v-1h1h1v-1l1-1v-1l1,1h1h1l2,1v-1l1,1v1l-1,1v1h1v1h1v1h1v-1v-1h1h1v2v1v1h1v1v1v1v1h1l1-1h1v-1h1v1h1v1v1V250"/>
 		</g>
 		<g id="local__municipality_21" label="Lekwa">
-			<path class="st0" d="M520,236h1h1h1v1h1v-1h1h1h1v-1l-1-1h1v-1h1h1l1,1h1h1h1v-1h1h1h1v-1v-1h1v-1h1h1h1v-1v-1h1v1h1h1v1v1v1v1h1
+			<path className="st0" d="M520,236h1h1h1v1h1v-1h1h1h1v-1l-1-1h1v-1h1h1l1,1h1h1h1v-1h1h1h1v-1v-1h1v-1h1h1h1v-1v-1h1v1h1h1v1v1v1v1h1
 				h1h1h1v1h1h1h1h1l1-1v1v1l-1,1v1v1v1v1l-1,1v-1h-1v1h-1v1v-1h-1v1h-1v-1h-1v1v-1v1h-1v1v1v1v1h-1v1v1v1h-1v1v1h1h-1h-1h-1v1v1v1
 				h-1v1l-1-1h-1v1l-1,1v1h-1h-1h-1h-1h-1v1h-1v-1h1v-1v-1v1v-1h-1v1h-1v-1h-1v-1v1h-1h1h-1v-1h-1h1h-1h1v-1h-1h1h-1h-1h-1h-1v1h-1
 				v-1h-1h1v-1h-1v-1h-1v-1v-1v-1h-1v-1v1h-1h1h-1v-1h-1h-1v1h-1h-1v-1h-1v-1h-1l-1-1v-1h1v-1h1v-1v-1v1v-1h1h1h1h1v-1h-1h-1l1-1h-1
 				h-1v-1h-1v-1h1v-1h1v-1h-1v-1l-1-1v-1h-1h-1v-1l1-1l1,1h1l-1,1h1h1h1h1v1v1v1h1h1h1h1v1H520"/>
 		</g>
 		<g id="local__municipality_22" label="Dipaleseng">
-			<path class="st0" d="M508,229h1h1h1v-1v1v1h1l-1,1v1h1h1v1l1,1v1h1v1h-1v1h-1v1h1v1h1h1l-1,1h1h1v1h-1h-1h-1h-1v1v-1v1v1h-1v1h-1
+			<path className="st0" d="M508,229h1h1h1v-1v1v1h1l-1,1v1h1h1v1l1,1v1h1v1h-1v1h-1v1h1v1h1h1l-1,1h1h1v1h-1h-1h-1h-1v1v-1v1v1h-1v1h-1
 				v1l1,1h1v1h1v1h-1v1v1v-1h-1v-1l-1,1h-1v-1h-1h-1h1l-1-1h-1h-1v-1h-1h-1v-1h-1v1h-1v1h1h1v1h-1h-1h-1v1h-1v1h-1v-1h1h-1v-1h-1v-1
 				v-1h-1v-1h-1v1h1h-1v1v-1h-1h1v1h-1v1h-1v-1h1l-1-1v-1h-1h-1h-1h-1h1v-1h-1v1h-1v-1h-1v-1h-1h1l-1-1h1h1h1v-1h1v-1h-1v-1h1v-1h1
 				h1h1v-1l-1-1v-2h1h1v-1h1h1v-1h1v-1h1v-1v-1v-1v-1v1v-1v1h1h1h-1h1v1h1h1v-1h1h1h1h1h1V229"/>
 		</g>
 		<g id="local__municipality_23" label="Victor_Khanye">
-			<path class="st0" d="M518,213v1v1h-1v1v1h-1v1h-1h-1h-1v1v1h-1v1h-1h-1v-1h-1h-1h-1v1h-1h-1v-1h-1l-1-1v-1h-1v-1h-1h-1h-1v-1v-1
+			<path className="st0" d="M518,213v1v1h-1v1v1h-1v1h-1h-1h-1v1v1h-1v1h-1h-1v-1h-1h-1h-1v1h-1h-1v-1h-1l-1-1v-1h-1v-1h-1h-1h-1v-1v-1
 				v-1v1v-1h-1v-1h-1v-1l1-1v-1h1v-1l1,1h1v-1v-1l1-1l1-1l1,1h1h1h1h1v1h1h1h1h1l1-1v-1v-1v-1v-1v-1l1,1h1h1l-1,1h1v-1h1v-1l1,1v1v1
 				h-1l-1-1v1v1v1v1v1h-1v-1h-1v1v1h1v1h-1v1h1h1h1v1H518"/>
 		</g>
 		<g id="local__municipality_24" label="Emakhazeni">
-			<path class="st0" d="M564,178v1h1v1v1v1h1h1v1v1l-1,1h1v1l1,1v-1h1v-1v1h1v1h1h1v-1h1v-1h1l-1-2l1-1h1v1v1l1,1v1h1v1l1-1h1v1h1
+			<path className="st0" d="M564,178v1h1v1v1v1h1h1v1v1l-1,1h1v1l1,1v-1h1v-1v1h1v1h1h1v-1h1v-1h1l-1-2l1-1h1v1v1l1,1v1h1v1l1-1h1v1h1
 				l-1,1v1h-1l1,1h1h1v1h1v1v1h-1v1h2l1,1h-1v1v1h-1l-1-1v1l-1,1l1,1h-1l-1-1l-1-1h-1l-1,1l1,1h1h-1v1h-1v-1v1h-1h1l-1,1l-1,1v1h-1
 				h-1h-1h-1l-1,1v1l-1-1l-1-1v-1v-1h1l-1-1h-1h-1v1h-1l-1-1v1h-1h-1v1h-1h-1v1h-1h-1v1h-1h-1v-1h-1h-1v-1h-1h-1h-1h-1v-1v-1v-1l1-1
 				h1v-1l-1,1v-1h1v-1h-1v-1h1v-1h-1h-1v1l-1-1v-1v-1h-1h-1v-1h-1v-1h-1h-1v1h-1h-1v-1l-1-1v1h-1v-1v-1v-1h-1l-1-1h1v-1v-1h1h1h1h1
 				v-1h1h1h1h1h1v1h1v-1l1-1h1h1v1h1v-1h1v-1h1h1h1h1v1h1l1-1l1-1v-1h1v-1h1v-1v-1l1,1v1H564"/>
 		</g>
 		<g id="local__municipality_25" label="Thembisile">
-			<path class="st0" d="M531,183v1h1v1h-1h-1h-1v1h-1h1h-1h-1v1h1h-1v1v-1v1h1v1h-1v1h-1v-1v1h-1h-1h1v1h1h-1h1v1h-1h1v1h1h1h1v1h-1
+			<path className="st0" d="M531,183v1h1v1h-1h-1h-1v1h-1h1h-1h-1v1h1h-1v1v-1v1h1v1h-1v1h-1v-1v1h-1h-1h1v1h1h-1h1v1h-1h1v1h1h1h1v1h-1
 				v1v-1h1v1v-1v1h1l-1,1v1h-1l-1-1l-1,1h-1v-1v-1h-1v-1h-1h-1h-1v1h-1v1h-1l-1-1v-1h1l1-1v-1h-1v-1v-1h1h1v-1v-2v1h-1v1h-1v-1v1v-1
 				h-1v1h-1v1l1,1h-1h-1l-1,1v-1h-1v-1v-1l-2,1v-1v-1h-1h-1v1h-1v1h1v1l1-1v1v1h1v1v1h-1v-1h-1v1l1,1h-1l-1,1h-1v-1v-1l-1-1h-1v1v1
 				h-1l-1-1h1h-1v-1v-1h-1v-1v-1v-1v-1v-1h-1v-1h1v-1l-1-1h1v-1v-1l-1-1h1l1-1h1l1-1h1v1h1l1,1h1v-1l1-1h1v-1h1v-1h2h1h1v1h1h1v1h1
 				h1v1v1l1-1h1h1v2l-1,1h2l1,1h1v-1h1h2H531"/>
 		</g>
 		<g id="local__municipality_26" label="Mbombela">
-			<path class="st0" d="M608,189v1l1,1l-1,1h-1h-1h-1v1l-1,1v-1h-1h-1h-1l-1-1h-1h-1h-1h-1h-1v-1h-1l-1-1h-1h-1h-1v1h-1v1h-1v-1v1
+			<path className="st0" d="M608,189v1l1,1l-1,1h-1h-1h-1v1l-1,1v-1h-1h-1h-1l-1-1h-1h-1h-1h-1h-1v-1h-1l-1-1h-1h-1h-1v1h-1v1h-1v-1v1
 				l-1,1v1v1l-1,1v1h-1l-2-1v-1h1l-1-1h-2v-1h1v-1v-1h-1v-1h-1h-1l-1-1h1v-1l1-1h-1v-1h-1l-1,1v-1h-1v-1l-1-1v-1v-1h1h1h1l1-1v-1h1
 				v1h1v-1l1-1l1,1l1,1l1,1h1v1h1v-1h1h1l1,1h1l1,1h1l-1-1h1l1-1h1h-1v-1h-1l1-1h1h1v-1l-1-1v-1h-1v-1v-1v-1h1v-1h1v-1v-1v-1h1h1v-1
 				h1h1v-1h-1h1v-1h1h1v1h1h-1h1v1h1h1h1h1v-1v-1h1h1v-1h1v1h1h1v-1v1h1h1h1h1h1h1h1v-1h1v1h1v1h-1v1v1h1v1v1v1v1h1h-1v1h1v1h-1h1v1
 				v1v1h-1v1v1h-1v1v1h-1v1v1h-1v1v1h-1h-1v1h-1h-1h-1h-1v1h-1h-1h-1H608"/>
 		</g>
 		<g id="local__municipality_27" label="Dr_JS_Moroka">
-			<path class="st0" d="M518,170h1h1v1h1v1h1h1h-1v1h-1v1h-1v-1h-1v1v1v1v1v1h-1h-1v-1h-1h-1h-2v1h-1v1h-1l-1,1v1h-1l-1-1h-1v-1v-1
+			<path className="st0" d="M518,170h1h1v1h1v1h1h1h-1v1h-1v1h-1v-1h-1v1v1v1v1v1h-1h-1v-1h-1h-1h-2v1h-1v1h-1l-1,1v1h-1l-1-1h-1v-1v-1
 				v-1h1h1v-1v-1h-1v-1v-1h-1v-1h-1v1h-1h-1l-1-1v1h-2v1h-1h-1v1h-1h-1v1h-1h-1h-1h-1h1v-1l-1-1h1v-1h1h1h1v-2h1h1h1h1h1v-1h1l-1-1
 				v-1l1-1h1l1-1h1l1-1h1v-1h1h1h1v1h2v-1h1h1v1l-1,1h-1l1,1v1h1v1h1v1v1h1v-1H518"/>
 		</g>
 		<g id="local__municipality_28" label="Umjindi">
-			<path class="st0" d="M607,194v1l1,1l1,1l-1,1l1-1l-1,2l-1,1v1l-2,1l-1,1l-1,1h-1h-2l-1,1v-1v-1l-1-1l-1,1l-1,1v1h-1h-1h-2h-1
+			<path className="st0" d="M607,194v1l1,1l1,1l-1,1l1-1l-1,2l-1,1v1l-2,1l-1,1l-1,1h-1h-2l-1,1v-1v-1l-1-1l-1,1l-1,1v1h-1h-1h-2h-1
 				l-1-1h-1h1v-1v-1h-1h-1l-1-1v-1v-1l-1-1v-1v-1l1-1v-1v-1l1-1v-1v1h1v-1h1v-1h1h1h1l1,1h1v1h1h1h1h1h1l1,1h1h1h1v1l1-1v-1h1h1h1h1
 				v-1l1,1v1h-1v1h-1H607"/>
 		</g>
 		<g id="local__municipality_29" label="Bushbuckridge">
-			<path class="st0" d="M603,168h-1H603h-1v-1h-1h-1v1h-1h1v1h-1h-1v-1v-1v-1v-1v-1v-1l-1-1v-1h-1h-1l-1-1l-1-1v-1v-1v-1v-1v-1v-1
+			<path className="st0" d="M603,168h-1H603h-1v-1h-1h-1v1h-1h1v1h-1h-1v-1v-1v-1v-1v-1v-1l-1-1v-1h-1h-1l-1-1l-1-1v-1v-1v-1v-1v-1v-1
 				h-1l-1-1h-1l-1-1l2-1l1-1h1h1h1v1v1h1h1h1h1h1h1h1v-1h1h1h1h1l1-2l-1-2l-1-1h-2v-1v-1h2h2l-1-1v-1h-1v-1l-2,1h-1h-1h-1h-1v-1v-1
 				v-1v-1v-1v-1h1l1-1v-1l1-1h-1h-1h-1h1v-1h1h1h1v-1h1v-1h1v1h1v1h1v1h1v-1h1h1h1h1v-1v1h1v-1h1v-1h1h1v1h1h1h1v-1h1v1h1v-1h1h1h1
 				v1h1h1v-1v-1h1v-1h1v1h1h1h1l1-1v1v3l1,4l2,3l1,2l1,3v3v5v4v10l1,5v3v2h-1v-1h-1h-1h-1v-1h-1v-1h-1v-1h-1h-1v-1h-1v-1h-1v-1h-1
 				v-1v-1h-1h-1h-1v1h-1h-1h-1h-1v-1h-1v1h-1h-1h-1h-1h-1h-1h-1v-1v1h-1h-1v-1h-1v1h-1h-1v1v1h-1h-1h-1h-1V168"/>
 		</g>
 		<g id="local__municipality_31" label="Elundini">
-			<path class="st0" d="M502,415h1H502v1V415v1h-1v-1v1h-1v-1v1h-1h-1h-1v1h-1v1v1h1h1v1h-1v1h-1v1v-1h-1v1v1h-1v1v1h-1h-1v-1h-1v-1
+			<path className="st0" d="M502,415h1H502v1V415v1h-1v-1v1h-1v-1v1h-1h-1h-1v1h-1v1v1h1h1v1h-1v1h-1v1v-1h-1v1v1h-1v1v1h-1h-1v-1h-1v-1
 				h-1h-1v-1l-1-1v-1v-1h-1h-1h-1v-1l-1,1h-1v-1h1h-1h-1v1h-1l-1-1l-1-1h-1v-1h-1h-1l-1-1l1-1h1v-1v-1v-1v-2h1l1-1v-1h1v-1v-1v-1h1
 				v-1v-1h1v-1v-1h1v-1v-1l-1-1h1v-1v-1h1v-1v-1h-1h-1h1v-1h-1v-1v-1h1h1v-1v-1v-1h1v-1h-1v-1v-1h1h1h1v-1h1v-1v-1h1h1v1h1h1l1,1v-1
 				v1v-1v1h1h1h1h1v1h1v1h1v-1h1h1v1v-1v1h1h1v1h-1l1-1h-1v1h-1h-1v1h1h-1v1h-1l-1,1h1v1v1h1v1v1h-1h1v1v1h1h1v1h-1h1v1v-1h1v1h1v1
@@ -218,26 +218,26 @@ id="mapsalocal"
 				h1h-1v1h1v1h-1h-1v1H502"/>
 		</g>
 		<g id="local__municipality_32" label="Sakhisizwe">
-			<path class="st0" d="M455,431v-1V431h1v-1h-1v-1h1h-1v-1v-1v1h1v-1h-1v-1h1h1v-1v1v-1h1h1v-1h1h1h1v-1h-1v-1v-1v-1v1v-1h1v-1v1
+			<path className="st0" d="M455,431v-1V431h1v-1h-1v-1h1h-1v-1v-1v1h1v-1h-1v-1h1h1v-1v1v-1h1h1v-1h1h1h1v-1h-1v-1v-1v-1v1v-1h1v-1v1
 				v-1v-1h1v-1v-1h-1l1-1h1h1h1h1v1v-1h1v-1h1l1,1v-1h1h1h1v1h1v1h1v-1l1,1h1h1v1h1l1,1l1,1h1v-1h1h1h-1v1h1l1-1v1h1h1h1v1v1h-1h-1
 				v1h-1h-1l-1,1h-1v1h-1v1h-1v1l-2,1h-1v1l-1-1h-1h-1v1h-1l-1-1v1l-1-1v1h-1h-1h-1h-1v1v1v1h1v1v1h-1v1h-1v1v-1h-1v1v-1v1v-1l-1,1
 				h-1l-1-1v1h-1l-1-1v1h-1h-1h-1l1-1h-1h-1v-1h-1v-1h1h-1V431"/>
 		</g>
 		<g id="local__municipality_33" label="Engcobo">
-			<path class="st0" d="M490,431h1H490v1v1v1h1v1v1h1h-1v1h1h-1v1v-1v1h1h-1v1h1h-1v1h-1v-1h-1v-1v1v-1h-1v-1v1h-1v1v1v1v1h-1v1v1
+			<path className="st0" d="M490,431h1H490v1v1v1h1v1v1h1h-1v1h1h-1v1v-1v1h1h-1v1h1h-1v1h-1v-1h-1v-1v1v-1h-1v-1v1h-1v1v1v1v1h-1v1v1
 				l-1,1v-1v1v-1h-1h1v1h-1h-1v1h-1h-1l-1,1v1h-1v-1v1h-1v-1v-1h-1v-1v-1h1v-1v1v-1v-1v-1v-1h-1h-1h-1v-1h-1h-1v-1h-1h1h-1v-1h-1v-1
 				h-1v-1v-1h-1v-1h-1v-1v-1h-1v-1v-1v-1h1h1h1h1v-1l1,1v-1l1,1h1v-1h1h1l1,1v-1h1l2-1v-1h1v-1h1v-1h1l1-1h1h1v-1h1h1l1,1v1h1h1v1h1
 				v1h1v1h-1v1h1h-1v1h1l-1,1h-1v1v-1v1h-1V431"/>
 		</g>
 		<g id="local__municipality_34" label="Intsika_Yethu">
-			<path class="st0" d="M473,450v1h1h-1h-1h-1v-1v-1h-1h-1v1v1h1v1h1v-1v1h-1v1v1h-1h1h-1v1h1h-1v-1h-1v1h1h-1h-1h-1h-1v-1v-1h1h-1
+			<path className="st0" d="M473,450v1h1h-1h-1h-1v-1v-1h-1h-1v1v1h1v1h1v-1v1h-1v1v1h-1h1h-1v1h1h-1v-1h-1v1h1h-1h-1h-1h-1v-1v-1h1h-1
 				v-1h1v-1h-1h-1v-1v1v-1h-1h-1h-1v1h-1h-1v1h1v1v1h-1v1h-1v-1h-1v-1h1h-1v-1v1h-1v-1h-1v1h1h-1h-1h1v-1h-1v-1h1v-1h-1h-1h1v-1h-1
 				v-1h-1h1h-1v-1h1h-1h1v-1v1h-1v-1v-1h-1v1v-1h-1h-1v1h-1v-1h-1h1h-1h-1v1h-1h-1v-1h-1v-1h-1v-1h1h1l1,1v-1l1,1h1h1v-1l1,1v-1v-1
 				h1v-1v-1v1h1v1h1v-1v1h1h1v-1v-1h1v1v-1v-1v-1v-1v-1h-1h1h-1v-1v1v-1v-1h1v-1h1v1h1h1l-1,1h1h1h1v-1l1,1h1v-1l1,1h1l1-1v1v-1v1
 				v-1h1v1v-1h1v-1h1v-1v1h1v1h1v1v1h1v1h1v1h1h-1h1v1h1h1v1h1h1h1v1v1v1v1v-1v1h-1v1v1h1v1v1h-1h-1v1h-1h-1v-1h-1v1h-1h1V450"/>
 		</g>
 		<g id="local__municipality_35" label="Walter_sisulu">
-			<polygon class="st0" points="450,418 450,420 446,420 446,421 445,421 444,422 444,423 442,423 442,422 441,422 441,421 440,420 
+			<polygon className="st0" points="450,418 450,420 446,420 446,421 445,421 444,422 444,423 442,423 442,422 441,422 441,421 440,420 
 				439,420 439,421 438,420 437,420 436,421 436,420 435,420 434,421 433,421 433,422 432,423 428,423 427,424 423,424 423,421 
 				425,421 425,418 426,418 426,414 425,414 424,415 421,415 420,416 420,415 419,415 419,414 418,415 415,415 415,414 412,414 
 				412,416 410,416 410,415 408,415 406,417 405,417 404,416 403,417 403,418 402,418 401,419 398,419 398,424 397,424 397,425 
@@ -253,25 +253,25 @@ id="mapsalocal"
 				447,412 445,412 445,417 449,417 			"/>
 		</g>
 		<g id="local__municipality_36" label="Ngquza_Hill">
-			<path class="st0" d="M535,418h-1v1h-1h-1v-1h-1v1h-1v1h-1v1h-1v1h-1v-1h-1h1v-1h-1h-1v-1h1v-1h1v-1h-1v1v-1h1v-1v-1v-1h1v1h1v-1
+			<path className="st0" d="M535,418h-1v1h-1h-1v-1h-1v1h-1v1h-1v1h-1v1h-1v-1h-1h1v-1h-1h-1v-1h1v-1h1v-1h-1v1v-1h1v-1v-1v-1h1v1h1v-1
 				v-1v1v-1h1v-1h1v1v-1h1h-1v-1h1h1v-1v1v-1h1h1v-1h-1v1h-1v-1h1v-1h1h-1v-1v-1h1v-1h1v-1v-1h-1h1h1h1v1h1h1v1h1h1v1h-1h-1h1v1v-1
 				v1v1h1v1v-1v1h1h1h1v1v-1h1v1v-1v1h1v1h1h1v1h1v-1v1v-1v1h1v-1v1h1v1h1h1h1v1h1v1v-1v1h1h1v1h1v1h-1v1h-1v1h-1v1h-1v1h-1h-1v1h-1
 				v1h-1v1h-1h-1h-1h-1v1h-1v1v1h-1h-1v-1h-1v-1v1v-1v1h-1v-1h-1v-1v-1v1v-1h-1v1v-1h-1v-1h-1h1h-1v-1v-1v1v-1h-1v-1v1h-1v-1h-1V418
 				h1H535"/>
 		</g>
 		<g id="local__municipality_37" label="Port_St_Johns">
-			<path class="st0" d="M528,435h-1v-1v-1h1v-1v-1v-1v-1h1v-1v-1v-1v-1v-1h-1v-1v-1h1h-1v-1h1v-1h1v-1h1v-1h1v1h1h1v-1h1h1h-1v1h1v1
+			<path className="st0" d="M528,435h-1v-1v-1h1v-1v-1v-1v-1h1v-1v-1v-1v-1v-1h-1v-1v-1h1h-1v-1h1v-1h1v-1h1v-1h1v1h1h1v-1h1h1h-1v1h1v1
 				h1v-1v1h1v1v-1v1v1h1h-1h1v1h1v1v-1h1v1v-1v1v1h1v1h1v-1v1v-1v1h1v1h1v1h-1h-1v1h-1v1h-1h-1v1h-1v1h-1h-1v1h-1h-1h-1v1v1h-1h1h-1
 				h1h-1h1h-1v1h-1v1l-1,1h-1h-1v-1v1v-1h-1v-1h-1v-1H528"/>
 		</g>
 		<g id="local__municipality_38" label="Nyandeni">
-			<path class="st0" d="M511,434h-1v-1h1v-1h-1v-1h1v-1h-1v-1v-1h-1v-1h1v-1v1v-1h-1h1h-1h-1v-1v1v-1h1h1v1v-1h1h1v-1h-1h1v-1v-1h-1
+			<path className="st0" d="M511,434h-1v-1h1v-1h-1v-1h1v-1h-1v-1v-1h-1v-1h1v-1v1v-1h-1h1h-1h-1v-1v1v-1h1h1v1v-1h1h1v-1h-1h1v-1v-1h-1
 				h1v-1h1v-1l-1-1h1h1h1v-1h1h1v-1v1h1h1h-1v1h1h1h1v-1v1h1v-1h1h-1v1h1h1v-1h1v-1h-1h1v1h1v1h-1v1h1h1v1h-1h1v1h1h1h-1v1v1h1v1v1
 				v1v1v1h-1v1v1v1v1h-1v1v1h1h-1v1h1v1h1v1v-1v1h1v1h-1v1h-1v1h-1v1v1h-1v1h-1l-1-1h-1v-1h-1v1v-1v-1h-1v1h-1v-1h1h-1h-1h-1h-1v-1
 				h1v-1v1h-1v-1h-1h-1v-1h-1h-1h1v1h-1v-1v-1h1v-1h-1h1h-1v-1h1v-1h-1v1v-1h-1h1v-1h-1v1H511"/>
 		</g>
 		<g id="local__municipality_39" label="Mhlontlo">
-			<path class="st0" d="M500,410h-1v1h-1v-1h1h-1v-1h-1v-1v-1v1h1h1v-1h1h-1l1-1h-1h1h1v-1v-1v-1h1h1h1v-1h-1h1h-1v-1h1h1v-1v-1v1h1
+			<path className="st0" d="M500,410h-1v1h-1v-1h1h-1v-1h-1v-1v-1v1h1h1v-1h1h-1l1-1h-1h1h1v-1v-1v-1h1h1h1v-1h-1h1h-1v-1h1h1v-1v-1v1h1
 				h1v1h1v1v-1v1h1v-1v1h1h-1h1v1v1v1h1v-1h1v1h-1h1v1v1h1v1v-1h-1v1h1h-1l1,1h1v-1v1h1v-1h1v1h1v-1v-1h1v-1h1v1v-1v1h1v1l1,1h1v1h1
 				v1v1h1v1h1h1l-1,1h1h-1v1v-1v1h-1h1h-1v1h1v1h-1h1v1h-1v1h-1h-1v-1h1h-1v1h-1v-1v1h-1h-1h-1v-1h1h-1h-1v-1v1h-1h-1v1h-1h-1h-1
 				l1,1v1h-1v1h-1h1v1v1h-1h1v1h-1h-1v1v-1h-1h-1v1v-1v-1h-1v1v-1h1v1h-1h-1l-1-1v1h-1v-1h-1v1h-1h-1h-1v1v-1h-1h1h-1v1h-1h1h-1v-1
@@ -279,7 +279,7 @@ id="mapsalocal"
 				h-1h1v-1v1v-1h-1v-1h-1h-1h-1H500h1H500"/>
 		</g>
 		<g id="local__municipality_40" label="King_Sabata_Dalindyebo">
-			<path class="st0" d="M514,439v-1h-1h1h1v1h1h1v1h1v-1v1h-1v1h1h1h1h1h-1v1h1v-1h1v1v1v-1h1v1h1l1,1h-1v1h-1h1h-1v1v1h-1v1h-1h-1
+			<path className="st0" d="M514,439v-1h-1h1h1v1h1h1v1h1v-1v1h-1v1h1h1h1h1h-1v1h1v-1h1v1v1v-1h1v1h1l1,1h-1v1h-1h1h-1v1v1h-1v1h-1h-1
 				v-1h-1v1v-1h-1v-1v1v-1h-1v-1v1v-1h-1v-1v1v-1h-1v1v-1h-1h-1v1l-1-1v1h-1h1h-1v1v-1v1h-1v1v-1h-1h1h-1v1h1h-1v1h-1v-1h-1v-1h-1
 				h-1h1v-1h-1v-1h1h-1h-1v1h1h-1v1h1h-1v1h-1h-1v-1h-1h1h1h-1v-1h-1v1h-1v-1v1h-1h-1v-1h1v-1h-1h1v1h-1h-1h-1v-1h1h1v-1h-1h-1h1v-1
 				h-1v1h-1v-1v-1h-1v-1h-1v-1h-1v1v-1h-1v-1h1h-1v-1v1v-1h1h-1v-1h1h-1v-1v-1h-1v-1v-1v-1h1h-1v-1h1v-1v1v-1h1l1-1h-1v-1h1h-1v-1h1
@@ -287,45 +287,45 @@ id="mapsalocal"
 				v1h-1v1h1h1v-1h1v1h-1h1v1v-1h1v1h-1v1h1h-1h1v1h-1v1v1H514"/>
 		</g>
 		<g id="local__municipality_41" label="Matatiele">
-			<path class="st0" d="M501,386h1v-1h1l-1,1h1v-1h-1h-1v-1v1v-1h-1h-1v1h-1v-1h-1v-1h-1h-1h-1h-1v-1v1v-1v1l-1-1h-1h-1v-1h-1h-1v-1
+			<path className="st0" d="M501,386h1v-1h1l-1,1h1v-1h-1h-1v-1v1v-1h-1h-1v1h-1v-1h-1v-1h-1h-1h-1h-1v-1v1v-1v1l-1-1h-1h-1v-1h-1h-1v-1
 				v-1h-1h-1v-1v-1h1h1v-1v1h1h1v-1h1h1h-1v-1h1h-1h1v-1v-1h1v-1h1h1v1h1h1v-1h1h1v-1h1h1v1v-1v1v-1v1h1h1h1h1v-1h1h1h1h1v-1h1h1h1
 				v-1h1h1h1v-1h1h1v-1h1h1h1v1h1v1l1,1v1v1v1v-1v1v1v1h1h-1h1v1h-1h1v1h1h-1h1v1h1h1h1v1h1l-1-1v-1h1v1h1v1v1v1h1v1h-1v-1h-1v1h1
 				h-1h-1v1h-1v1h-1v1v1v1h-1h-1v1h1h-1h1h-1h1v1v-1v1h-1h-1v1h1l-2,1v-1h-1h-1h-1l-1-1h-1v1v1l-1,1v1v1h-1h-1v-1v1v-1h-1v1v-1h-1h1
 				v-1h-1h-1h-1h1v-1h-1v-1h-1h-1v-1h-1v1h-1v1h-1h1h-1v1h-1l-1,1h-1v-1h-1v-1h-1v-1v-1h-1l1-1h1v-1h1h-1v-1H501"/>
 		</g>
 		<g id="local__municipality_42" label="Umzimvubu">
-			<path class="st0" d="M507,400h-1h-1v-1v1v-1h-1v-1h-1h1v-1h-1v-1h-1v1v-1h-1h1v-1h-1h-1v-1v-1h-1h1v-1h1v1h1l1-1h1v-1h1h-1h1v-1
+			<path className="st0" d="M507,400h-1h-1v-1v1v-1h-1v-1h-1h1v-1h-1v-1h-1v1v-1h-1h1v-1h-1h-1v-1v-1h-1h1v-1h1v1h1l1-1h1v-1h1h-1h1v-1
 				h1v-1h1v1h1h1v1h1v1h-1h1h1h1v1h-1h1v1v-1h1v1v-1v1h1h1v-1v-1l1-1v-1v-1h1l1,1h1h1h1v1l2-1v1h1h1v1v-1h1h1h1v1h1h1h1v1h1v-1h1h1
 				h1l1-1h1h1v1h1v1h-1v1h-1l-1,1v1h-1h1h-1h1v1h-1h1v1h-1v1h-1v1h-1h-1h-1l-1,1v-1h-1v1h-1v-1v1h-1h-1h-1h1v-1h-1l-1-1h-1v1h-1h-1
 				h-1v1h1v1h-1v-1v1v1v-1h1v1h-1v1v1h1v-1h1h1h1v1h-1h-1h-1v1h1h1v1h-1v1v-1h-1v1h-1v-1h-1v-1v1v-1h-1v1h-1v1v1h-1v-1h-1v1h-1v-1v1
 				h-1l-1-1h1h-1v-1h1v1v-1h-1v-1v-1h-1h1v-1h-1v1h-1v-1v-1v-1h-1h1h-1v-1v1h-1v-1v1v-1h-1V400"/>
 		</g>
 		<g id="local__municipality_43" label="Mbizana">
-			<path class="st0" d="M540,404h-1h-1v-1h1v-1v-1h1v1v-1v-1h-1h1h-1v-1h1h-1v-1h1l-1-1h1v-1h-1h1h-1v-1v-1h-1v-1h1v-1l1,1v-1v1v-1
+			<path className="st0" d="M540,404h-1h-1v-1h1v-1v-1h1v1v-1v-1h-1h1h-1v-1h1h-1v-1h1l-1-1h1v-1h-1h1h-1v-1v-1h-1v-1h1v-1l1,1v-1v1v-1
 				h1v1v1h1h1h1v-1h1v1h1v1h1h-1h1h1v-1v1h1v-1h-1h1v1v-1h1v1h-1h1v1v-1v1h1h-1h1v1h1v-1v1v-1v1h1v1v-1h1v1h-1h1v-1h1v1h-1v1h1h1v-1
 				v1v1h1v-1h1v1h-1h1v1v-1h1h1v1h1h-1v1h1h1v1h1v1v1v1v1h1v1v1h1v1h-1v1h-1v1h-1v1l-1,1v1h-1v1h-1h-1v-1h-1h-1v-1v1v-1h-1v-1h-1h-1
 				h-1v-1h-1v-1v1h-1v-1v1v-1v1h-1v-1h-1h-1v-1h-1v-1v1v-1h-1v1v-1h-1h-1h-1v-1v1v-1h-1v-1v-1v1v-1h-1h1h1v-1h-1h-1V404"/>
 		</g>
 		<g id="local__municipality_44" label="Ntabankulu">
-			<path class="st0" d="M537,394h1h1v1v1h1h-1h1v1h-1l1,1h-1v1h1h-1v1h1h-1h1v1v1v-1h-1v1v1h-1h-1h-1h-1h1v1v1h-1v1h-1v1v1h1h-1v1
+			<path className="st0" d="M537,394h1h1v1v1h1h-1h1v1h-1l1,1h-1v1h1h-1v1h1h-1h1v1v1v-1h-1v1v1h-1h-1h-1h-1h1v1v1h-1v1h-1v1v1h1h-1v1
 				h-1v1h1v-1h1v1h-1h-1v1v-1v1h-1h-1v1h1h-1v1v-1h-1v1h-1v1v-1v1v1h-1v-1h-1v1v1v1h-1v1v-1h1v1h-1h-1v-1v-1h-1v-1h1h-1h1v-1v1v-1h1
 				h-1l1-1h-1h-1v-1h-1v-1v-1h-1v-1h-1l-1-1h1v-1h1v1v-1h1v-1h-1h-1v-1h1h1h1v-1h-1h-1h-1v1h-1v-1v-1h1v-1h-1v1v-1v-1v1h1v-1h-1v-1
 				h1h1h1v-1h1l1,1h1v1h-1h1h1h1v-1v1h1v-1h1v1l1-1h1h1h1v-1h1v-1h1v-1h-1h1v-1h-1h1h-1h1v-1L537,394"/>
 		</g>
 		<g id="local__municipality_45" label="Ekurhuleni">
-			<path class="st0" d="M493,223h-1v1v-1h-1l-1-1v1h-1v-1h-1h-1l1,1v1v1h-1h-1h-1v1v-1v-1v1h-1v-1h-1v1l-1-1h-1v-1v-1h1h-1v-1h-1h1
+			<path className="st0" d="M493,223h-1v1v-1h-1l-1-1v1h-1v-1h-1h-1l1,1v1v1h-1h-1h-1v1v-1v-1v1h-1v-1h-1v1l-1-1h-1v-1v-1h1h-1v-1h-1h1
 				v-1v-1v-1h-1h1h1v-1h1v-1v-1h-1v-1h1v-1v-1v1h1v-1h1v-1v-1h-1v-1h1v-1h1v-1h-1h-1v-1h1v-1v-1h1h1l1,1v-1h2l1,2h1v-1h1h1v1h1h1v1
 				h-1h1v1h-1h1v1v-1v1h-1l1,1v1h1v-1h1v1l-1,1v1h1v1h1v1h-1v1v1v1v1v1v1h1h-1v1v1v1v1h1h-1h1h-1v1h-1h1v-1h-1h-1h-1l-1-1v1h-1h-1h1
 				v-1h1v-1H493v1V223"/>
 		</g>
 		<g id="local__municipality_46" label="Ethekwini">
-			<path class="st0" d="M588,372v-1h1l1-1v-1h-1v-1h-1v-1h-1h-1v1h-1h-1v-1v1v-1v1v-1h-1h1v-1h1h-1h-1v-1l1-1v-1h-1h1h-1v-1v1h-1v-1
+			<path className="st0" d="M588,372v-1h1l1-1v-1h-1v-1h-1v-1h-1h-1v1h-1h-1v-1v1v-1v1v-1h-1h1v-1h1h-1h-1v-1l1-1v-1h-1h1h-1v-1v1h-1v-1
 				v-1v-1h-1h-1v-1v-1v-1v-1h-1l1-1v-1v-1h2v-1v1h1v-1h1h-1h1v-1h1h1v-1v-1h1h1v1v-1h1v1v1h1v1v-1h1v1v-1v1v-1h1v-1h1v1h1v-1h1h1h1
 				v-1h1l1-1v1h1l1-1v-1h1h1h1v1v1v1v1h-1v1h-1v1v1h-1v1h-1v1v1h-1v1v1h-1v1v1h1v1v1h-1v1h-1v1h-1v1h-1v1h-1v1h-1v1h-1v1h-1v1v1h-1
 				v1v1h-1v1v1h-1v1h-1v-1h-1v-1h-1v-1v-1h1v1v-1h1h-1v-1h1H588"/>
 		</g>
 		<g id="local__municipality_47" label="Mohokare">
-			<path class="st0" d="M415,389h-1v1h-1h-1h-1h-1h-1v-1l1-1l1-2l-1-1v-1h-1v-1h-1v-1v-1h-1v-1h-1h-1h1l-1-1h-1v-1h1l-1-1h1v-1v-1
+			<path className="st0" d="M415,389h-1v1h-1h-1h-1h-1h-1v-1l1-1l1-2l-1-1v-1h-1v-1h-1v-1v-1h-1v-1h-1h-1h1l-1-1h-1v-1h1l-1-1h1v-1v-1
 				l-1-1v-1h1h-1v-1h1v-1h1v-1h1h1v-1l1-1h-1h1h-1v-1v-1l-1-1l-1-1l1-1h1v-1v-1h-1h-1v-1h1v-1h1v1h1v-1h1h1v-1h-1h1h1v-1h1v-1h1v-1
 				v-1h1v-1v-1h-1l-1-1h1v-1l1-1l1,1h1h1l1-1h1v1v1v1v1l1-1h2h1v-1v1v1h-1v1v1h1v1l1-1l1-1h1v1h1l1,1v1v1h-1v1v1h-1l1,1l1,1h1v1v1h1
 				l-1,1v1l1-1l1,1h1h-1v1h1h-1h-1v1h1v1h1h1v1h1l1,1h1h1v-1v-1l1,1h1h1v-1h1v-1h1h-1l1-1h1h1v-1h1h1v1h1h1v1h1v1v1v1h1v1h1h1h1v1
@@ -334,14 +334,14 @@ id="mapsalocal"
 				h-1h-1v-1v1h-1h-1v-1h1h-1h-1h-1h-1v-1h-1h-1v-1v1v-1h-1h1v-1h-1v-1h-1H415"/>
 		</g>
 		<g id="local__municipality_48" label="Naledi">
-			<path class="st0" d="M417,350h-1l-1-1l-1,1v1h-1h-1h-1h-1v-1v-1l-1-1h1l-1-1h-1h1h-1v-1h-1v-1v-1h1h1h1v-1v1h1h1h1h1v1h1h1v-1v-1
+			<path className="st0" d="M417,350h-1l-1-1l-1,1v1h-1h-1h-1h-1v-1v-1l-1-1h1l-1-1h-1h1h-1v-1h-1v-1v-1h1h1h1v-1v1h1h1h1h1v1h1h1v-1v-1
 				l1-1h1v1v-1l1-1v-1v1h1v-1h1v-1h1v-1h1h1h1l-1,1h1l-1,1v1h1v1h1v1v1h1h1l1,1v-1l1,1h1l1-1h1l1,1v1h1h1h1v1h-1v1h1l1-1l1,1h1v-1
 				l1,1v1h1h1v1h-1v1h-1v-1v1v1h-1v-1h-1v1h-1v1h1l1,1l1,1l1,1v1h1v2h1v2l1,1v1l1,1v1v1h1h-1h-1v1h-1h-1l-1,1h1h-1v1h-1v1h-1h-1
 				l-1-1v1v1h-1h-1l-1-1h-1v-1h-1h-1v-1h-1v-1h1h1h-1v-1h1h-1l-1-1l-1,1v-1l1-1h-1v-1v-1h-1l-1-1l-1-1h1v-1v-1h1v-1v-1l-1-1h-1v-1
 				h-1l-1,1l-1,1v-1h-1v-1v-1h1v-1v-1v1h-1h-2l-1,1v-1v-1v-1v-1h-1l-1,1H417"/>
 		</g>
 		<g id="local__municipality_49" label="Masilonyana">
-			<path class="st0" d="M442,303v1v1h1h-1h1v1h1h1v1v1h-1v1h1l1,1v1h1h-1v1v1v1v1v1l-1,1v1h1h1l-2,1v-1h-1v-1v-1h-1v1h-1v1v-1h-1h-1
+			<path className="st0" d="M442,303v1v1h1h-1h1v1h1h1v1v1h-1v1h1l1,1v1h1h-1v1v1v1v1v1l-1,1v1h1h1l-2,1v-1h-1v-1v-1h-1v1h-1v1v-1h-1h-1
 				v1v-1h-1h-1h-1h-1h-1h-1v1v1h-1v1v1l-1,1v1h-1v1h-1v1l-1,1l-1,1h1v1h-1v1l-1,1h-1h1h-1v-1v1h-1h-1v-1h-1v-2h-1v-1h-1v-1l-1,1h-1
 				v1v-1h-1v-1h-1h-1h-1v1h-1h-1v-1h-1l1-1v-1h-1h-1v1h-1h-1v-1h-1v-1h-1l-1-1h1h-1v-1v1h-1h-1v-1v-1h-1h-1v1v-1h-1v1v-1h-1v1l-1,1
 				v1h-1v-1h-1v-1v-1l-1,1h-1v-1v-1h1v-1v1h-1v-1v1l-1-1h-1h1v-1l1-1l1-1v-1h1v-1v-1l1-1h1h1h1h1h1l1-1v-1l1,1v-1h1h1v-1v-1h1h1h1
@@ -349,7 +349,7 @@ id="mapsalocal"
 				h1h1v1l-1,1h1l1-1v1h1v-1l-1-1h1v-1h1v-1h1h1v-1h1v1v1h1h1v1h1v1h1v1v1v1v1h-1v1h1h1h1h1h1H442"/>
 		</g>
 		<g id="local__municipality_50" label="Tokologo">
-			<path class="st0" d="M358,294l1-1v-1v-1l1-1h1v-1h1v-1h1v-1h-1v-1h1v-1h1v-1h1h1v-1l1-1h1h1v-1h-1v-1h1v-1h1h1l1,2l1,1l1,1h1h1v1
+			<path className="st0" d="M358,294l1-1v-1v-1l1-1h1v-1h1v-1h1v-1h-1v-1h1v-1h1v-1h1h1v-1l1-1h1h1v-1h-1v-1h1v-1h1h1l1,2l1,1l1,1h1h1v1
 				h-1h1v1h1h1h1v1v1h1h1l1,1h1v1h1l-1,1h-1v1h1v1h1h1l-1,1l1-1h1h1v1v1h1l-1,1l-1,1h1l1,1h1l-1,1v1v-1h-1v1v1v1v1h1v1h1v1h1l1,1h1
 				v1h1l1,1h1l1,1v-1h1h1h1h1v1v-1h1v1v1h-1v1h-1h-1l-1,1v1v1h-1v1l-1,1l-1,1v1h-1v1v1h-1v1l1,1h-1h-1l-1,1v1v-1v1h-1v-1v1h-1h-1h-1
 				h-1v-1h-1h-1v1v-1h-1h-1h-1v-1h-1v1h-1h-1v1h-1h-1h-1h-1h-1h-1v-1v1h-1v-1v1h-1v-1v1h-1h-1v1h-1l-1,1v-1h-1v1h-1l-1-2h-2h-1h-1v1
@@ -357,7 +357,7 @@ id="mapsalocal"
 				h-1v-1h-1v-1h-1h1h1v-1h1h1l1-1v-1V294"/>
 		</g>
 		<g id="local__municipality_51" label="Tswelopele">
-			<path class="st0" d="M392,272h1h1v-1h1v1v-1h1v1h1h1h-1v1h1h1v1v1h-1v1h1v1h1v-1h1v-1v1h1v1l1,1v1v1h1v1h-1v1h1l1-1v1h1h1v1h-1h1
+			<path className="st0" d="M392,272h1h1v-1h1v1v-1h1v1h1h1h-1v1h1h1v1v1h-1v1h1v1h1v-1h1v-1v1h1v1l1,1v1v1h1v1h-1v1h1l1-1v1h1h1v1h-1h1
 				l-1,2v1v1h1v1h1h1h1v1h1h1v2v-1h1h-1h1v1v-1v1v-1h1h1h-1v1h1v1h-1h1v1h1v1v1h1v1h-1h-1v1h1l-1,1v-1h-1v1v1h1v1h-1l1,1v-1h1v1v1
 				l-1-1v1h-1l1,1v1h1h-1v-1h-1h-1h-1h-1v1l-1,1v1h-1h-1h-1v1v1h-1h-1v1l-1-1v1l-1,1h-1h-1h-1v-1h1v-1v-1h-1v1v-1h-1h-1h-1h-1v1
 				l-1-1h-1l-1-1h-1v-1h-1l-1-1h-1v-1h-1v-1h-1v-1v-1v-1v-1h1v1v-1l1-1h-1l-1-1h-1l1-1l1-1h-1v-1v-1h-1h-1l-1,1l1-1h-1h-1v-1h-1v-1
@@ -365,7 +365,7 @@ id="mapsalocal"
 				v-1v-1h1h-1v-1h1h1v-1h1h1v-1h1h1h1v1V272"/>
 		</g>
 		<g id="local__municipality_52" label="Matjhabeng">
-			<path class="st0" d="M429,297h-1l1,1v1h-1v-1l-1,1h-1l1-1v-1h-1h-1h1v-1h-1h-1h-1l-1,1h1v1h1v1v1h1h-1v1h-1v-1h-1v-1h-1h-1h-1h-1
+			<path className="st0" d="M429,297h-1l1,1v1h-1v-1l-1,1h-1l1-1v-1h-1h-1h1v-1h-1h-1h-1l-1,1h1v1h1v1v1h1h-1v1h-1v-1h-1v-1h-1h-1h-1h-1
 				h-1h-1h-1h-1v-1v-1h1v1l1-1h-1v-1h1h1v-1h-1v-1v-1h-1v-1h-1h1v-1v-1h1v-1v1h1v1h1v-1v-1v-1v-1h1h-1v-1v-1h1h1v-1h-1h-1v-1h1l-1-1
 				h1h1v-1v-1v-1h-1v-1l1-1h-1v-1h1h1l1-1h1v-1l1-1v1h1h1l1,1h1l1-1h1v-1h1v-1h1v-1h1v-1v-2h1h1h1l-1,1h1h1v1h1v1h1h-1v1h-1v1h1v1
 				l-1,1h1v1l1-1v1v1h1l1,1v1h-1v1v1l1,1v1l1-1v1l1,1h1h1v-1v1v-1h1v1h1v-1h1v1h1h1v1h1l1-1l1,1h-1v1v1h1v1h1h1v1h1v1v1h1h-2h-1v2
@@ -373,14 +373,14 @@ id="mapsalocal"
 				v-1h-1h-1v-1v-1h-1v1h-1h-1v1h-1V297"/>
 		</g>
 		<g id="local__municipality_53" label="Nala">
-			<path class="st0" d="M418,263h1v-1h-1h-1h-1v-1v-1h1v-1v1h1h-1h1v-1v-1v-1h-1v-1h-1v-1h-1v-1v-1h1v1h1v-1v-1h1v1v-1h1v-1l1,1l1,2
+			<path className="st0" d="M418,263h1v-1h-1h-1h-1v-1v-1h1v-1v1h1h-1h1v-1v-1v-1h-1v-1h-1v-1h-1v-1v-1h1v1h1v-1v-1h1v1v-1h1v-1l1,1l1,2
 				h-1l1,1l1-1h1h1v1h1h1v1h1h1h-1v1v1h-1h1l1,1v1v1h-1h-1v1v1h1h1v1v1h1h1h-1l1,3h-1v-1v1h-1v1h1v1h1h1v1l1-1v1v1h-1v1h-1v1h-1
 				l-1,1h-1l-1-1h-1h-1v-1l-1,1v1h-1l-1,1h-1h-1v1h1l-1,1v1h1v1v1v1h-1h-1l1,1h-1v1h1h1v1h-1h-1v1v1h1h-1v1v1v1v1h-1v-1h-1v-1v1h-1
 				v1h-1v-1h1h-1h-1v1v-1v1v-1h-1h1h-1v1v-2h-1h-1v-1h-1h-1h-1v-1h-1v-1v-1l1-2h-1h1v-1h-1h-1v-1l-1,1h-1v-1h1v-1h-1v-1v-1l-1-1v-1
 				h-1v-1h1v-1h-1h-1h1v-1h1l-1-1v-1h1h1v-1h1v-1v1v-1h1v-1h1h1v-1v-1v-1h1v-1h1h1h1v-1h1h1h1h1h1h1H418"/>
 		</g>
 		<g id="local__municipality_54" label="Setsoto">
-			<path class="st0" d="M471,309h1v1h1v-1h1h1v1h1h1v1h1h1v1v1h1h-1v1h1v1v1l1,1h1v1h-1h1h-1v1v-1v1h-1v1v1v-1v1h-1v1h-1h-1h-1v-1
+			<path className="st0" d="M471,309h1v1h1v-1h1h1v1h1h1v1h1h1v1v1h1h-1v1h1v1v1l1,1h1v1h-1h1h-1v1v-1v1h-1v1v1v-1v1h-1v1h-1h-1h-1v-1
 				h-1h-1v1h1h-1h-1h1v1h-1v1h-1v-1h-1v1h-1v-1h-1h1h-1h-1v1h-1h1h-1v1v1h-1v1h-1v1v1h-1v-1v1h-1h1h1v1h-1h-1h1v1h-1h-1v-1v-1v-1h-1
 				h-1l-1-1l1-1h-1h-1v-1v-1v-1h-1v-1h-1v-1h-1h-1v1v-1h-1h-1v-1h-1v-1h-1l-1,1h-1h-1h1v-1h1l-2-1l-1,2v-1h-1h1h-1l2-1h-1h-1v-1l1-1
 				v-1v-1v-1v-1v-1h1h-1v-1l-1-1h-1v-1h1v-1v-1h-1h-1v-1h-1h1h-1v-1v-1h-1h-1h-1l1-1v-1h1v-1v-1h1v-1l1-1v1h-1h1h1v-1v1h1l1-1h1h1v1
@@ -388,28 +388,28 @@ id="mapsalocal"
 				l1,1v1h-1h-1l1,1h-1v1h1h1v1v1v1h-1v1h1v1h1v1v1h1v-1v1v1v1l-1,1v1h-1v1l1,1h1l-1,1v1V309"/>
 		</g>
 		<g id="local__municipality_55" label="Dihlabeng">
-			<path class="st0" d="M486,315h-1h-1v1h-1v1v-1h-1v1h-1l-1-1v-1v-1h-1v-1h1h-1v-1v-1h-1h-1v-1h-1h-1v-1h-1h-1v1h-1v-1h-1v-1v-1
+			<path className="st0" d="M486,315h-1h-1v1h-1v1v-1h-1v1h-1l-1-1v-1v-1h-1v-1h1h-1v-1v-1h-1h-1v-1h-1h-1v-1h-1h-1v1h-1v-1h-1v-1v-1
 				l1-1h-1l-1-1v-1h1v-1l1-1v-1v-1v-1v1h-1v-1v-1h-1v-1h-1h1v-1h1h1h1v1v-1h1h1h1h1h1v1h1v-1v-1v-1h1v-1h1h1v-1h1v1v-1h1v-1h1l1,1h1
 				h1h1v-1h1v-1v-1l1,1v1l1-1h1v-1h1l1-1v-1h1v1h1l1,1h1l1-1h1h1h1h1h1h1h1v-1v-1l1,1v-1h1v2h1l-1,1v1v1v1h-1h-1v1v-1h-1h1v1v1l-1,1
 				h1h-1l1,1h-1l-1,1h-1h-1v1h1v1h-1v1v1v1l1,1h-1l-1-1h-1v1h1l-1,1v1h1v1h1v1v-1v1h1h-1v1v1v1h-1v1h-1h-1h-1h-1v1v-1h-1h-1v1v-1v1
 				h-1v-1v1h-1v1h-1h-1v1h1h-1v1v-1v1h-1h-1v-1v1h-1h-1h-1H486"/>
 		</g>
 		<g id="local__municipality_56" label="Nketoana">
-			<path class="st0" d="M472,280v-1v-1v-1v-1h-1v-1v-1h1l1-1h1h1h1v-1h1v-1h1v-1h1h1h1v-1l1-1h1l1-1h1v-1v1h1h1h1v1v1v1h1v-1h1h1
+			<path className="st0" d="M472,280v-1v-1v-1v-1h-1v-1v-1h1l1-1h1h1h1v-1h1v-1h1v-1h1h1h1v-1l1-1h1l1-1h1v-1v1h1h1h1v1v1v1h1v-1h1h1
 				l1-1h1h1l1-1v1h1h1l-1,1v1h1l1,1l1-1v1v-1h1v-1h1v1h1v1l1,1v-1h1v-1h1v1h1h1v1h-1h1v1h1h-1h1v1h1v1h-1h-1v1h1v-1v1h-1v1h1v-1v1v1
 				v-1h1v1h-1v1v1h1v-1v1h1h-1v1v-1h-1v1h1v1v1h-1h-1v1h-1h1v1v1v1v1h-1h-1h-1h-1h-1h-1h-1l-1,1h-1l-1-1h-1v-1h-1v1l-1,1h-1v1h-1
 				l-1,1v-1l-1-1v1v1h-1v1h-1h-1h-1l-1-1h-1v1h-1v1v-1h-1v1h-1h-1v1h-1v1v1v1h-1v-1h-1h-1h-1h-1h-1v1v-1h-1h-1h-1v1h-1v-1h1v-1v-1
 				v-1h-1h-1v-1h1l-1-1h1h1v-1l-1-1h-1h-1v-1h-1v1v-1v-1l1-1h-1l1-1v-1h1v-1v1h1v-1v1v-1v1h1v1h1v-1h2v-1h-1v-1v-1V280"/>
 		</g>
 		<g id="local__municipality_57" label="Maluti_a_Phofung">
-			<path class="st0" d="M516,311h-1v1v1h-1v1h-1v1v1v1l-1,1v-1h-1h-1v1v-1v-1v-1h-1h-1v-1h-1h-1v-1h-1v-1h1h-1h1v-1h-1v-1h-1h-1v-1
+			<path className="st0" d="M516,311h-1v1v1h-1v1h-1v1v1v1l-1,1v-1h-1h-1v1v-1v-1v-1h-1h-1v-1h-1h-1v-1h-1v-1h1h-1h1v-1h-1v-1h-1h-1v-1
 				v-1v-1h1h-1v-1v1v-1h-1v-1h-1v-1l1-1h-1v-1h1l1,1h1l-1-1v-1v-1v-1h1v-1h-1v-1h1h1l1-1h1l-1-1h1h-1l1-1v-1v-1h-1h1v1v-1h1h1h1h1h1
 				h1h1v-1h1l1-1h1v-1h1v-1h1h1h1h-1h1v1h1h1h-1v-1h1h1h-1h1v-1v1v-1v1h1l1-1v-1h1v1l1,1v-1h1v-1h1v1v2v1l1,1h1v1h1v-1l1-1l1,1l1,1
 				h1l1,1h1v1l1,1h-1l-1,1v1v1h-1l-1,1h-1v1h-1v1v1h-1h-1h-1v1h-1v1h-1h-1h-1v1h-1v1h-1v1h1v1h-1v1l-1-1v1h-1h-1h-1h-1h-1h-1l-1,1
 				h-1V311"/>
 		</g>
 		<g id="local__municipality_58" label="Phumelela">
-			<path class="st0" d="M518,257h-1v-1v-1l1-1l-1-1l1-1l-1-2l1-1v-1h1h-1h1v-1v1h1v1v1v1h1v1h1v1h-1h1v1h1v-1h1h1h1h1h-1h1v1h-1h1
+			<path className="st0" d="M518,257h-1v-1v-1l1-1l-1-1l1-1l-1-2l1-1v-1h1h-1h1v-1v1h1v1v1v1h1v1h1v1h-1h1v1h1v-1h1h1h1h1h-1h1v1h-1h1
 				h-1h1v1h1h-1h1v-1v1h1v1h1v-1h1v1v-1v1v1h-1v1h1v-1h1h1h1h1v1h1h-1h1v1v-1v1v1h1v1v1v-1v1h1v1v-1h1v1h-1h1v1h1v1v1v-1v1h1v1h1h1
 				h1h1h1h-1v-1v-1h1v-1h1v1h1h-1h-1v1h-1h1l1,1h-1v1h1h1v1v1h1h-1v1h1h-1h-1v1v-1l-1,1l-1,1h-1v1h1v1h1v1v1h-1h1l-1,1h1v1v1h-1v1v1
 				v1h-1v1h-1h1v1v1h-1v1v1l-1,1l1,1v1l1,1h-1l1,1v1h-1h-1v1v1v1h-1h-1h-1h-1v1v-1v-1l1-1h1l-1-1v-1h-1l-1-1h-1l-1-1l-1-1l-1,1v1h-1
@@ -419,14 +419,14 @@ id="mapsalocal"
 				/>
 		</g>
 		<g id="local__municipality_59" label="Mantsopa">
-			<path class="st0" d="M441,343l1-1h-1v-1h-1v-1l-1,1v1h-1h-1h-1v-1v-1h-1v-1h1v-1v-1h1h-1h-1v-1v-1v-1v-1h1h1v-1h1v-1h1h-1l1-1h1
+			<path className="st0" d="M441,343l1-1h-1v-1h-1v-1l-1,1v1h-1h-1h-1v-1v-1h-1v-1h1v-1v-1h1h-1h-1v-1v-1v-1v-1h1h1v-1h1v-1h1h-1l1-1h1
 				v-1h-1v-1h-1h-2v-1v-1v-1v-1h-1v-1l-1,1h-2h-1v-1h1v-1l1-1v-1v-1h1v-1v-1h1h1h1h1h1h1v1v-1h1h1v1v-1h1v-1h1v1v1h1v1h1h-1h1v1l1-2
 				l2,1h-1v1h-1h1h1l1-1h1v1h1v1h1h1v1v-1h1h1v1h1v1h1v1v1v1h1h1l-1,1l1,1h1h1v1v1v1h1h1h-1v1h-1v1h1h-1v1v-1h-1v1h-1v1h-1v1h-1h1h1
 				v1h-1v1h-1h-1v1h1h-1v-1h-1v1h1v1h-1h-1v1v1v-1h-1v1h1v1h-1v1h-1v1h-1v1h-1h-1v1v1h-1h-1v1h-1v-1v1h-1h-1h-1v1h-1v-1h-1h-1v-1
 				l-1-1v1h-1l-1-1l-1-1l1-1l-1-1v-1h1v-1l1,1l1,1h1V343"/>
 		</g>
 		<g id="local__municipality_60" label="Moqhaka">
-			<path class="st0" d="M452,243h1v1l-1,1v1v1v1v1v1h1v1v1h1h-1l1,1h-1l1,1h1v1h-1h-1l1,2h-1v1v1h-1h-1h-1h-1h-1v-1h-1h-1h-1v1h-1v1
+			<path className="st0" d="M452,243h1v1l-1,1v1v1v1v1v1h1v1v1h1h-1l1,1h-1l1,1h1v1h-1h-1l1,2h-1v1v1h-1h-1h-1h-1h-1v-1h-1h-1h-1v1h-1v1
 				h1v1h-1h-1l1,1h1v1h1v1h-1h1v1l1,1h1h1h1v1h1h1h1h1h-1v-1h1v-1v1h1h1l-1,1h1v1v1h-1v1h1v1h1h-1l1,1h-2h1h1h1h1h1h1l1,1h1v1v1h-1
 				l-1,1v1v1h1v1h1v1h1l1-1h1h1h1h1h1v-1l1,1h1v1v1v1v1h1v1h-2v1h-1v-1h-1v-1v1v-1v1h-1v-1v1h-1v1l-1,1h1l-1,1v1v1h-1h-1v1h1v1l1,1
 				h-1h-1v1v1v1v-1h-1h-1v1v1v1v1v-1l-1,1h-1h-1h-1v-1h-1v1v-1h-1v1v-1v-1h-1h-1v1l-1-1v-1v-1v-1h1v-2h1h2h-1v-1v-1h-1v-1h-1h-1v-1
@@ -436,7 +436,7 @@ id="mapsalocal"
 				h1h1h-1h1h1v-1h1v1h1v1h1v-1v-1v-1v-1h1v1h1v1h1v1h1h1h1h1v-1h1v1h1v-1h1v1v1h1v-1h1v-1h1v-1h1v-1h1v-1h1v1h1h-1h1V243"/>
 		</g>
 		<g id="local__municipality_61" label="Ngwathe">
-			<path class="st0" d="M455,255v-1h-1l-1-1h1l-1-1h1h-1v-1v-1h-1v-1v-1v-1v-1v-1l1-1h1h1v-1h1h1v-1v-1h1v-1h1h-1v-1h1h1v-1v1h1v-1
+			<path className="st0" d="M455,255v-1h-1l-1-1h1l-1-1h1h-1v-1v-1h-1v-1v-1v-1v-1v-1l1-1h1h1v-1h1h1v-1v-1h1v-1h1h-1v-1h1h1v-1v1h1v-1
 				v-1h1h1v1h1h1h1v2h-1v1h1h1v1v1h1l1,1v1v1l1,1h1v1v-1h1h1v-1v-1l1,1h1v1h1v1l1,1h1h1v-1h1v1v1h1v1h1v1h1v1h1h1v1h1h1v1h1h1v1
 				l-1,1v1h-1v1l1,1v1h1v1v-1v1v1v1h-1v1v1v1h-1h-1h-1v-1v1h-1l-1,1h-1l-1,1v1h-1h-1h-1v1h-1v1h-1v1h-1h-1h-1l-1,1h-1v1v1h1v1v1v1
 				h-1l-1-1v1h-1h-1h-1h-1h-1l-1,1h-1v-1h-1v-1h-1v-1v-1l1-1h1v-1v-1h-1l-1-1h-1h-1h-1h-1h-1h-1h2l-1-1h1h-1v-1h-1v-1h1v-1v-1h-1
@@ -444,78 +444,78 @@ id="mapsalocal"
 				l-1-2h1H455"/>
 		</g>
 		<g id="local__municipality_62" label="Metsimaholo">
-			<path class="st0" d="M481,241h1h1v1h-1v1h1h1h1h-1v-1v-1h1v1v1h1v1h1v-1h1v1h1v1h1v-1h1v1h-1h1h1h1h1v1l1,1h-1v1h-1h-1v1h-1h-1
+			<path className="st0" d="M481,241h1h1v1h-1v1h1h1h1h-1v-1v-1h1v1v1h1v1h1v-1h1v1h1v1h1v-1h1v1h-1h1h1h1h1v1l1,1h-1v1h-1h-1v1h-1h-1
 				h-1v1h1v1v1h-1v1h-1v1v1h-1v-1h-1h-1v-1h-1h-1v-1h-1v-1h-1v-1h-1v-1v-1h-1v1h-1h-1l-1-1v-1h-1v-1h-1l-1-1v1v1h-1h-1v1v-1h-1l-1-1
 				v-1v-1l-1-1h-1v-1v-1h-1h-1v-1h1v-2h1h1v1h1h-1v-1h1h-1h1v-1h1h1h1h1v-1h1h-1h1h1v-1v-1h1h1v1h1v1h-1v1h1v1h1v1h-1h1h1v1h1V241"
 				/>
 		</g>
 		<g id="local__municipality_63" label="Mafube">
-			<path class="st0" d="M505,270h-1v1h-1v1l-1-1v-1h-1v-1h-1v1h-1v1v-1l-1,1l-1-1h-1v-1l1-1h-1h-1v-1l-1,1h-1h-1l-1,1h-1h-1v1h-1v-1
+			<path className="st0" d="M505,270h-1v1h-1v1l-1-1v-1h-1v-1h-1v1h-1v1v-1l-1,1l-1-1h-1v-1l1-1h-1h-1v-1l-1,1h-1h-1l-1,1h-1h-1v1h-1v-1
 				v-1v-1v-1v-1v-1h1v-1v-1v-1v1v-1h-1v-1l-1-1v-1h1v-1l1-1v-1h-1v-1v-1h1v-1h1v-1v-1h-1v-1h1h1h1v-1h1h1h1v-1h1v-1h-1h1v1v-1h1h-1
 				v-1h1v1h1v1v1h1v1h1h-1v1h1v-1h1v-1h1h1h1v-1h-1h-1v-1h1v-1h1v1h1h1v1h1h1l1,1h-1h1h1v1h1l1-1v1h1v1v-1v-1h1h1h1v-1h1h1v1v1l-1,1
 				l1,2l-1,1l1,1l-1,1v1v1h1v1l-1-1h-1v1v1h-1l-1,2v1l1,1h-1v1l-1-1v1v1h-1h-1v1h-1h-1h-1v1v1h-1v1v1v1h-1h-1V270"/>
 		</g>
 		<g id="local__municipality_64" label="Emfuleni">
-			<path class="st0" d="M471,228v-1h1v1h1v1v-1h1v1h1h1h1v1h-1v1h1v1h-1v1h1h1v1h1h-1h1v1h-1v1v-1h-1v-1h-1h-1v1v1h-1h-1h1h-1v1h-1
+			<path className="st0" d="M471,228v-1h1v1h1v1v-1h1v1h1h1h1v1h-1v1h1v1h-1v1h1h1v1h1h-1h1v1h-1v1v-1h-1v-1h-1h-1v1v1h-1h-1h1h-1v1h-1
 				h-1h-1h-1v1h-1h1h-1v1h1h-1v-1h-1h-1h-1h-1h-1v-1h-1h-1v-1h1v-1l-1,1v-1v-1v-1v-1h1h1h1h1v-1v-1v-1v-1h1v1v-1v-1v-1v-1h1h1v-1h1
 				l1,1h-1v1v-1h-1v1v1h1h1h1V228"/>
 		</g>
 		<g id="local__municipality_65" label="Midvaal">
-			<path class="st0" d="M475,224v-1h-1v1h-1l1-1h-1h1v-1h1h1v-1h1h1h1l1,1v-1h1v1h1h-1v1v1h1l1,1v-1h1v1h1v-1v1v1v-1h1v1h1v1h1v1
+			<path className="st0" d="M475,224v-1h-1v1h-1l1-1h-1h1v-1h1h1v-1h1h1h1l1,1v-1h1v1h1h-1v1v1h1l1,1v-1h1v1h1v-1v1v1v-1h1v1h1v1h1v1
 				l1-1h1h1h-1v1v-1v1h-1v1h1h-1h-1h-1h-1v1h-1v1l1,1v1h1l1-1v1h1v1h1h1h1v-1h1h1v1h-1v2l1,1v1h-1h-1h-1v1h-1v1h1v1h-1v1h-1h-1h-1
 				l1,1h-1v1h-1v-1h-1v-1v-1h-1v1v1h1h-1h-1h-1v-1h1v-1h-1h-1v-1h-1v-1h-1h-1h1v-1h-1v-1h-1v-1h1v-1v1v-1h1v-1h-1h1h-1v-1h-1h-1v-1
 				h1v-1h-1v-1h1v-1h-1h-1h-1v-1h-1v1v-1v-1v-1v-1h1v1v-1h1V224"/>
 		</g>
 		<g id="local__municipality_66" label="Lesedi">
-			<path class="st0" d="M510,221h1v1h1v1l-1,1h-1h-1v1v1h-1v1v1h-1h-1h-1h-1h-1v1h-1h-1v-1h-1h1h-1h-1v-1v1v-1v1v1v1v1h-1v1h-1v1h-1
+			<path className="st0" d="M510,221h1v1h1v1l-1,1h-1h-1v1v1h-1v1v1h-1h-1h-1h-1h-1v1h-1h-1v-1h-1h1h-1h-1v-1v1v-1v1v1v1v1h-1v1h-1v1h-1
 				h-1v1h-1v-1h-1h-1v1h-1h-1h-1v-1h-1v-1l-1,1h-1v-1l-1-1v-1h1v-1h1h1h1h1h-1v-1h1v-1v1v-1h1h-1h-1l-1,1v-1h-1v-1h-1v-1h1h1v-1v-1
 				l-1-1h1h1v1h1v-1l1,1h1v1v-1h1v1v-1h1v1h-1v1h-1h1h1v-1l1,1h1h1h1v1h-1h1v-1h1h-1h1h-1v-1v-1v-1v-1h1h-1v-1v-1v-1v-1v-1v-1h1v-1
 				v1v1v1h1h1h1v1h1v1l1,1h1v1h1h1v-1h1h1h1V221"/>
 		</g>
 		<g id="local__municipality_67" label="Mogale_City">
-			<path class="st0" d="M474,202v1h-1v1h1h1v1h-1v1h1v1v1h-1v1v1h-1h-1h1h-1v1v-1h-1h1v1h-1v1v1v1h-1h1l-1,1v-1v1h-1v1h-1l-1-1h1v-1
+			<path className="st0" d="M474,202v1h-1v1h1h1v1h-1v1h1v1v1h-1v1v1h-1h-1h1h-1v1v-1h-1h1v1h-1v1v1v1h-1h1l-1,1v-1v1h-1v1h-1l-1-1h1v-1
 				h-1v-1l-1-1h-1v-1v1h-1h-1h-1v-2v1l-2,1v-1v-1h-1v1h-1h-1h-1h-1v-1v-1v-1h1v-1v-1v-1v-1v-1h1l-1-1h1h1h1h1v-1h1h1v-1h1v-1h1v1h-1
 				h1v1l1,1v1l1-1h1l1,1h1l1-1h1h1v-1v-1h1v1v1H474"/>
 		</g>
 		<g id="local__municipality_68" label="Randwest">
-			<polygon class="st0" points="471,220 471,221 470,221 470,222 468,222 468,225 466,225 466,228 465,228 465,232 461,232 461,231 
+			<polygon className="st0" points="471,220 471,221 470,221 470,222 468,222 468,225 466,225 466,228 465,228 465,232 461,232 461,231 
 				462,231 462,227 463,227 463,225 462,225 461,226 460,226 460,225 459,225 460,224 459,224 459,223 460,223 460,221 459,221 
 				459,219 457,219 457,211 459,211 459,210 460,210 460,212 462,211 462,212 466,212 467,213 467,214 468,214 468,215 467,215 
 				466,216 467,216 467,217 468,218 468,219 470,219 470,220 			"/>
 		</g>
 		<g id="local__municipality_70" label="Merafong_City">
-			<path class="st0" d="M459,223v1h1l-1,1h1v1h1l1-1h1v1v1h-1v1v1v1v1h-1h-1v-1v1h1v1v1h-1h-1h-1h-1h-1h-1h-1v-1h-1v-1v-1h-1h-1v1
+			<path className="st0" d="M459,223v1h1l-1,1h1v1h1l1-1h1v1v1h-1v1v1v1v1h-1h-1v-1v1h1v1v1h-1h-1h-1h-1h-1h-1h-1v-1h-1v-1v-1h-1h-1v1
 				l1,1h-1h-1h-1v1h-1h-1v-1v-1v-1h-1h-1v-1h-1v-1h1h1h1v-1v-1v-1v-1h-1l-1-1l1-1h1v-1h1v-1h1h1v-1h1v-1l-1-1v-1v-1v-2h1v1h1v-1v-1
 				h1h1h1v-1h1h1v1v1v1v1v1h-1h1v1v1v1h1h1v1v1h1v1v1H459"/>
 		</g>
 		<g id="local__municipality_71" label="City_of_Johannesburg">
-			<path class="st0" d="M471,221v-1h-1v-1h-1v1v-1h-1v-1l-1-1v-1h-1h1h-1l1-1l1,1h1v-1h1v-1v1l1-1h-1h1v-1v-1v-1h1v-1h-1h1v1v-1h1
+			<path className="st0" d="M471,221v-1h-1v-1h-1v1v-1h-1v-1l-1-1v-1h-1h1h-1l1-1l1,1h1v-1h1v-1v1l1-1h-1h1v-1v-1v-1h1v-1h-1h1v1v-1h1
 				h-1h1h1v-1v-1h1v-1v-1h-1v-1h1v-1h1h1v1h1v-1h1v1h1h1v-1v1h1h1h1l1-1v1v1h-1v1h1h1v1h-1v1h-1v1h1v1v1h-1v1h-1v-1v1v1h-1v1h1v1v1
 				h-1v1h-1h-1h1v1v1v1h-1v1l-1-1h-1h-1h-1v1h-1h-1v1h-1h1l-1,1h1v-1h1v1v1h-1v1v-1h-1v1v1v1h-1v-1h-1v1v-1h-1h-1h-1v-1v-1h1v1v-1h1
 				l-1-1h-1v-1v-1h1h1v-1H471"/>
 		</g>
 		<g id="local__municipality_72" label="Vulamehlo">
-			<path class="st0" d="M574,373v-1l1-2h1v1v-1h1v1v-1h1h1v1h-1h1v1h1v-1h1l1-1v-1h1v1h1v-1v-1v-1v1v-1v1h1h1v-1h1h1v1h1v1h1v1l-1,1
+			<path className="st0" d="M574,373v-1l1-2h1v1v-1h1v1v-1h1h1v1h-1h1v1h1v-1h1l1-1v-1h1v1h1v-1v-1v-1v1v-1v1h1h1v-1h1h1v1h1v1h1v1l-1,1
 				h-1v1h-1h-1v1h1h-1v1v-1h-1v1v1h-1h-1h1v1v1h-1v1v1v1h-1v1h-1v1h1h-1v1v-1v1h-1v-1h-1v1h-1v-1h-1v-1v-1l-1-1h-1h-1h-1v1h-1h-1v-1
 				h-1l1-1v-1h1v-1v-1l1-1v1h1v-1h1v-1H574"/>
 		</g>
 		<g id="local__municipality_73" label="Umdoni">
-			<path class="st0" d="M582,382h-1v-1h1v-1h1v-1v-1v-1h1v-1v-1h-1h1h1v-1v1h1v1h1v1h1h-1v1v1v-1v1h-1v1v1h-1v1h-1v1v1h-1v1v1h-1h-1
+			<path className="st0" d="M582,382h-1v-1h1v-1h1v-1v-1v-1h1v-1v-1h-1h1h1v-1v1h1v1h1v1h1h-1v1v1v-1v1h-1v1v1h-1v1h-1v1v1h-1v1v1h-1h-1
 				v-1v-1h-1v-1v-1v1v-1v1h1v-1v1v-1H582"/>
 		</g>
 		<g id="local__municipality_74" label="Umzumbe">
-			<path class="st0" d="M581,388v1h-1v-1h-1h-1h-1v1h1h-1v1h-1h-1v-1v1v-1h-1v1v1h-1h-1v-1h-1v-1v1v1v1h-1v-1h-1v1h-1v-1h-1h-1h1v1
+			<path className="st0" d="M581,388v1h-1v-1h-1h-1h-1v1h1h-1v1h-1h-1v-1v1v-1h-1v1v1h-1h-1v-1h-1v-1v1v1v1h-1v-1h-1v1h-1v-1h-1h-1h1v1
 				h-1h-1v-1h-1h-1v1h-1v-1h1v-1h1v-1h-1h1v-1h-1v1h-1v-1h-1h-1h1v-1h-1v-1h1h1h-1h-1h-1v1v-1v-1v-1h1h1v-1h1v-1h1h1h1h1l1-1h1h1v-1
 				l1-1h1v1h1h1v-1h1h1h1l1,1v1v1h1v1h1v-1h1v1v-1v1v1h1v1v1h1v1h-1V388"/>
 		</g>
 		<g id="local__municipality_75" label="UMuziwabantu">
-			<path class="st0" d="M563,389h1v1h-1v1h-1v1h-1h-1h-1h-1v1h1h1v-1v1v1v1h-1v-1v1h-1l-1,1h1v1h-1v1v1h-1v-1v1h-1h-1v-1h1v-1h-1v1
+			<path className="st0" d="M563,389h1v1h-1v1h-1v1h-1h-1h-1h-1v1h1h1v-1v1v1v1h-1v-1v1h-1l-1,1h1v1h-1v1v1h-1v-1v1h-1h-1v-1h1v-1h-1v1
 				h-1h1v-1h-1v1v-1h-1v-1v1v-1v1h-1v-1h-1h1h-1v-1v1v-1h-1h1v-1h-1v1v-1h-1h1v1h-1v-1v1h-1h-1h1h-1v-1h-1v-1h-1v1h-1h-1h-1v-1v-1
 				h-1v1v-1l1-1v-1h1v-1h1v-1v-1h1h1h1h1h1h1h1v1h1l1,1h1l1-1v1h1v1v-1h1v-1h1v-1v-1h1v-1h1v1v1v-1h1h1h1h-1h-1v1h1v1h-1h1h1v1H563
 				v-1h1v1H563"/>
 		</g>
 		<g id="local__municipality_76" label="Ray_nkonyeni">
-			<polygon class="st0" points="580,388 580,390 579,390 579,392 578,392 578,393 577,393 577,394 576,394 576,396 575,396 575,397 
+			<polygon className="st0" points="580,388 580,390 579,390 579,392 578,392 578,393 577,393 577,394 576,394 576,396 575,396 575,397 
 				574,397 574,399 573,399 573,400 572,400 572,401 571,401 571,402 570,403 570,404 569,404 569,405 568,405 568,407 567,407 
 				567,408 566,408 566,409 564,409 564,407 563,407 563,403 562,403 562,402 560,402 560,400 558,400 558,399 557,399 557,397 
 				558,397 558,396 557,396 558,395 560,395 560,393 558,393 558,392 562,392 562,391 565,391 565,392 567,392 567,391 568,391 
@@ -523,7 +523,7 @@ id="mapsalocal"
 				"/>
 		</g>
 		<g id="local__municipality_77" label="Dr_Beyers_Naude">
-			<polygon class="st1" points="366,496 364,496 364,497 361,497 360,496 354,496 354,497 353,497 353,498 352,500 352.4,500.4 
+			<polygon className="st1" points="366,496 364,496 364,497 361,497 360,496 354,496 354,497 353,497 353,498 352,500 352.4,500.4 
 				352,501 352,503 351,503 351,507 349,507 349,506 347,506 346,507 346,508 344,508 344,509 345,510 348,510 347,511 343,511 
 				343,512 342,512 341,511 340,512 340,514 339,515 339,517 338,516 336,516 335,515 333,515 333,514 330,514 330,515 328,515 
 				327,516 325,516 324,515 321,515 321,513 318,513 318,512 313,512 313,511 311,511 310,510 307,510 306,509 305,509 304,508 
@@ -544,7 +544,7 @@ id="mapsalocal"
 				362,484 361.4,485 361,485 362,486 362,487 363,488 363,490 365,490 365,495 			"/>
 		</g>
 		<g id="local__municipality_78" label="Blue_Crane_Route">
-			<path class="st0" d="M405,479v1V479v1h1h-1h1h1v1h1h1h1v1h-1v1h-1l-1,1h-1h-1h-1h-1v1h-1v1h-1v1h-1l-1,1h1h-1v1h-1v1h-1v-1v1v1
+			<path className="st0" d="M405,479v1V479v1h1h-1h1h1v1h1h1h1v1h-1v1h-1l-1,1h-1h-1h-1h-1v1h-1v1h-1v1h-1l-1,1h1h-1v1h-1v1h-1v-1v1v1
 				h-1v1v1h1h1h-1v1h1h-1v1h1l1,1v1h-1v1h-1h-1h-1h-1h-1v-1h-1v1v-1h-1h-1h-1h-1h-1h-1h-1l-1,1l-1-1h-1h-1h-1h-1h-1h-1h-1h-1l-1-1
 				h-1h-1h-1h-1h-1h-1h-1h-1l-1-1v-2v-1v-1v-1h-1h-1v-1v-1l-1-1v-1l-1-1h1v-1h1h-1h-1v-1h-1l-1-1l1-1h1h1v-1h-1l-1-1h-1h-1v-1v-1h-1
 				h-1v-1h-1v-1h-1h-1h-1h-1h-1v-1h-1h-1h-1l-1-1v1h-1h-1h-1h-1h-1h-1v1h-1l-1,1h-1h-1l-1-1l1-1v-1l1-2v-1h-1v-1h1l1,1h1v-1h1v-1h1
@@ -553,19 +553,19 @@ id="mapsalocal"
 				v-1h1l1,1h1l1,1v1h-1v1h-1h-1v1l-1,1h1h1v1h-1v1v1v1h1l1-1h1h1h1h1h1v1h1v1h-1h-1L405,479"/>
 		</g>
 		<g id="local__municipality_79" label="Makana">
-			<path class="st0" d="M422,505l-1,1v1l-1,1h-2h1v-1v1h-1l1-1h-1h-1h-1h-1v1h-1h-1l-1-1h-1v-1h-1h-1h-1h-1v1v-1v1l-1-1h-1v1h-1h-1
+			<path className="st0" d="M422,505l-1,1v1l-1,1h-2h1v-1v1h-1l1-1h-1h-1h-1h-1v1h-1h-1l-1-1h-1v-1h-1h-1h-1h-1v1v-1v1l-1-1h-1v1h-1h-1
 				v-1v-1h1h-1h-1h-1h-1v-1v-1h1h-1v-1v-1v-1h1v-1h-1h-1l-1-1v-1h1v-1l-1-1h-1v-1h1h-1v-1h1h-1h-1v-1v-1h1v-1v-1v1h1v-1h1v-1h1h-1
 				l1-1h1v-1h1v-1h1v-1h1h1h1h1l1-1h1h1h1h1h1v1l1,1l1-1h1v-1v1h1v1h1v-1v-1h1v1v1h1h1v-1h1v1v1h-1h1h1v1h1h-1v1h1v-1h1v1h1v-1h1v1
 				h1v-1h1v-1v-1h1v1v1v1h-1v1h1v-1v-1h1v1v1h1v-1v-1h1v1v1h-1v1v1v-1h-1v1v1h1v1h1h-1v1h1v-1v-1h1v1v1h1v-1v-1h1v1v1h1v1h-1h1h1v1
 				h-1h-1h-1h1v1h-1h-1h-1v1h-1v-1h-1h-1v1h-1h-1v1h1h1v1h-1v-1h-1h-1v1v1v-1v1h-1h-1v1h-1h-1v1l1,1v1h-1H422"/>
 		</g>
 		<g id="local__municipality_80" label="Ndlambe">
-			<path class="st0" d="M435,509h-1v1h-1v1h-1h-1h-1h-1h-1v1h-1h-1v1h-1h-1v1h-1h-1v1h-1h-1v1h-1v-1l-1,1h-1v-1v-1h-1v-1l-1,1h-1
+			<path className="st0" d="M435,509h-1v1h-1v1h-1h-1h-1h-1h-1v1h-1h-1v1h-1h-1v1h-1h-1v1h-1h-1v1h-1v-1l-1,1h-1v-1v-1h-1v-1l-1,1h-1
 				l-1-1h-1v-1v-1h1h-1h-1h1v-1h1v-1v-1h1h1v-1h1h1h1h1l-1,1h1v-1v1h-1h2l1-1v-1l1-1h1h1v-1l-1-1v-1h1h1v-1h1h1v-1v1v-1v-1h1h1v1h1
 				v-1h-1h-1v-1h1h1v-1h1h1v1h1v-1h1h1h1v-1h-1h1h1h1v1v1v1h-1v1h1v1h1v1h1v1h1v1h1v1h1v1h-1v1h-1h-1v1h-1h-1h-1h-1v1v-1v1H435"/>
 		</g>
 		<g id="local__municipality_81" label="Sundays_River_Valley">
-			<path class="st0" d="M400,502v1h1h-1v1v1h1h1h1h1h-1v1v1h1h1v-1h1l1,1v-1v1v-1h1h1h1h1v1h1l1,1v1v1h-1v1h-1h1h1h-1v1v1h1l1,1h1
+			<path className="st0" d="M400,502v1h1h-1v1v1h1h1h1h1h-1v1v1h1h1v-1h1l1,1v-1v1v-1h1h1h1h1v1h1l1,1v1v1h-1v1h-1h1h1h-1v1v1h1l1,1h1
 				l1-1v1h1v1v1h1l1-1v1h-1h-1h-1h-1h-1h-1h-1h-1h-1h-1v-1h-1h-1h-1v-1h-1h-1h-1h-1h-1h-1h-1h-1h-1h-1h-1h-1h-1h-1h1v-1l-1-1h-1v1
 				h-1h-1v-1h-1v-1v-1h-1h-1v1v-1h-1h1v1h-1v-1h-1h-1h1v-1h-1h-1h-1v1v1l-1-1h-1h-1v-1h1v-1h-1h-1h-1h-1h-1h-1h-1v1v1h-1l1,1h-1l1,1
 				v1v1h-1h-1h1h-1v-1h-1h-1h1v1v-1v1h1h1l-1,1v1h1h-1h-1v1v1h-1v1h-1v-1h-1h-1h-1v-1h-1h-1h-1v-1h-1v-1h-1h-1v-1h-1l-1-1h-1l-1-1
@@ -573,20 +573,20 @@ id="mapsalocal"
 				h1h1h1h1h1h1h1h1h1h1l1,1h1h1h1h1h1h1h1h1l1,1l1-1h1h1h1h1h1h1h1v1v-1h1v1h1h1h1h1h1l1,1h1h1v1h-1v1V502"/>
 		</g>
 		<g id="local__municipality_83" label="Kouga">
-			<path class="st0" d="M345,532h-1h-1v1h-1h-1v-1h-1h-1h-1h-1v-1h-1h1v-1v-1l1,1h1v-1h1l-1-1l-1-1h1h1l1,1h1h1v-1h1h-1v-1l-1-1h-1
+			<path className="st0" d="M345,532h-1h-1v1h-1h-1v-1h-1h-1h-1h-1v-1h-1h1v-1v-1l1,1h1v-1h1l-1-1l-1-1h1h1l1,1h1h1v-1h1h-1v-1l-1-1h-1
 				h-1v-1h-1l-1-1h1h-1l1-1v-1h2h1v-1h1h1v-1l1-1h-1v-1h-1h-1h-1v-1h-1v1h-1v-2l1-1v-1v-1l1-1l1,1h1v-1h1h1h2l1-1h1h1h1l1,1v1h1h1
 				l1,1h1l1,1h1v1h1h1v1h1v1h1h1h1v1h1h1h1v1h1v1h-1l1,1h1h-1h-1h-1v1h1v1h1v1h-1h-1h-1h-1h-1h-1h-1h-1h-1h-1v1h-1h-1v1v1v1h-1v1h-1
 				v1h-1v1h-1v1v1h1h-1v1h-1v-1v1v-1h-1h-1h-1h-1h-1h-1V532"/>
 		</g>
 		<g id="local__municipality_84" label="Kou-Kamma">
-			<path class="st0" d="M307,520h-1l-2-1h-1h-2v-2h-1h-1h-1v1h-1l-1-1h-1l1-1v-1l1-1h1h1h1l1-1v-1h1h2h1h1v-1v-1l-2-1v-1l1,1h1l1,1
+			<path className="st0" d="M307,520h-1l-2-1h-1h-2v-2h-1h-1h-1v1h-1l-1-1h-1l1-1v-1l1-1h1h1h1l1-1v-1h1h2h1h1v-1v-1l-2-1v-1l1,1h1l1,1
 				h1h1h1l1,1h1h1v1h1h1h1h1h1v1h1h1h1v1v1h1h1h1l1,1h1h1l1-1h1h1v-1h1h1h1h1h-1v1h1h1l1,1h1h1l1,1h1v-1h1v1h1h1h1v1h1l-1,1v1h-1h-1
 				v1h-1h-2v1l-1,1h1h-1l1,1h1v1h1h1l1,1v1h1h-1v1h-1h-1l-1-1h-1h-1l1,1l1,1h-1v1h-1l-1-1v1v1h-1v-1h-1h-1v-1h-1v1v-1h-1h-1h-1h-1
 				v-1h-1v1v-1v1v-1h-1h-1h-1h-1h-1h-1v-1v1v-1h-1h-1h-1h-1h-1h-1h-1v-1v1h-1v-1h-1h-1h-1h-1h-1h-1v-1v1v-1h-1h-1h-1v-1h-1v-1h1h-1
 				h1v-1h-1h1h-1h1v-1h1v-1H307"/>
 		</g>
 		<g id="local__municipality_85" label="Raymond_Mhlaba">
-			<polygon class="st0" points="447,480 447,481 446,481 446,482 445,482 445,483 444,483 444,485 443,485 443,487 441,487 441,488 
+			<polygon className="st0" points="447,480 447,481 446,481 446,482 445,482 445,483 444,483 444,485 443,485 443,487 441,487 441,488 
 				440,488 440,487 437,487 437,488 436,488 436,489 435,488 435,490 432,490 432,489 433,489 433,487 432,487 432,489 431,489 
 				431,487 430,487 430,485 429,485 429,487 428,487 428,488 427,488 427,487 426,487 426,488 425,488 425,487 423,487 423,486 
 				422,486 422,484 421,484 421,485 419,485 419,483 418,483 418,485 417,485 417,484 415,484 414,485 413,484 413,483 409,483 
@@ -599,7 +599,7 @@ id="mapsalocal"
 				440,473 440,475 439,475 439,477 441,477 441,478 440,479 446,479 446,480 			"/>
 		</g>
 		<g id="local__municipality_86" label="Senqu">
-			<path class="st0" d="M440,390v-1h-1h-1v-1h1h1h1v-1h1v1h-1h1v1v-1h1v-1h1h1h1v-1h1v1v-1h1v1h1v-1v1h1v-1h1v-1h-1v-1h1h1h1h-1v-1
+			<path className="st0" d="M440,390v-1h-1h-1v-1h1h1h1v-1h1v1h-1h1v1v-1h1v-1h1h1h1v-1h1v1v-1h1v1h1v-1v1h1v-1h1v-1h-1v-1h1h1h1h-1v-1
 				v1h-1v-1v-1h1h1v1v-1h1v-1h-1h-1v-1h1h-1v-1h1v1h1h1v-1h1h1v1v1h1v1h1h1v1h1v1h-1h1h1v1v1h1v1h1h1v1h1h-1h1v1h1v1h1v1h1h1h1h1h1
 				v-1v1h1v-1h1v1v1h1h1l1,1h1h1l1-1v1h1h1h1v1v1h-1v1v1h-1l1,1v1v1h-1v1v1h-1v1v1h-1v1v1v1h-1v1l-1,1h-1v2v1v1v1h-1l-1,1v1h-1v-1
 				h-1v-1h-1h-1h-1v1l-1-1h-1v1h-1v1v-1h-1h-1h-1h-1h-1l-1-1l-1,1h-1l-1,1h-1h-1v1h-1l1,1v1v1v1h-1v1l-1,1h-1h-1v-2h-1l-1-1v1h-1v-1
@@ -607,25 +607,25 @@ id="mapsalocal"
 				h-1v-1v-1h1h-1v-1l-1-1v-1h1h-1v-1h1h-1h1h-1h1h-1v-1v1h-1v-1h-1h-1h1V390h-1H440"/>
 		</g>
 		<g id="local__municipality_87" label="Aganang">
-			<path class="st0" d="M515,121h-1v1l-1,1l-1-1h-1v-1l1-1h-1h1h1l-1-1v-1v-1l1-1v-1v-1h-1h1v-1h1l1-1h1l-1-1l-1-1v-1v-1h1h1l-1-2h1
+			<path className="st0" d="M515,121h-1v1l-1,1l-1-1h-1v-1l1-1h-1h1h1l-1-1v-1v-1l1-1v-1v-1h-1h1v-1h1l1-1h1l-1-1l-1-1v-1v-1h1h1l-1-2h1
 				v-1h1l1-1v-1h1l1,1v1h2v1h1h1l1-1h1h1l-1,2v1h1h1h1v1l1,1h1v-1v1l1,1h-1v1v1h-1h-1h-1v1h-1h-1v1v1h-1v1v1v1v1v1h-1l-1,1l1,1h1h1
 				v1h-1v1v1v1h-1l-1,1h-1h-1v-1v-1h-1v-1l-1-1h-1l-1-1v-1v-1h-1H515"/>
 		</g>
 		<g id="local__municipality_88" label="Mogalakwena">
-			<path class="st0" d="M484,114v-1h-1h-1v-1h1h-1v-1h1h1l1-1l-1-1l1-1l2-1l1,1l1-1h1l1-2l2,1v1l1,1v1l2,1h1v-1l1-1l1-1h1l1-1v-2h2
+			<path className="st0" d="M484,114v-1h-1h-1v-1h1h-1v-1h1h1l1-1l-1-1l1-1l2-1l1,1l1-1h1l1-2l2,1v1l1,1v1l2,1h1v-1l1-1l1-1h1l1-1v-2h2
 				h1v-1h1v-1l2-1v1l1,1h1v2l2,1l1,2h1v1l1,1l1,1l1,1h-1l-1,1h-1v1h-1h1v1v1l-1,1v1v1l1,1h-1h-1h1l-1,1v1h1l1,1l1-1v-1h1h1h1v1v1
 				l1,1h1l1,1v1h1v1v1h1h1h1h1v1l-1,1v1h1v1h1h1v1v1h-1l-1,1v1v1v1l-1,1l-1-2h-2l-1-1l-1,1v1v1v1h1l-1,3l-1-1l-1,1h-2l-1,2l-2-1l1-1
 				h-1v-1l-1-1h-1v-1l2-2h-1h-1h-1h-1v-1h-1v-1l1-1h-1v1h-1h-1h-1v-1v-1l1-1v-1h-1h-1v-1l-1-1v-1l-1,1l-1,1l-1-1l-1,1h1h-2h-1h1v-1
 				h-1h-1v-1v-1h-1v-1h-1h1v-1h-1h-1v-1h-1h1h-1v-1h1h-1v-1h-1h1v-1h-1v-1h-1v-1h1h-1h-1h1h-1v-1v-1v-1h-1v-1h-1v-1h-1h-1V114"/>
 		</g>
 		<g id="local__municipality_89" label="Ephraim_Mogale">
-			<path class="st0" d="M536,154v1h-1v1l2,1v1h-1l1,1h1h1h1h1l1,1h1h1h1h1h1h1v1h-1h-1v1h-1l1,1h-1h-1v1l-1,1v1h-1h-1l1,1h-1l-1,1
+			<path className="st0" d="M536,154v1h-1v1l2,1v1h-1l1,1h1h1h1h1l1,1h1h1h1h1h1h1v1h-1h-1v1h-1l1,1h-1h-1v1l-1,1v1h-1h-1l1,1h-1l-1,1
 				h-1v-1l-1,1l-1-1h-1l-1-1v1v1v1h-1h-1l1,1h-1l-1,1v1h-1h-1h-1v-1h-1v1v-1h-1v-1h-1h-1h-1h1v1h-1v1h-1h-1h-1v-1h-1v-1h-1h-1h-1v1
 				h-1v-1v-1h-1v-1h-1v-1l-1-1h1l1-1v-1h-1v-1h1v1h1h1h1h1h1v1v1h1v1h1v-1h1h1l1-1v-1h-1h1h1v-1v-1l1-2h1v-1v-1l-1-2h1h2v-1h1h1v-1
 				h1v-1h-1h1v-1h1h1v1h1V154"/>
 		</g>
 		<g id="local__municipality_90" label="Lephalale">
-			<path class="st0" d="M486,130l-1,1v1v1l-1,1v1v1l-1-1h-1h-1h-1h-1v1l-1-1h-1v1l1,1h1l-1,1v1v1h-1l-1-1h-1v1h-1h-1h-1h-1h-1v1v1h1
+			<path className="st0" d="M486,130l-1,1v1v1l-1,1v1v1l-1-1h-1h-1h-1h-1v1l-1-1h-1v1l1,1h1l-1,1v1v1h-1l-1-1h-1v1h-1h-1h-1h-1h-1v1v1h1
 				h-1v1h-1v1h-1h-1h-1l-1-1l-1-1h-1l-1,1h-1h-1l1,2l-2,1h-1v-1v-1v-1v-1v-1v-1h-1v-1h1h-1v-1v-1h1v-1h1v-1v-1v-1h-1v-1v-1l-1,1h-1
 				h-1v-1h-1h-1v-1h-1h-1v-1h-1h-1h-1l-1-1h-1v-1h-1h-1h-1v-1v-1h-1v-1h-1v-1v-1h-1v-1h-1v-1h-1v-1v-1h1v-1h-1v-1h-1h1v-1v-1h1v1v-1
 				v1h1v1v-1h1v-1v-1h-1h1v-1h1v-1h1h1v-1h-1v-1h1h-1h1v1h1v-1v1h1v-1v1v-1v-1h1h1v-1h1h1v-1h1h-1h1h-1v-1h1v-1h1v1h1v-1h1v1h1v-1h1
@@ -635,18 +635,18 @@ id="mapsalocal"
 				h1h1v1h1v1h1v1v1v1h1h-1h1h1h-1v1h1v1h1v1h-1h1v1h1h-1v1h1h-1h1v1h1h1v1h-1h1v1h-1h-1v1l-2-1h-1l-1,1l-1-1v1h-1V130"/>
 		</g>
 		<g id="local__municipality_91" label="Elias_Motsoaledi">
-			<path class="st0" d="M519,178v-1v-1v-1v-1v-1h1v1h1v-1h1v-1h1h-1h1h1v-1h1v-1h-1h1h1h1v1h1v1v-1h1v1h1h1h1v-1l1-1h1l-1-1h1h1v-1
+			<path className="st0" d="M519,178v-1v-1v-1v-1v-1h1v1h1v-1h1v-1h1h-1h1h1v-1h1v-1h-1h1h1h1v1h1v1v-1h1v1h1h1h1v-1l1-1h1l-1-1h1h1v-1
 				v-1v-1l1,1h1l1,1l1-1v1h1l1-1h1l-1-1h1h1l1-1h1v1l1,1v1h1h1v-1h1h1h1h1h1v-1v-1h1v-1l1,1h1v1v1l-2,2l-1,1h1l1,1h1l1,2v1v1v1h1v1
 				v1h-1v1v1v1h-1h-1h-1h-1v1h-1v1h-1v-1h-1h-1l-1,1v1h-1v-1h-1h-1h-1h-1h-1v1h-1h-1h-1h-1v1l-1-1h-1h-1h-1h-1h-1h-1v-1h-1h-2h-1v1
 				h-1l-1-1h-2l1-1v-2h-1h-1l-1,1v-1v-1h-1h-1V178"/>
 		</g>
 		<g id="local__municipality_92" label="Makhuduthamaga">
-			<path class="st0" d="M547,168h-1v-1l-1-1v-1h-1l-1,1v-1l1-1v-1h1h1l-1-1h1v-1h1h1v-1h-1h-1h-1h-1h-1h-1l-1-1h-1h-1h-1h-1l-1-1h1
+			<path className="st0" d="M547,168h-1v-1l-1-1v-1h-1l-1,1v-1l1-1v-1h1h1l-1-1h1v-1h1h1v-1h-1h-1h-1h-1h-1h-1l-1-1h-1h-1h-1h-1l-1-1h1
 				v-1l-2-1v-1h1v-1v-1v-1h1h-1h1v-1h1v-1h1v-1h1v-1h1v-1v-1h1v1h1h1v-1v1h1l1,2h1l1,1v1v1h1v1h1v-1h1h1h1h1v1v-1h1v1v-1h1v-1h1v1h1
 				v1h1l1,1v-1h1v1l1,1v1l-1,2v1h-1v1h-1v1h-1h-1h-1l-1-1l-1,1v1h-1v1v1v1v1v1h-1h-1h-1h-1h-1v1H547"/>
 		</g>
 		<g id="local__municipality_94" label="Greater_Tubatse">
-			<polygon class="st0" points="587,146 586,148 586,152 585,151 584,153 585,154 585,155 586,155 586,156 584,157 582,157 582,158 
+			<polygon className="st0" points="587,146 586,148 586,152 585,151 584,153 585,154 585,155 586,155 586,156 584,157 582,157 582,158 
 				583,159 584,159 583,160 582,162 581,162 581,163 580,163 580,164 577,164 577,166 576,166 576,165 575,165 575,162 573,162 
 				573,163 572,162 571,162 571,163 568,163 568,162 565,162 565,163 564,165 564,168 565,169 563,169 563,173 561,173 561,172 
 				560,172 558,170 558,171 555,171 554,170 553,170 556,167 556,165 555,165 554,164 554,165 553,165 553,162 554,162 554,161 
@@ -655,37 +655,37 @@ id="mapsalocal"
 				545,146 546,146 546,145 547,145 547,143 548,143 548,142 547,142 547,140 548,140 548,139 549,139 549,138 552,138 552,137 
 				556,137 556,136 559,136 559,137 560,137 560,138 563,138 563,140 566,140 566,139 567,139 567,140 568,140 568,141 569,141 
 				570,140 572,139 572,140 573,141 574,141 574,142 575,142 577,144 578,144 578,146 579,146 579,145 580,145 580,146 			"/>
-			<line class="st1" x1="580" y1="165" x2="580" y2="164"/>
-			<line class="st1" x1="582" y1="146" x2="582" y2="145"/>
+			<line className="st1" x1="580" y1="165" x2="580" y2="164"/>
+			<line className="st1" x1="582" y1="146" x2="582" y2="145"/>
 		</g>
 		<g id="local__municipality_95" label="Msukaligwa">
-			<path class="st0" d="M581,220h1h1h1h1h1h1v1l-1,1h1v1l1,1h-1h-1l-1,1l1,2v1l-1,1h-1h-1v-1h-1v-1h-1v1h-1h-1h-1v1h-1h-1v1l1,1v1h1
+			<path className="st0" d="M581,220h1h1h1h1h1h1v1l-1,1h1v1l1,1h-1h-1l-1,1l1,2v1l-1,1h-1h-1v-1h-1v-1h-1v1h-1h-1h-1v1h-1h-1v1l1,1v1h1
 				v1h1h1h1h1h-1h-1v1h-1v1v1h-1v1h-1h-1v1h-1v-1v1h-1v-1v1v-1v1h-1h-1h-1v1h-1v1h-1h-2h-1h-1v1v1h-1v-1h-1v-1h-1v-1l1-1v-1l-1-1v1
 				l-2-1h-1h-1l-1-1v1l-1,1v1h-1h-1v1h-1h-1v1v-1h-1v-1v-1v-1l1-1v-1v-1l-1,1h-1h-1h-1h-1v-1h-1h-1h-1h-1v-1v-1v-1v-1h-1v-1v-1v-1
 				v-1h-1h-1v-1h-1l-1-1v-1h1h-1h-1h-1v-1v-1h1h1v-1v-1h1v1v-1h1h1v-1h1h1h1h1l1-1h1h1h1v-1h1v1v1h1v-1h1h1h1h1v1h1h1v-1h1l1-1l1,1
 				h1h1h1v1v1h1v-1h1v-1h1h1h1l1-1h1v1h1v-1v-1l1,1h1h1l2,1v1h1h1v-1h1h1h1v1l1,1v1L581,220"/>
 		</g>
 		<g id="local__municipality_96" label="Govan_Mbeki">
-			<path class="st0" d="M521,235h-1h-1h-1h-1v-1v-1v-1h-1h-1h-1h-1l1-1h-1l-1-1h-1v-1v-1v1h-1h-1h-1v-1v-1v-1h1v-1v-1h1h1l1-1v-1h-1
+			<path className="st0" d="M521,235h-1h-1h-1h-1v-1v-1v-1h-1h-1h-1h-1l1-1h-1l-1-1h-1v-1v-1v1h-1h-1h-1v-1v-1v-1h1v-1v-1h1h1l1-1v-1h-1
 				v-1h1v-1h1v-1v-1h1h1h1v-1h1h1h1v1v1h1v1l1,1h1v1v1l1-1h1v-1h1v1h1v-1v1h1h1l1-1h1h1v1v-1v-1h1v-1v-1h-1v-1v-1h1v-1l1,1h1h1h1v-1
 				v-1h1l1,1h1v1h1l-1,1v1v1v-1h-1v1v1h-1h-1v1v1h1h1h1h-1v1l1,1h1v1h1h1v1v1v1v1h-1v-1h-1v1v1h-1h-1h-1v1h-1v1v1h-1h-1h-1v1h-1h-1
 				h-1l-1-1h-1h-1v1h-1l1,1v1h-1h-1h-1v1h-1v-1h-1h-1h-1h1V235"/>
 		</g>
 		<g id="local__municipality_97" label="Emalahleni_MP">
-			<path class="st0" d="M529,199h1v1v1h1v1v1v1h1h1h-1v1h-1v1h1h-1v1v1h1v1h1v1v1h-1h-1v1h1v1h1h1h-1v1v1v1l-1-1v1h-1v1v1h1v1v1h-1
+			<path className="st0" d="M529,199h1v1v1h1v1v1v1h1h1h-1v1h-1v1h1h-1v1v1h1v1h1v1v1h-1h-1v1h1v1h1h1h-1v1v1v1l-1-1v1h-1v1v1h1v1v1h-1
 				v1v1v-1h-1h-1l-1,1h-1h-1v-1v1h-1v-1h-1v1h-1l-1,1v-1v-1h-1l-1-1v-1h-1v-1v-1h-1h-1v-1v-1h1v-1v-1h-1v-1h-1h-1h-1v-1h1v-1h-1v-1
 				v-1h1v1h1v-1v-1v-1v-1v-1l1,1h1v-1v-1l-1-1v1h-1v1h-1l1-1h-1v-1v-1v-1v-1h1v-1h1v-1h-1h-1l1-1v-1l1-1h1v1l1,1h1v-1h1v-1h1h1h1v1
 				h1v1v1h1l1-1l1,1h1v1V199"/>
 		</g>
 		<g id="local__municipality_98" label="Steve_Tshwete">
-			<path class="st0" d="M531,208v-1v-1h1h-1v-1h1v-1h1h-1h-1v-1v-1v-1h-1v-1v-1h-1v-1v-1v-1l1-1h-1v-1v1v-1h-1v1v-1h1v-1h-1h-1h-1
+			<path className="st0" d="M531,208v-1v-1h1h-1v-1h1v-1h1h-1h-1v-1v-1v-1h-1v-1v-1h-1v-1v-1v-1l1-1h-1v-1v1v-1h-1v1v-1h1v-1h-1h-1h-1
 				v-1h-1h1v-1h-1h1h-1v-1h-1h1h1v-1v1h1v-1h1v-1h-1v-1v1v-1h1h-1v-1h1h1h-1h1v-1h1h1h1v-1h1h1h1h1h1l1,1v1h-1l1,1h1v1v1v1h1v-1l1,1
 				v1h1h1v-1h1h1v1h1v1h1h1v1v1l1,1v-1h1h1v1h-1v1h1v1h-1v1l1-1v1h-1l-1,1v1v1v1h1h1h1l-1,1v1h-1l1,1h1v1v1h-1v1h1l-1,1v1h-1v1v1v1
 				h-1v1v1v1h-1h-1h-1l-1,1h-1h-1h-1h-1v1h-1h-1v-1l1-1h-1v-1h-1l-1-1h-1v1v1h-1h-1h-1v-1v-1v-1h1h-1h-1v-1h-1v-1h1h1v-1v-1h-1v-1
 				H531"/>
 		</g>
 		<g id="local__municipality_99" label="Thaba_Chweu">
-			<path class="st0" d="M588,147l1,1h1v1h2l-1,1l-2,1l1,1h1l1,1h1v1v1v1v1v1v1l1,1l1,1h1h1v1l1,1v1v1v1v1v1v1v1h-1h-1v1v1v1h-1v1h-1
+			<path className="st0" d="M588,147l1,1h1v1h2l-1,1l-2,1l1,1h1l1,1h1v1v1v1v1v1v1l1,1l1,1h1h1v1l1,1v1v1v1v1v1v1v1h-1h-1v1v1v1h-1v1h-1
 				v1v1v1h1v1l1,1v1h-1h-1l-1,1h1v1h1h-1l-1,1h-1l1,1h-1l-1-1h-1l-1-1h-1h-1v1h-1v-1h-1l-1-1l-1-1l-1-1l-1,1v1h-1v-1h-1v1l-1,1h-1
 				h-1h-1h-1l-1,1l1,2h-1v1h-1v1h-1h-1v-1h-1v-1v1h-1v1l-1-1v-1h-1l1-1v-1v-1h-1h-1v-1v-1v-1h-1v-1h-1v-1l-1-1v1v1h-1v1h-1v1l-1,1
 				l-1,1h-1v-1v-1v-1v-1h1v-1v-1h-1v-1v-1v-1l-1-2h1h1v-1l1,1l1,1h1v1h1h1v-1v-1v-1v-1h1h1l-1-1v-1v-1v-1l1-2v-1h1h1h1v1h1h1h-1h1h1
@@ -693,17 +693,17 @@ id="mapsalocal"
 				/>
 		</g>
 		<g id="local__municipality_100" label="Nkomazi">
-			<path class="st0" d="M631,208l-3-2l-1-1l-1-1l-2-1h-1l-2-2h-1l-2-2l-2-1h-1l-2-2l-3,1h-1l-1,1l1-1l-1-1l-1-1v-1h1h1v-1h1v-1l-1-1
+			<path className="st0" d="M631,208l-3-2l-1-1l-1-1l-2-1h-1l-2-2h-1l-2-2l-2-1h-1l-2-2l-3,1h-1l-1,1l1-1l-1-1l-1-1v-1h1h1v-1h1v-1l-1-1
 				v1h-1l1-1l-1-1v-1h1h1h1h1v-1h1h1h1h1v-1h1h1v-1v-1h1v-1v-1h1v-1v-1h1v-1v-1h1v-1v-1v-1h-1h1v-1h-1v-1h1h-1v-1v-1v-1v-1h-1v-1v-1
 				h1v-1h1h1h1v-1h1h1h1v1v1h1v1h1v1h1v1h1h1v1h1v1h1v1h1h1h1v1h1v2v2v1l-1,2v1v1l-1,1v1v1v1v1l1,2v2l-1,2v1l-1,1v1v1h-1v1v1v2h1
 				l1,3h-2l-1,1L631,208"/>
 		</g>
 		<g id="local__municipality_101" label="The_Msunduzi">
-			<path class="st0" d="M561,353v-1h1h1v-1h1l1-1h1h1h1h1v1v-1h1h1h-1v-1l1-1h1v1v-1h1h1v-1v1h1v1v1h1v1v-1h1v1h1h1v1h-1h-1h-1v1v1
+			<path className="st0" d="M561,353v-1h1h1v-1h1l1-1h1h1h1h1v1v-1h1h1h-1v-1l1-1h1v1v-1h1h1v-1v1h1v1v1h1v1v-1h1v1h1h1v1h-1h-1h-1v1v1
 				h1v1h-1v1h-1h-1h-1h-1h-1v-1h-2h-1v1h-1h-1h-1v-1h-1h-1v1h-1v1h-1v-1v-1v-1h-1v-1H561"/>
 		</g>
 		<g id="local__municipality_102" label="Richtersveld">
-			<path class="st0" d="M45,340h-1l1,2l-1,1v1v1h-1v1l-1,1h-1h-1v-1v-1h-1h1h-1v-1h1h-1h1h-1v-1h-1v-1v-1v-1h-1v-1h-1v-1v-1h-1h1h-1
+			<path className="st0" d="M45,340h-1l1,2l-1,1v1v1h-1v1l-1,1h-1h-1v-1v-1h-1h1h-1v-1h1h-1h1h-1v-1h-1v-1v-1v-1h-1v-1h-1v-1v-1h-1h1h-1
 				v-1v-1h-1h1h-1v-1v-1v-1v-1h-1h1h-1v-1h-1v-1h-1v-1h-1v-1h-1h1h-1h1h-1h1h-1h1h-1h1v-1h-1h1h-1v-1v-1h-1v-1h-1v-1h-1h-1v-1v-1h-1
 				v-1v-1h-1v-1h1h-1h1v-1h-1v-1h-1v-1h-1h1h-1v-1h-1v-1h-1v-1v-1h1h-1h1v-1h1h1h1v-1h1h1v-1h1v-1h1h1h1v1h1v-1h1v-1h1v-1v-1h-1h1
 				v-1h1v-1h-1v-1h-1v-1v-1v-1h1v1h1h1v-1l-1-1v-1v1h1h1v-1h-1v-1h1h1v-1v-1v-1v-1h1h1h1v-1h1v1h1v-1h1h1h1v-1v1h1v1h1v1h1h1v1h1h-1
@@ -712,7 +712,7 @@ id="mapsalocal"
 				H45"/>
 		</g>
 		<g id="local__municipality_103" label="Nama_Khoi">
-			<path class="st0" d="M96,364h-1v-1h-1v-1h-1h-1v1h-1h-1h-1v1v1v1l-1,1h-1h-1h-1l-1,1h-1h-1v1h-1h-1h-1v-1h-1h-1h-1v1v1h-1v-1h-1
+			<path className="st0" d="M96,364h-1v-1h-1v-1h-1h-1v1h-1h-1h-1v1v1v1l-1,1h-1h-1h-1l-1,1h-1h-1v1h-1h-1h-1v-1h-1h-1h-1v1v1h-1v-1h-1
 				h-1h-1l-1-1h-1v-1h-1h-1h-1h-1h-1h-1v1h-1v-1h-1v-1v-1h-1v-1v1h-1v1l-1,1h-1v1h-1v-1h-1v1h-1v1h-1v1h-1l-1-1v-1h-1v-1h-1h-1v1
 				l-1,1v-1h-1v-1v-1v-1h-1v-1h-1v-1v-1v-1h-1v-1v-1v-1h-1v-1v-1v-1v-1v-1h-1v-1v-1h-1v-1v-1v-1v-1h-1h1h1l1-1v-1h1v-1v-1l1-1l-1-2
 				h1h1v-1h2l-1-1l1-1h1h1v-1l1,1l1,1v1h1h1v1h1l-1,1v1v1h1h1h1h1h1h1v1h1h1v-1h1v-1v-1h-1v-1v-1v-1l-1-1v-1v-1l-1-2v-1v-1l-1-1v-1
@@ -721,7 +721,7 @@ id="mapsalocal"
 				l-2,2l2,1v1l1,2l1,3h-2l-1,1h-1h-1h-1h-1h-1h-1v1h-1h-1v1h-1h-1h-1h-1h-1v1H96"/>
 		</g>
 		<g id="local__municipality_104" label="Kamiesberg">
-			<path class="st0" d="M81,398h-1v1v1v1v1v1h-1h-1h-1h-1v1v1h1v1v1h1h-1h-1v1h-1v1h-1l-1,1v1v1h1v1h-1h-1l-1-1h-1v-1v-1h-1v-1v-1
+			<path className="st0" d="M81,398h-1v1v1v1v1v1h-1h-1h-1h-1v1v1h1v1v1h1h-1h-1v1h-1v1h-1l-1,1v1v1h1v1h-1h-1l-1-1h-1v-1v-1h-1v-1v-1
 				h-1h1h-1v-1v-1h-1v-1h-1v-1v-1h-1v-1h-1h1h-1v-1v-1h-1v-1v-1h-1v-1v-1h-1v-1h-1v-1h-1v-1v-1h-1v-1v-1v-1h-1v-1v-1h-1v-1h-1v-1v-1
 				h-1v-1h-1h1h-1v-1v-1h-1v-1h-1h1v-1h-1h1h-1h1h-1h1h-1v-1h1h-1v-1v-1h-1v-1v-1v-1h-1v-1h-1v-1v-1v1v-1v1v-1v-1l1-1v-1h1h1v1h1v1
 				l1,1h1v-1h1v-1h1v-1h1v1h1v-1h1l1-1v-1h1v-1v1h1v1v1h1v1h1v-1h1h1h1h1h1h1v1h1l1,1h1h1h1v1h1v-1v-1h1h1h1v1h1h1h1v-1h1h1l1-1h1h1
@@ -731,7 +731,7 @@ id="mapsalocal"
 				h-1v1H81"/>
 		</g>
 		<g id="local__municipality_105" label="Hantam">
-			<path class="st0" d="M121,418h-1h-1v-1h-1v-1v-1v-1v-1v-1v-1v-1h-1v-1v-1h-1v-1l1-1v-1h1l1-1h1h-1l-1-1h-1l-1-1h-1l4-1v-1l-1-2
+			<path className="st0" d="M121,418h-1h-1v-1h-1v-1v-1v-1v-1v-1v-1v-1h-1v-1v-1h-1v-1l1-1v-1h1l1-1h1h-1l-1-1h-1l-1-1h-1l4-1v-1l-1-2
 				v-1v-1v-1h1v-1v-1v-1v-1l1-1v-1v-1v-1v-1h1v-1v-1h1v-1v-1h1v-1v-1h1v1h1h1v-1v-1h1v-1h1h1l3-1l3,1l1,1h3h1h1h1l1,1h1v1h1h1v1h1h1
 				h1h1h1h1h1v-1h1v-1h1l3-1h1h1h1l-1-1v-1h1v-1v-1h-1v-1v-1v-1v-1h-1v-1h1v-1h1v-1h1h1v-1l-1-1v-1h1h1v-1v-1l-2-2l1-1h1v-1h1v-1h1
 				v-1h1v-1v-1h-1v-1v-1h1h1v-1h1h1h1h2l1-1h1h1h1l1,1v1h1v1h1v1h1v-1h1v-1h1v-1h1v-1h1v1h1v1v2l-1,1v1v1v1v1v1v1h1v1l1,1v1h1v1h1h1
@@ -747,7 +747,7 @@ id="mapsalocal"
 				L121,418"/>
 		</g>
 		<g id="local__municipality_106" label="Karoo_Hoogland">
-			<path class="st0" d="M183,419v-1v-1h-1v-1v-1h1h1v-1h1h-1h-1h-1h-1h-1l-1-1h-1h-1l-1,1v-1v-1h-1l-1-2v-1v-1h1v-1v-1v-1v-1h1l1-1
+			<path className="st0" d="M183,419v-1v-1h-1v-1v-1h1h1v-1h1h-1h-1h-1h-1h-1l-1-1h-1h-1l-1,1v-1v-1h-1l-1-2v-1v-1h1v-1v-1v-1v-1h1l1-1
 				l1-1h-1v-1l-1-1v-1h-1v-1h1v-1v-1h1v-1h1v-1v-1v-1l1-1l-1-1v-1v-1h-1l1-1h1v-1h1v-1h1v-1v-1v-1h1v-1v-1l1-1v-1v-1v-1l3,2h2h1h1
 				l2,1l2,1h1h2l2-1l1-1h3v1v1h1h1h1h1h1l1,2h1v1v1v1v1h1v1l1,1l-2,2l3,2l1,1v1h1v1h1l1,1h1h1h-1v1l-1,1h1v1h1v1l-1,1h1v1h1v1h-1v1
 				v1v1h1v1v1v1h1l1,1v-1h1h1h1v1h1l1,1v1v1h1h-1l-2-1h-1v1v1v1v1h1h1v1h1h1h1h1v1h-1v1h1h1h1v1v1v1h1h1h1l1,1h1l-1,1h-1h-1h-1l1,1
@@ -761,7 +761,7 @@ id="mapsalocal"
 				v-1h1h1v-1h-1v-1v-1v-1H183"/>
 		</g>
 		<g id="local__municipality_107" label="Khai-Ma">
-			<path class="st0" d="M105,327v-2h-1h-1h-1l-1-2v-1h1v-1h1h1h1v-1h1l1,1v-1h1h1h1h1v1h1v-1v1h1v-1v1h1h1h1h1h1h1v1h1v1v1h1h1v1h1
+			<path className="st0" d="M105,327v-2h-1h-1h-1l-1-2v-1h1v-1h1h1h1v-1h1l1,1v-1h1h1h1h1v1h1v-1v1h1v-1v1h1h1h1h1h1h1v1h1v1v1h1h1v1h1
 				h1h1v1v-1v1v-1h1h1h1v-1h1v-1h1h1h1v-1h-1v-1h-1v-1v-1v-1v-1h1v-1h1h1h1v1v-1h1h1h1h1v-1h1v-1h1v-1v-1v-1h1v1h1l1,1l1,1h1v1v1
 				l1,1v1v1l1,1l1,1h1h1l1,1l-1,1v1h-1v1h-1v1h-1v1h-1v1l-1,1h-1v1h-1v1v1v1l1,2v3l2,1l2,3v1v1h2v1v1v1l1,1v1h-1v1h-1h-1h-1h-1v1h-1
 				h-1h-1h1v1v1v1l-1,2h1v1h1l1,1h1h1h1h1h1h1h1h1h1h1v1h1l1,1l1,1h1h1h1l2,2v1v1h-1h-1v1l1,1v1h-1h-1v1h-1v1h-1v1h1v1v1v1v1h1v1v1
@@ -770,7 +770,7 @@ id="mapsalocal"
 				v-1v-1v-1v-1l-2-2v-1v-1v-1L105,327"/>
 		</g>
 		<g id="local__municipality_108" label="Ubuntu">
-			<path class="st0" d="M288,404h1h1h2l1,1l1,1v1l1,1v-1h1l1-1h1v-1h1v-1l1,1v1h1v1l1-1h1v-1v-1l2-2h1v1l1,1v1l1-1v-1h1v-1h1v1h1v-1
+			<path className="st0" d="M288,404h1h1h2l1,1l1,1v1l1,1v-1h1l1-1h1v-1h1v-1l1,1v1h1v1l1-1h1v-1v-1l2-2h1v1l1,1v1l1-1v-1h1v-1h1v1h1v-1
 				h1l1-1h1h1l1,1h1v-1h1v1v1v-1v1v1h-1v1h-1v1h-1h1h1v-1h1h1h1h1v1h1h1v1h1v1v1v1v1l1,1h1l-1,1l1,1h1l1,1v1v1h2l-1,2h1h2v1v1h1l1,1
 				h1v1v1h-1h1h1v1h1h1v-1v-1h1h1h1v2l-1,1h-1h1v1v1l-1,1l1,1v1l-1,1v1v1h-2h-1h-1h1l-3,1h-1v1h-1h-1v1v-1h-1v1v-1h-1h-1h-2v1v1h-1
 				h-1h-1l-1-1l-1-1v-1l1-1h-2h-2v1v1v1h-1v1h-1v1h-1l-2-2h-1l2-2h-1h-1v-1h-1h-1l-1-2h-1h-1h-1h-1h-1l-1,1v1h-2h-1h-2l-1-1l-1,1v1
@@ -782,14 +782,14 @@ id="mapsalocal"
 				v1h1h1v-1h1v-1h1v-1l1,1h1l1,1v1l1,1L288,404"/>
 		</g>
 		<g id="local__municipality_109" label="Umsobomvu">
-			<path class="st0" d="M350,403l-1-2v-1h-1h-1v-1v1h-1h-1h-1v-1v-1h1v-1l-1-1h1v-1v-1v-1l1-1v-1v-1h1v-1v-1h1v-1h1v-1v-1v-1h-1v-1
+			<path className="st0" d="M350,403l-1-2v-1h-1h-1v-1v1h-1h-1h-1v-1v-1h1v-1l-1-1h1v-1v-1v-1l1-1v-1v-1h1v-1v-1h1v-1h1v-1v-1v-1h-1v-1
 				h1h1v-1h1v-1h1l1-1v-1v-1l1-1h1v-1h1v-1h1v1h-1v1h1h1v1h1h1v1v1v1h1h1v1h1v1h1v1h1v1l1,1h1v1v-1h1v1h1v1h1v1h1h1h1h1h1v1h1v1h1v1
 				v1v1v1v1l1,1v1h1h1v1l-1,1h-1l-1,1l1,1h1v1v1l-1,1l-1,1h1v2h-1l-1,1h1l-1,1v1h-1v1l-1-1v1v1v1v1h-1v1l-1-1h-1h-1h-1v-1h-1h-1v1
 				h-1v1h-1v-1v1h-1h-1h-1v1v-1h-1v1h-1h-1h-1h-1v1h-1v1h-1h-1h-1v1v1h-1v-1l-1,1h-1v1h-1h-1h-1h-1h-1v-1v1h-1h-1h-1v1h-1v-1l-1-1h1
 				l2-1h-1l1-1h1v-1h1l-1-2h2v-1l1-1h1v-1h-1v-1h-1l1-1h1v1h1v-1v-1v-1h1v-1h1v-1h1v-1l-1-1L350,403"/>
 		</g>
 		<g id="local__municipality_110" label="Emthanjeni">
-			<path class="st0" d="M313,401l-1,1h-1v1h-1v-1h-1v1h-1v1l-1,1v-1l-1-1v-1h-1l-2,2v1v1h-1l-1,1v-1h-1v-1l-1-1v1h-1v1h-1l-1,1h-1v1
+			<path className="st0" d="M313,401l-1,1h-1v1h-1v-1h-1v1h-1v1l-1,1v-1l-1-1v-1h-1l-2,2v1v1h-1l-1,1v-1h-1v-1l-1-1v1h-1v1h-1l-1,1h-1v1
 				l-1-1v-1l-1-1l-1-1h-2h-1h-1l-1-1l-1-1v-1l-1-1h-1l-1-1v-1h-1l-1-1v-2l-1-1v-1l2-1v2l1-1l-1-1h1l1-1h-2l1-1v-1h1l1,1h1v-1v-1h1h2
 				l-1-2v-1v-1v-1v-1h-1h-1h-2h-1h-1h-1h-1h-1v-1l-1-1v-1v-1l-1-1h1v-1h1v-1h1l1-1h1v-1h1h1v-1v-1h1v-1h1h1v-1v-1v-1v-1h-1v-1h1v-1
 				h-1h1v-1h1h1l1,1v1h1l-1,1l-1,1l2-1v1h1v1l1,1h1h1h1v1h1v1v-1h1v-1h1h1v1v1h1h1h1l2,1v-1h1v-1l1,1h1h1h1v1h1h1l1,2v1h1h1h1v1h1
@@ -799,7 +799,7 @@ id="mapsalocal"
 				h-1v-1h-1h-1v-1h-1h-1h-1h-1v1h-1h-1h1v-1h1v-1h1v-1v-1v1v-1v-1h-1v1h-1l-1-1h-1H313"/>
 		</g>
 		<g id="local__municipality_111" label="Kareeberg">
-			<path class="st0" d="M210,385v-1v-1v-1h-1l-1-2h-1h-1h-1h-1h-1v-1v-1h1v-1h1v-1v-1h1h4v-1h-1h-1h-1h-1v-1v-1v-1v-1l1-1h1l1-1h1h1
+			<path className="st0" d="M210,385v-1v-1v-1h-1l-1-2h-1h-1h-1h-1h-1v-1v-1h1v-1h1v-1v-1h1h4v-1h-1h-1h-1h-1v-1v-1v-1v-1l1-1h1l1-1h1h1
 				h1v-1h1h1h1l1-1h1l1,1h1v1h1h1h1h1v-1h1h1h1v-1h1h1v1h1h1h1h1v1h1v-1h1h1v-1h1v1h1h1h1h1l1,2h1v1h2l1,1h3l-1,1v1v1v1h1v-1h1l1-1
 				h1v1h1h1h1h1h1h1h1h1v-1h1h1l1,1h1h1h1h1v-1l-1-1v-1h1h1l1-1h1h1h1h1h1v1h1v1v1h1v-1h1l1-1h2h-1l1,1l-2,1v1v1l1,1v1h-1l1,1v1v1
 				l1,1v1h1h1h1h1h1h2h1h1v1v1v1v1l1,2h-2h-1v1v1h-1l-1-1h-1v1l-1,1h2l-1,1h-1l1,1l-1,1v-2l-2,1v1l1,1v2l1,1h1v1v1h-1v1h-1v1h-1h-1
@@ -808,20 +808,20 @@ id="mapsalocal"
 				l-1-1h-1v-1v-1v-1h-1v-1v-1v-1h1v-1h-1v-1h-1l1-1v-1h-1v-1h-1l1-1v-1h1h-1h-1l-1-1h-1v-1h-1v-1l-1-1l-3-2l2-2l-1-1v-1h-1V385"/>
 		</g>
 		<g id="local__municipality_112" label="Renosterberg">
-			<path class="st0" d="M349,366h1v1h1v1h-1l1,1v1h1v1h1v1h1v1v1v1h1v-1h1v1h1h-1v1h-1v1h-1l-1,1v1v1l-1,1h-1v1h-1v1h-1h-1v1h1v1v1
+			<path className="st0" d="M349,366h1v1h1v1h-1l1,1v1h1v1h1v1h1v1v1v1h1v-1h1v1h1h-1v1h-1v1h-1l-1,1v1v1l-1,1h-1v1h-1v1h-1h-1v1h1v1v1
 				v1h-1v1h-1v1v1h-1v1v1l-1,1v1v1v1h-1h-1v1v-1v-1h-1v-1h-1v1v1v-1h-1h-1v-1h-1v-1h-1h-1h-1v-1h-1v-1h-1h-1v-1h-1h-1v-1v-1l-1-1v-1
 				l1-1v-1h-1h-1l-1-1l-1-1h-2l-1-1h1v-1h-1h-1h-1h-1h-1l-1-1l-2-1v-1l-1,1v-1h1v-1h1h-1v-1h-1h-1h-1v-1h1l1,1h1v-1v-1v-1v-1h1h1h1
 				v-1h1v-1v-1v-1h1h2l1-1h1l2,1v-1h1v-1l1,1h1v-1v-1l1-2h1h2l1,1l1-1l1-1v-1v-1h1h1v1h1h1v1v1h1v1h1h1h1v-1v1v1v1h1v1h1h1H349"/>
 		</g>
 		<g id="local__municipality_113" label="Thembelihle">
-			<path class="st0" d="M319,370v1h-1h-1h-1v1v1v1v1h-1l-1-1h-1l-1-2h-1h-1v-1h-1h-1h-1l-1-1v1h-1v1l-2-1h-1h-1h-1v-1v-1h-1h-1v1h-1
+			<path className="st0" d="M319,370v1h-1h-1h-1v1v1v1v1h-1l-1-1h-1l-1-2h-1h-1v-1h-1h-1h-1l-1-1v1h-1v1l-2-1h-1h-1h-1v-1v-1h-1h-1v1h-1
 				v1v-1h-1v-1h-1h-1h-1l-1-1v-1h-1v-1l-2,1l1-1l1-1h-1v-1l-1-1h1l1-1h1h1l-1-1v-1v-1h1h-1h-1l-1-1h1v-1h1v-1h1h-1v-1h-1v-1v-1l-1-1
 				h-1h-1v-1v-1v-1v-1l1-1l1-1l1-1h3l-1-2v-1l2-2l1-1l1,1v-1h1h1h1h-1v-1v-1v-1h-1h1v-1h1h1v-1h1v-1h1v-1h1v-1v-1h-1h1h1h1v1h1v1v1
 				h-1h1v1h1v1v-1h1v1h1v1v1v1h1h1h1h1v1v1h1v1v1h1v1v1h-1v1h1v1h1h1v1h1h1h1h1h1v1h1h1h1l1-1v1v1h1h1h1v1h-1v1h-1h1v1h1v1h1h1h1v1
 				v1h1v1v1h1v1h1v1h1v1v1l-1,1l-1,1l-1-1h-2h-1l-1,2v1v1h-1l-1-1v1h-1v1l-2-1h-1l-1,1h-2h-1v1v1v1H319"/>
 		</g>
 		<g id="local__municipality_114" label="Siyathemba">
-			<path class="st0" d="M286,364h1v1h-1v1h1v1v1v1v1h-1h-1v1h-1v1v1h-1h-1v1h-1l-1,1h-1v1h-1l-1-1v-1v-1l2-1l-1-1h1h-2l-1,1h-1v1h-1
+			<path className="st0" d="M286,364h1v1h-1v1h1v1v1v1v1h-1h-1v1h-1v1v1h-1h-1v1h-1l-1,1h-1v1h-1l-1-1v-1v-1l2-1l-1-1h1h-2l-1,1h-1v1h-1
 				v-1v-1h-1v-1h-1h-1h-1h-1h-1l-1,1h-1h-1v1l1,1v1h-1h-1h-1h-1l-1-1h-1h-1v1h-1h-1h-1h-1h-1h-1h-1h-1v-1h-1l-1,1h-1v1h-1v-1v-1v-1
 				l1-1h-3l-1-1h-2v-1h-1l-1-2v-1h-1v-1v-1v-1h1l-1-1h-1h-1h-1v-1h-1h-1h-1v-1h-1h-1v-1h-1l-1-1h-1v-1h1v-1v-1h1v-1v-1h1v-1h1h1v-1
 				h-1v-1h-1v-1v-1h1v-1h1v-1h1v-1h1v-1h-1v-1h-1v-1h1h1v-1h1v-1h1v-1h1v-1h1h-1v-1v-1h-1v-1h-1v-1h-1v-1v-1h-1v-1h-1v-1h1h1v-1h1
@@ -831,7 +831,7 @@ id="mapsalocal"
 				/>
 		</g>
 		<g id="local__municipality_115" label="Siyancuma">
-			<path class="st0" d="M322,315v1l1,1v1h1l1,1h1h1h1v1h1h1h-1v1l-1,1v1h1v1v1h1v-1h1h1h1h1v1v-1h1v1v1h1v1h1h1h1v1v1h1v-1v1h1v-1v1
+			<path className="st0" d="M322,315v1l1,1v1h1l1,1h1h1h1v1h1h1h-1v1l-1,1v1h1v1v1h1v-1h1h1h1h1v1v-1h1v1v1h1v1h1h1h1v1v1h1v-1v1h1v-1v1
 				v-1v1v-1h1v1v-1v1v-1h1h1h1v1v-1h1v1l-1,1l-1,1v1l-1,1v1l-1,1v1l-1,1v1l-1,1v1h-1v1l-1,1v1v1l-1,1l-1,2l-1,1v1h-1v1v1h-1v1v1h-1
 				h-1h-1v-1h-1v-1h-1h1v-1h1v-1h-1h-1h-1v-1v-1l-1,1h-1h-1h-1v-1h-1h-1h-1h-1h-1v-1h-1h-1v-1h-1v-1h1v-1v-1h-1v-1v-1h-1v-1v-1h-1
 				h-1h-1h-1v-1v-1v-1h-1v-1h-1v1v-1h-1v-1h-1h1v-1v-1h-1v-1h-1h-1h-1h1v1v1h-1v1h-1v1h-1v1h-1h-1v1h-1h1v1v1v1h1h-1h-1h-1v1l-1-1
@@ -844,7 +844,7 @@ id="mapsalocal"
 				v1v1h-1v1h-1v1v1H322"/>
 		</g>
 		<g id="local__municipality_116" label="Dawid_Kruiper">
-			<polygon class="st0" points="239,248 239,268 238,268 236,269 239,277 239,279 238,280 236,281 231,286 233,287 232,289 232,290 
+			<polygon className="st0" points="239,248 239,268 238,268 236,269 239,277 239,279 238,280 236,281 231,286 233,287 232,289 232,290 
 				231,291 230,293 229,293 227,295 229,296 227,298 228,298 228,299 229,299 230,300 230,301 232,301 233,302 233,303 232,303 
 				232,306 231,306 231,307 229,307 229,306 228,306 228,307 225,307 225,308 224,308 224,309 221,309 220,310 219,310 217,311 
 				215,311 213,312 210,315 209,314 209,313 208,313 208,312 207,312 207,311 206,311 206,310 205,310 205,309 204,309 204,308 
@@ -864,7 +864,7 @@ id="mapsalocal"
 				235,244 236,245 236,246 237,245 238,246 			"/>
 		</g>
 		<g id="local__municipality_117" label="Kai_!Garib">
-			<path class="st0" d="M160,304v-5v-2v-1v-1v-3v-1v-2v-1v-2v-3v-5l2,1l1,1l3,1l1-1l2-1h1v2l1,2v1l2-1l3-2v1h1v1l1,1l1,1h1h1h1v1h-1
+			<path className="st0" d="M160,304v-5v-2v-1v-1v-3v-1v-2v-1v-2v-3v-5l2,1l1,1l3,1l1-1l2-1h1v2l1,2v1l2-1l3-2v1h1v1l1,1l1,1h1h1h1v1h-1
 				l1,2v1l1,2h-1l1,3l3,2l1,1l1,1l1,1h1v1h1v1h1h1h1v1h1h1v1h1h1h1h1v-1h1v1v1l-1,1h1v1h1v1h1v1h1v1h1v1h1v1h1v1h1v1h1v1l1,1l-1,1
 				h-1v1h-1v1h-1v1h-1v1v1h1v1h1v1h1h1v1h1l-1,1v1h-1v1h1v1h1v1h1h1v1v1v1v1h-1v1h-1v1h-1h-1v1h-1v1h1v1h1v1v1h1v1h1h-1v1v1v1v1h-1
 				v-1v1l-1,2l1,1l-1,1v2l-1,1v1h-1l-1,1h-1v1h-1l-1,1h-1v1h-1l-1,1h-1l-2,2v1h-2l-1,1v1h-1v1l1,1h-1h-1l-1,1h-1h-1v-1h-1v-1l-1-1
@@ -874,7 +874,7 @@ id="mapsalocal"
 				v-1v-1l-1-1v-1v-1h-1l-1-1l-1-1h-1v-1h-1h1v-1h1v-1v-1h1h1v-1h1h1v1h1h1v-1h1v-1h1h1v1h1h1v-1h1v-1h1h1h1v-1h1h1H160"/>
 		</g>
 		<g id="local__municipality_119" label="!Kheis">
-			<path class="st0" d="M241,321h1v-1v1h1v1h1v1h1v1h1v1v1h1h-1v1v1h1l1,1v1h-1h1v1h-1v-2l-3-2v-1h-1v-1h-1h-1h-1h-1v1h-1v1l-1,1h-1
+			<path className="st0" d="M241,321h1v-1v1h1v1h1v1h1v1h1v1v1h1h-1v1v1h1l1,1v1h-1h1v1h-1v-2l-3-2v-1h-1v-1h-1h-1h-1h-1v1h-1v1l-1,1h-1
 				v1h-1v1h-1h-1v1h1v1h1v1v1h1v1h1v1h1v1v1h1h-1v1h-1v1h-1v1h-1v1h-1h-1v1h1v1h1v1h-1v1h-1v1h-1v1h-1v1v1h1v1h1v1h-1h-1v1h-1v1v1
 				h-1v1v1h-1v1h1l1,1h1v1h1h1v1h1h1h1v1h1h1h1l1,1h-1v1v1v1h1v1h-1h-1h-1h-1v-1h-1v1h-1h-1v1h-1v-1h-1h-1h-1h-1v-1h-1h-1v1h-1h-1
 				h-1v1h-1h-1h-1h-1v-1h-1l-1-1h-1l-1,1h-1h-1h-1v1h-1h-1h-1l3-2l-1-1h-1v-1h-1v-1h-1l-1-1h-1v-1l1-1l1-1v-1h1v-1h1v-1v-1h1v-1h-1
@@ -883,7 +883,7 @@ id="mapsalocal"
 				v-1h1v1h1h1v-1h1v-1v-1v-1h1v-1l1,1h1v1l1,1v1v1v1h1v1h1v1l1,1v1h1v1h1v1h1v1h1v1h1v1v1h-1v1h-1v1h-1V321"/>
 		</g>
 		<g id="local__municipality_120" label="Tsantsabane">
-			<path class="st0" d="M278,309h-1v1h-1h-1h-1h-1h-1h-1v-1h-1v-1h-1h-1v-1h-1h-1h-1h-1h-1h-1h-1h-1v-1h-1v-1h-1h-1v1h-1v1h-1v1h-1
+			<path className="st0" d="M278,309h-1v1h-1h-1h-1h-1h-1h-1v-1h-1v-1h-1h-1v-1h-1h-1h-1h-1h-1h-1h-1h-1v-1h-1v-1h-1h-1v1h-1v1h-1v1h-1
 				v1h-1l-1,1l-1,1h-1v1h-1v1h-1v1h-1v1h-1v1h-1v1h-1v-1h-1v-1h-1v-1h-1v-1h-1v-1h-1v-1l-1-1v-1h-1v-1h-1v-1v-1v-1l-1-1v-1h-1l-1-1
 				l-1-1h-1h-1v-1l-1-1h-1v-1h-1l2-2l-2-1l2-2h1l1-2l1-1v-1l1-2l-2-1l4-4l1-1l2-1l1-1v-2l-3-8l2-1h1v-6v-3v-3v-4l2-1h1l2-1l1-1l-1-2
 				h-1h1h-1h1v-1l1,2l1,1l1,1v1h1v-1l1-1l3,1v2l1,2v3v1h2h3h1h2h1h2l1-1h1l1,1h-1v1l-1,1v1h1v2v2h1h1v1v1v2v1v1v1l-1,2h-1h1v1h1v1h1
@@ -893,57 +893,57 @@ id="mapsalocal"
 				h-1h-1v1h-1l-1,1h-1h-1l-1-1h-1h-1h-1V309"/>
 		</g>
 		<g id="local__municipality_121" label="Sol_Plaatjie">
-			<path class="st0" d="M347,307v-1h-1h1v-1h1h1v-1v1v-1h1v1h1v-1h1h1h1h1h-1v1l-1,1v1h-1l1,1v1l-1,1v1v1h1h1v1h1h-1v1l-1,1v1v1h-1
+			<path className="st0" d="M347,307v-1h-1h1v-1h1h1v-1v1v-1h1v1h1v-1h1h1h1h1h-1v1l-1,1v1h-1l1,1v1l-1,1v1v1h1h1v1h1h-1v1l-1,1v1v1h-1
 				v1h-1v1v1l-1,1l-1,1v1l-1,2l-1,1v1l-1,1h-1v1v-1h-1h-1h-1v1v-1v1v-1h-1v1v-1v1v-1v1h-1v-1v1h-1v-1v-1h-1h-1h-1v-1h-1v-1v-1h-1v1
 				v-1h-1h-1h-1h-1v1h-1v-1v-1h-1v-1l1-1v-1h1h-1h-1v-1h-1h-1h-1l-1-1h-1v-1l-1-1v-1h-1v-1v-1h1v-1h1v-1h1v-1h1v-1h1v-1h1h1h1h1v1h1
 				h1v1h1l1,1l1,1h2l1,1l2,1l1,1v-1l1-1v-1v-1h1v-1v-1h-1v-1h1v-1v-1h1h1v1h-1h1h1H347"/>
 		</g>
 		<g id="local__municipality_122" label="Magareng">
-			<path class="st0" d="M343,283h1v1h1h1h1h1v1h1v1h-1h1v1h1v-1h1v1v-1h1h1v1v-1l1,2l1,1v1l2,1v-1h1h1h1l-1,1v1v1l-1,1v1v1l-1,1h-1
+			<path className="st0" d="M343,283h1v1h1h1h1h1v1h1v1h-1h1v1h1v-1h1v1v-1h1h1v1v-1l1,2l1,1v1l2,1v-1h1h1h1l-1,1v1v1l-1,1v1v1l-1,1h-1
 				h-1v1h-1h-1h1v1h1v1h1v1l-1,1v1v1h-1h-1h-1h-1v1h-1v-1h-1v1v-1v1h-1h-1v-1h1v-1h-1v-1h1v-1v-1h-1v-1h-1v-1h1h-1v-1h-1v-1h-1v-1h1
 				h-1v-1h-1v-1h-1v-1h-1l-1-1v-1h1v-1v-1h1h1v-1h1v-1h-1h1h-1h1h-1h1h-1h1v-1v1v-1h-1h1v-1h-1V283"/>
 		</g>
 		<g id="local__municipality_123" label="Dikgatlong">
-			<path class="st0" d="M347,300h1v1v1h-1v1h1v1h-1v1h1h-1v1h-1h1v1h-1h-1h-1h1v-1h-1h-1v1v1h-1v1h1v1v1h-1v1v1l-1,1v1l-1-1l-2-1
+			<path className="st0" d="M347,300h1v1v1h-1v1h1v1h-1v1h1h-1v1h-1h1v1h-1h-1h-1h1v-1h-1h-1v1v1h-1v1h1v1v1h-1v1v1l-1,1v1l-1-1l-2-1
 				l-1-1h-2l-1-1l-1-1h-1v-1h-1h-1v-1h-1h-1h-1h-1v1h-1v1h-1v1h-1v-1l-1-1v1h-1v1h-1h-1h-1h-1v1h1v1h1h-1v1h-1v-1h-1h-1v-1l-1-1h-1
 				l-1-1l-1-1h-1v-1h-1l1-1h1l-1-1v-1l1-1v-1h1v-1v-1h1h-1l-1-1h1v-1v-1h1v-1v-1v-1v-1h1v-1v-1l-1-1h-1h-1l-1-1l2-2l-1-1l-1-1h-2
 				l-1-1l-1-1l-2-1v1l-1-1l-1-1l1-1l2-1h1h1h2v-1h1h1h1h1l1-1h1h1h1h1h1v-1h1h1h1h1l1-1h1h1h1l2-1h2h1h1h1v-1h1v1h1h1l-2,2v1h1h1
 				l-1,1v1v1h-1v1h-1v1h-1l1,2l1-1l2,1v1v1v1h-1h1l1,1h1v1h1v1l1,1h1v1h1v1h1v1h1h-1v1h1v1h1v1h1h-1v1h1V300"/>
 		</g>
 		<g id="local__municipality_125" label="uMshwathi">
-			<path class="st0" d="M592,341v1h1h1h-1v1h-1h-1h-1v1h-1v1v1h-1v-1h-1v1h-1v1v1h-1v1h1v1v1h-1h-1h-1v1v-1v1v-1h-1h1v-1h-1v-1h-1
+			<path className="st0" d="M592,341v1h1h1h-1v1h-1h-1h-1v1h-1v1v1h-1v-1h-1v1h-1v1v1h-1v1h1v1v1h-1h-1h-1v1v-1v1v-1h-1h1v-1h-1v-1h-1
 				h-1v-1v1h-1h-1h1h-1v1v1h1h-1h-1v-1h-1v1v-1h-1v-1v-1h-1v-1v1h-1h-1v1v-1v-1h-1h1v-1h1v-1v1v-1v-1h-1h-1h-1v-1h-1h1v-1v-1v-1v-1
 				l-1,1l-1-1h1v-1v-1v-1h1v-1v-1v-1h1v1h1v1h1h1v1v1h1v-1h1h1v-1h1v1h1v1h1h1l1-1h1v1v-1h1v-1h1h1v1v-1h1v-1h1v1h1v1v1h1v1h1l-1-1
 				h1v-1l1-1v1h1v1h-1v1h-1v1h1h-1v1h1V341"/>
 		</g>
 		<g id="local__municipality_126" label="uMngeni">
-			<path class="st0" d="M555,348h-1l-1-1l-1-1v-1h-1h-1v-1h-1h-1h-1h-1h-1v-1l1-1h1h1v-1h1h1h1v-1h1v1h1v-1h1v-1h1v1h1v-1v1h1v1v-1
+			<path className="st0" d="M555,348h-1l-1-1l-1-1v-1h-1h-1v-1h-1h-1h-1h-1h-1v-1l1-1h1h1v-1h1h1h1v-1h1v1h1v-1h1v-1h1v1h1v-1v1h1v1v-1
 				v-1h1v-1h1v-1v1h1l1-1h1v-1l1,1v-1v1h1h1v1v1l1-1l1,1h1l1,1l1-1v1v1v1v1h-1h1v1h1h1h1v1v1v-1v1h-1v1h-1h1v1h-1l-1,1v1h1h-1h-1v1
 				v-1h-1h-1h-1h-1l-1,1h-1v1h-1h-1v-1h-1h1h-2l-1-1v-1v-1h-1h-1H555"/>
 		</g>
 		<g id="local__municipality_127" label="Mpofana">
-			<path class="st0" d="M545,339v-1h1h1v-1v-1h1v-1l-2,1l1-1l1-1l1,1v-1v1h1h1h1v-1l1-1l1-1h1v-1h1l1-1h1v-1h2l-1-1l1-1v-1l1-1v1h1
+			<path className="st0" d="M545,339v-1h1h1v-1v-1h1v-1l-2,1l1-1l1-1l1,1v-1v1h1h1h1v-1l1-1l1-1h1v-1h1l1-1h1v-1h2l-1-1l1-1v-1l1-1v1h1
 				l1,1v-1h1v-1h1v1h1v1v-1v-1l1-1h1v-1h1v1h1v1h1v1h1h-1h1v1v-1v1h-1v1h1h-1l1,1v1v1v1h-1v1h-1v1v1v1h-1v1v1v1h-1h-1l-1-1l-1,1v-1
 				v-1h-1h-1v-1v1l-1-1v1h-1l-1,1h-1v-1v1h-1v1h-1v1v1v-1h-1v-1v1h-1v-1h-1v1h-1v1h-1v-1h-1v1h-1h-1h-1v1h-1h-1l-1,1h-1h-1h-1h-1v-1
 				h-1v-1h-1h-1v-1h1v1v-1h1v-1v-1l1-1h1h1h1h-1v1h-1h1v1h1v-1L545,339"/>
 		</g>
 		<g id="local__municipality_128" label="Impendle">
-			<path class="st0" d="M551,354l-1-1h-1h-1h1h-1v-1h-1v1h-1h1l-1,1h-1l-1-1h-1h1h-1h-1v1h-1v-1h-1h-1l1-1v-1v-1h1h-1v-1h-1h-1v1h-1
+			<path className="st0" d="M551,354l-1-1h-1h-1h1h-1v-1h-1v1h-1h1l-1,1h-1l-1-1h-1h1h-1h-1v1h-1v-1h-1h-1l1-1v-1v-1h1h-1v-1h-1h-1v1h-1
 				h-1v-1h-1v-1h1h-1h-1h-1l-1-1h-1l-1-1l-1,1v-1h1v-1h1h1h1v-1h1v-1v-1h1v-1v-1h1v1v-1h1h1v1h1h1v1h1v1h1h1h1h1v1h1h1h1h1h1v1h1h1
 				v1l1,1l1,1h1h1h1h1v1v1l1,1h2h-1h1v1v1h-1v1h1h-1v1h-1h-1v1h-1v-1h-1h-1h-1v-1h-1v-1h1v-1h-1h-1v1v1H551"/>
 		</g>
 		<g id="local__municipality_129" label="Mkhambathini">
-			<path class="st0" d="M582,351h1v1v-1v1v-1h1v1h-1h1h-1v1h-1v-1v1h-2v1v1l-1,1h1v1v1v1v1h1h1v1v1v1h1v-1v1h1h-1h1v1l-1,1v1h1h1h-1
+			<path className="st0" d="M582,351h1v1v-1v1v-1h1v1h-1h1h-1v1h-1v-1v1h-2v1v1l-1,1h1v1v1v1v1h1h1v1v1v1h1v-1v1h1h-1h1v1l-1,1v1h1h1h-1
 				v1h-1h1v1v1v1h-1v-1h-1v1l-1,1h-1v1h-1v-1h-1h1v-1h-1v-1v-1h-1h-1h-1v-1h1v-1h1v-1h-1h1h1h-1v-1h-1v-1h1v-1h-1h-1h1v-1v-1h-1h-1
 				h-1h1v-1h1v-1h-1v1v-1l-1-1v-1h1h1h1v-1h1v-1h-1v-1v-1h1h1h1v-1h-1v-1v-1h1h-1h1h1v-1v1h1h1v1h1v1H582"/>
 		</g>
 		<g id="local__municipality_130" label="Richmond">
-			<path class="st0" d="M576,370v1V370h-1h-1v-1v1h-1v1v-1h-1v-1h-1h1h-1v-1h-1h-1h1v-1h-1h-1h-1h-1h-1h-1v-1v1v-1h-1h-1h-1v-1h1v-1
+			<path className="st0" d="M576,370v1V370h-1h-1v-1v1h-1v1v-1h-1v-1h-1h1h-1v-1h-1h-1h1v-1h-1h-1h-1h-1h-1h-1v-1v1v-1h-1h-1h-1v-1h1v-1
 				h-1h-1v-1h1h-1v-1v-1h-1v-1v-1h1v-1v-1h1v-1v1h1v-1h1v-1h1h1v1h1h1h1v-1h1h2v1h1h1v1l1,1v1v-1h1v1h-1v1h-1h1h1h1v1v1h-1h1h1v1h-1
 				v1h1v1h1h-1h-1h1v1h-1v1h-1v1h1h1h1v1v1h-1v1v-1H576"/>
 		</g>
 		<g id="local__municipality_131" label="Alfred_Duma">
-			<polygon class="st0" points="571,306 570,306 570,308 568,308 567,307 566,307 567,308 567,309 566,309 566,310 567,310 567,311 
+			<polygon className="st0" points="571,306 570,306 570,308 568,308 567,307 566,307 567,308 567,309 566,309 566,310 567,310 567,311 
 				566,312 567,312 567,313 568,313 568,316 566,316 566,317 563,317 563,316 560,316 560,315 559,315 559,314 558,314 558,313 
 				556,313 556,314 551,314 551,317 550,317 550,316 547,316 547,317 546,317 546,316 545,316 545,317 543,317 543,316 542,316 
 				542,313 541,313 541,312 542,312 542,311 543,311 543,310 544,310 544,309 543,309 543,308 541,308 541,309 540,309 540,310 
@@ -953,183 +953,183 @@ id="mapsalocal"
 				559,298 559,299 560,299 560,301 563,301 564,302 564,304 565,304 565,303 567,303 567,304 568,304 568,305 570,305 			"/>
 		</g>
 		<g id="local__municipality_134" label="Okhahlamba">
-			<path class="st0" d="M515,318h-1v-1h-1v1h-1l1-1v-1v-1v-1h1v-1h1v-1v-1h1v-1h1l1-1h1h1h1h1h1h1v-1l1,1v-1h1v-1h-1v-1h1v-1h1v-1h1
+			<path className="st0" d="M515,318h-1v-1h-1v1h-1l1-1v-1v-1v-1h1v-1h1v-1v-1h1v-1h1l1-1h1h1h1h1h1h1v-1l1,1v-1h1v-1h-1v-1h1v-1h1v-1h1
 				h1h1v-1h1v-1h1h1v1h1l1,1l1-1h1v1h1v1v1h1h-1h-1v1v1l1,1l1,1h1v-1h1v-1h1h1v1h1v1h-1v1h-1v1h-1h-1h1v1h-1v1h1v1v-1v-1h1v1h-1h1v1
 				v1v-1v1h1v1h1h1v-1h1v1h1v-1h1v1v1h-1v1h-1v1h-1l1,1v1l-2-1h-1v1h-1v1h-1h-1v1h1h-1h-1v1v1h-1v-1v1v1v1h-1v1h-1v1l-1,1h-1l1,1h-1
 				v1l-1-1h-1h-1v-1h-1v-1h-1h-1h-1v-1h-1h1h-1v-1v-1h-1h-1v-1h-1h-1v-1h1v1v-1h-1h-1v-1h-1h1h-1h1v-1h-1h-1v-1h-1v1h-1h-1v-1v-1v1
 				h-1v-1h1h-1v-1v-1h-1h1V318"/>
 		</g>
 		<g id="local__municipality_135" label="Inkosi_langa">
-			<polygon class="st0" points="568,316 568,324 567,324 566,325 566,326 565,326 565,325 564,325 564,326 563,326 563,327 562,326 
+			<polygon className="st0" points="568,316 568,324 567,324 566,325 566,326 565,326 565,325 564,325 564,326 563,326 563,327 562,326 
 				561,326 561,325 560,326 560,327 559,328 560,329 558,329 558,330 557,330 556,331 555,331 555,332 554,332 552,334 552,335 
 				549,335 548,334 546,336 548,335 548,336 547,336 547,338 545,338 545,339 544,338 544,339 543,339 543,337 541,337 540,338 
 				540,340 535,340 535,337 534,337 534,335 532,335 532,334 531,334 531,332 533,332 534,333 534,332 535,332 534,331 535,331 
 				536,330 536,329 537,329 537,328 538,328 538,326 539,326 539,324 540,324 540,323 542,323 542,322 543,322 543,321 544,321 
 				546,322 546,319 547,319 547,318 548,318 548,316 550,316 550,317 551,317 551,314 556,314 556,313 558,313 558,314 559,314 
 				559,315 560,315 560,316 563,316 563,317 566,317 566,316 			"/>
-			<polyline class="st0" points="546,321 545,320 546,320 			"/>
+			<polyline className="st0" points="546,321 545,320 546,320 			"/>
 		</g>
 		<g id="local__municipality_136" label="Endumeni">
-			<path class="st0" d="M559,293v1h1h1h1v-1v-1h1v1h1l1-1v-1v-1h1h1l1-1l-1-1v-1v-1h1h1h1v-1h-1v-1h1h1h1h1v1h1v1h1h1l1,1h1h2v1v1v1
+			<path className="st0" d="M559,293v1h1h1h1v-1v-1h1v1h1l1-1v-1v-1h1h1l1-1l-1-1v-1v-1h1h1h1v-1h-1v-1h1h1h1h1v1h1v1h1h1l1,1h1h2v1v1v1
 				h-1h1h-1v1h-1h1v1v1h-1v-1v1v1v1v-1v1v-1h1v1h-1v1h-1h1v1h-1l-1,1l-1-1v1h-1l-1,1v-1h-1v1l-1-1h-1v1v1h-1v1h-1v1h-1v1h-1h-1v1h-1
 				v-1v-1l-1-1h1h-1h-1h-1v1v-1h-1v-1v-1h-1v-1h-1v-1h-1h-1v-1h1l-1-1l1-1v1v-1l1-1H559"/>
 		</g>
 		<g id="local__municipality_137" label="Nqutu">
-			<path class="st0" d="M595,293l1,1l1-1v1v1l1-1l1,1l-1,1v1h-1l-1,1v1h-1l-1,1v1h1v1v1h1h-1l-2,1h-1v1h-1h-1v1l-1,1v1h-1h-1v1h1h1
+			<path className="st0" d="M595,293l1,1l1-1v1v1l1-1l1,1l-1,1v1h-1l-1,1v1h-1l-1,1v1h1v1v1h1h-1l-2,1h-1v1h-1h-1v1l-1,1v1h-1h-1v1h1h1
 				v1h1v1h-1l-1,1h-1h-1v1h-1h-1v-1v1v-1h-1h1h-1h-1v-1h-1v-1v-1v1h1v-1h1h1v-1v-1h-1h-1v-1h1v-1h-1h-1v-1v-1h1v1v-1v-1h-1h-1h1h-1
 				v-1v-1v1h-1h-1v-1h-1v-1v1h1v-1v-1h-1h1h-1v-1h1v-1h-1h1v-1h1v-1h-1v1v-1v1v-1v-1v-1v1h1v-1v-1h-1h1v-1h1h-1h1v-1v-1v-1v-1v1v-1
 				h1h-1h1h-1v-1h1h-1h1v-1h1h1v1h1v1v-1v1l-1,1l-1,1v1v1h1v1h1h-1l-1,1v1h1v-1h1h1h1h1h1v1v-1v1h1v-1h1h1h1v1h1v1h1h1V293h-1H595"
 				/>
 		</g>
 		<g id="local__municipality_138" label="Msinga">
-			<path class="st0" d="M575,323h-1v1v-1h-1h-1h1v1h-1h-1h-1v1v-1h-1v-1h-1v-1v-1v-1v-1v-1v-1v-1v-1v-1v-1h-1v-1h-1l1-1v-1h-1v-1h1
+			<path className="st0" d="M575,323h-1v1v-1h-1h-1h1v1h-1h-1h-1v1v-1h-1v-1h-1v-1v-1v-1v-1v-1v-1v-1v-1v-1v-1h-1v-1h-1l1-1v-1h-1v-1h1
 				v-1l-1-1h1l1,1h1h1v-1v-1h1l-1-1h-1h-1v-1h-1v-1h-1h1v-1h1v-1h1v-1h1v-1v-1h1l1,1v-1h1v1l1-1h1v-1l1,1l1-1v1h1h-1h1v1v1h-1v-1v1
 				h1v1h1h1v-1v1v1h1h-1h1h1v1v1v-1h-1v1v1h1h1v1h-1v1h1h1v1v1h-1h-1v1h-1v-1v1v1h1v1h1h1h-1h1v1v1h-1v1h-1h1v1v1h1v-1h1h1v1v1h-1h1
 				v1v1v1h1v1h1h-1v1v-1h-1h-1v1h-1h-1v-1h-1v-1l-1-1l-1,2h-1v-1v1h-1l-1,1v-1h-1h-1V323"/>
 		</g>
 		<g id="local__municipality_139" label="Umvoti">
-			<path class="st0" d="M572,326h-1v-1h-1v-1h1h1h1v-1h-1h1h1v1v-1h1v-1h1h1v1l1-1h1v-1v1h1l1-2l1,1v1h1v1h1h1v-1h1h1v1v-1h1h-1v-1
+			<path className="st0" d="M572,326h-1v-1h-1v-1h1h1h1v-1h-1h1h1v1v-1h1v-1h1h1v1l1-1h1v-1v1h1l1-2l1,1v1h1v1h1h1v-1h1h1v1v-1h1h-1v-1
 				h-1v-1v-1h1v-1v-1h1v-1h-1h1h1h1v1h-1v1h1h1h1v-1h1v1v1v1v1h1l1-1h-1v-1h1v-1v1h1v1v1h1v1h-1h-1h-1v1v1v1h1h1h-1v1h1v1h1v1v1h1v1
 				h-1h-1h-1h-1h-1v1v1h-1h-1v1h1h1v1h1h1h-1h1v1h1v1v1v1h-1v-1h-1v1h-1v-1v1h-1v-1h1v-1h-1v-1l-1,1v1h-1l1,1h-1v-1h-1v-1v-1h-1v-1
 				h-1v1h-1v1v-1h-1h-1v1h-1v1v-1h-1l-1,1h-1h-1v-1h-1v-1h-1v1h-1h-1v1h-1v-1v-1h-1h-1v-1h-1v-1v-1h1v-1v-1v-1l-1-1h1h-1v-1h1V326v1
 				V326h-1H572"/>
 		</g>
 		<g id="local__municipality_140" label="Newcastle">
-			<path class="st0" d="M548,265h1v1v-1h1v-1v-1h1v-1h1v1v-1h1v1v1h1h-1h1v1h-1h1h-1h1v1v1h-1h1h-1v1h1h-1v1h1v1h1v1h-1v-1v1h1h-1h1
+			<path className="st0" d="M548,265h1v1v-1h1v-1v-1h1v-1h1v1v-1h1v1v1h1h-1h1v1h-1h1h-1h1v1v1h-1h1h-1v1h1h-1v1h1v1h1v1h-1v-1v1h1h-1h1
 				v1h1v1h1v1h1v1h1v-1v1h1v1v-1v1h1h1v-1v1h1h1h1h-1h1h1h-1v1h1h-1v1h1v1h-1h-1h-1h-1h-1h1v1h-1h-1h-1h1v1v1h1h-1v1h-1h-1v-1h-1v1
 				v1v1l-1-1h-1v1v1h-1v1h-1h-1h-1v1v-1h-1h-1v-1h-1v-1h-1v1v1h-1v-1h-1l-1-1v-1h-1h1v-1h1v-1v-1v-1h1v-1v-1h-1l1-1h-1h1v-1v-1h-1
 				v-1h-1v-1h1l1-1l1-1v1v-1h1h1h-1v-1h1h-1v-1v-1h-1h-1v-1h1l-1-1h-1h1v-1h1H548"/>
 		</g>
 		<g id="local__municipality_141" label="Emadlangeni">
-			<path class="st0" d="M554,267h-1H554v-1v-1h-1h1h-1h1v-1h-1h1h-1v-1v-1h1v-1l1,1h1h1v1h1h1v-1h1h1v1h1l1,1v-1h1v-1h1v-1v1h1h1h1
+			<path className="st0" d="M554,267h-1H554v-1v-1h-1h1h-1h1v-1h-1h1h-1v-1v-1h1v-1l1,1h1h1v1h1h1v-1h1h1v1h1l1,1v-1h1v-1h1v-1v1h1h1h1
 				v-1v-1h1h1v-1h1v1h1v-1v-1h1h1v1v1h1v1v1v-1h1v1l1,1l-1,1h1h1v1h-1l1,1h1l1,1l1,1v1h1v1l1,1l-1,1v1h1h1v1l-1,1h1v1h1v1h-1h-1h-1
 				v1v1v1h-1h1h-1h1h-1v1h-1h1v1h-1h1h-1h1h-1h1h-1h1h-1h1v1h-1v1h1v1h-1h1h-1v1h1h-1h1h-1v1v-1v1h-2h-1l-1-1h-1h-1v-1h-1v-1h-1h-1
 				h-1h-1v1h-1v-1v-1h1v-1v-1h-1h1v-1h-1v-1v1h-1v-1h-1h-1v1v-1h1v-1h-1v-1h1h-1v-1h1h-1h-1h1h-1h-1h-1v-1v1h-1h-1v-1v1v-1h-1v-1v1
 				h-1v-1h-1v-1h-1v-1h-1v-1h-1h1h-1v-1v1h1v-1h-1v-1h-1v-1h1h-1v-1H554"/>
 		</g>
 		<g id="local__municipality_142" label="Dannhauser">
-			<path class="st0" d="M549,291v1h-1v1h-1v-1h-1h-1h-1v1l-1-1h1l-1-1v-1l-1-1l1-1v-1v-1h1v-1l1,1h1v1h1v-1v-1h1v1h1v1h1h1v1v-1h1h1
+			<path className="st0" d="M549,291v1h-1v1h-1v-1h-1h-1h-1v1l-1-1h1l-1-1v-1l-1-1l1-1v-1v-1h1v-1l1,1h1v1h1v-1v-1h1v1h1v1h1h1v1v-1h1h1
 				h1v-1h1v-1v-1h1l1,1v-1v-1v-1h1v1h1h1v-1h1h-1v-1v-1h-1h1h1h1v-1h-1h1h1h1h1v1v-1h1h1v1h1v-1v1h1v1h-1h1v1v1h-1v1v1h1h1v1h-1h-1
 				h-1v1v1l1,1l-1,1h-1h-1v1v1l-1,1h-1v-1h-1v1v1h-1h-1h-1v-1h-1l-1,1v1v-1h-1v-1h-1v-1v-1v-1h-1h-1v1l-1,1v-1h-1h-1H549"/>
 		</g>
 		<g id="local__municipality_143" label="eDumbe">
-			<path class="st0" d="M588,274h-1h-1h-1h-1v-1h-1h-1v-1l1-1l-1-1v-1h-1v-1l-1-1l-1-1h-1l-1-1h1v-1h-1h-1l1-1l-1-1v-1h-1v1v-1v-1h1
+			<path className="st0" d="M588,274h-1h-1h-1h-1v-1h-1h-1v-1l1-1l-1-1v-1h-1v-1l-1-1l-1-1h-1l-1-1h1v-1h-1h-1l1-1l-1-1v-1h-1v1v-1v-1h1
 				h1h1h1h1h1h1v-1h1h1h1h1h1v1h1h1v1v-1v1h1h1v-1h1h-1h1h1v-1v1v-1h1v1v1v1h1h1v-1v1v-1h1v1v-1h1v1v-1h1h1v-1h1v1h1v1l-1,1h1v1h-1
 				h1h1h1h-1h1h1v1v1v-1h-1h-1h1v1h-1v-1h-1v1h1h-1h1h-1v1h-1v1h-1v-1v1v1v-1h-1h-1v1h1v1l-1,1h1v1h-1h-1h-1h-1v1l-1,1v-1v-1l-1,1
 				h-1h-1h-1h-1h1h-1v1H588"/>
 		</g>
 		<g id="local__municipality_144" label="UPhongolo">
-			<path class="st0" d="M635,271v1h-1v-1v1h-1h-1v-1v1h-1h-1v1h-1v-1h1v-1v-1h-1v1h1h-1v1v-1h-1v1h1h-1v1h-1h1v1h-1h1h-1v1h1h-1v1
+			<path className="st0" d="M635,271v1h-1v-1v1h-1h-1v-1v1h-1h-1v1h-1v-1h1v-1v-1h-1v1h1h-1v1v-1h-1v1h1h-1v1h-1h1v1h-1h1h-1v1h1h-1v1
 				v-1h-1h1h-1v1v1h-1h-1h-1v1v-1h-1v1h-1h-1v1v-1v1h-1v1h-1h-1v1v-1v-1v-1h1v-1v-1l1-1v-1l1-1h-1v-1h-1v2h-1l-1-1h-1h-1h1v-1v-1h-1
 				h-1l1-1h-1h-1v-1l-1-1h-1h-1l-1,1v1h-1v1h-2v-2l-1,1v-1v-1v-1h-1h-1v1h-1l1,1v1v1v1h-1h-1h-1v-1h-1l1-1v-1h-1v-1h1h1v1v-1v-1v1h1
 				v-1h1v-1h1h-1h1h-1v-1h1v1h1v-1h-1h1h1v1v-1v-1h-1h-1h1h-1h-1h-1h1v-1h-1l1-1h1h1v-1h1v-1l1-1v-1h1v-1h1h1h1v1h1h1h1v1h1h1l1,1h1
 				h1h1h1h1h1h1h1h1h1h1h1h1h1h2h1h1h1h1v1v1v1h1v1v1v1v1v1h1v1l1,1l-1,1h-1v-1h-1v1H635"/>
 		</g>
 		<g id="local__municipality_145" label="Abaqulusi">
-			<path class="st0" d="M605,271h2v-1h1v-1l1-1h1h1l1,1v1h1h1l-1,1h1h1v1v1h-1h1h1l1,1h1v-2h1v1h1l-1,1v1l-1,1v1v1h-1v1v1v1h-1v1h-1
+			<path className="st0" d="M605,271h2v-1h1v-1l1-1h1h1l1,1v1h1h1l-1,1h1h1v1v1h-1h1h1l1,1h1v-2h1v1h1l-1,1v1l-1,1v1v1h-1v1v1v1h-1v1h-1
 				v1h-1v1h-1h-1v1h-1v1h-1v1v1h-1l-1,1h-1v-1h1h-1h-1h-1h-1v1v-1h-1v-1v1h-1h-1h-1h-1h-1v-1v1v-1h-1v1l-1,1v1v1h1v1h-1h-1v1h-1h1v1
 				h-1h-1v-1h-1v-1h-1h-1h-1v1h-1v-1v1v-1h-1h-1h-1h-1h-1v1h-1v-1l1-1h1h-1v-1h-1v-1v-1l1-1l1-1v-1v1v-1h-1v-1h-1h-1h-1v-1h1v-1h-1
 				h1h-1h1h-1h1h-1h1h-1h1v-1h-1h1v-1h1h-1h1h-1h1v-1v-1v-1h1h1h1v-1h-1v-1h-1l1-1h1h1h1h1h1v-1h1h-1h1h1h1h1l1-1v1v1l1-1v-1h1h1h1
 				h1h1h1h1v-1v-1v-1l-1-1h1v-1h1h1v1v1v1l1-1V271"/>
 		</g>
 		<g id="local__municipality_146" label="Nongoma">
-			<path class="st0" d="M635,276l1,1v1v1v1v1v1l1,1l1,1h-1h-1h-1v1v1h-1v1h1h-1h1v1h-1h1h-1v1v-1h-1h-1h-1h-1h-1v1h1v1h-1v1v1h-1v1
+			<path className="st0" d="M635,276l1,1v1v1v1v1v1l1,1l1,1h-1h-1h-1v1v1h-1v1h1h-1h1v1h-1h1h-1v1v-1h-1h-1h-1h-1h-1v1h1v1h-1v1v1h-1v1
 				h1h-1v1h1h-1h1v1v1h-1v-1v1h-1h-1v-1h-1v-1v1v-1h-1v1h-1h-1v-1h1h-1h1v-1h-1h-1v-1h1h-1h-1v-1l-1,1v1l-1-1v1v-1h-1v1v-1v-1v-1v-1
 				h-1v-1v1v-1h-1h1v-1h1h-1v-1v-1v1v-1h1v-1h-1h1h-1v-1h1h-1v1v-1v1v-1v1v-1v-1v-1h1v-1h1h1v-1h1v-1v1v-1h1h1v-1h1v1v-1h1h1h1v-1
 				v-1h1h-1h1v1v-1h1h-1v-1h1h-1h1v-1h-1h1v-1h1h-1v-1h1v1v-1h1h-1v-1h1v1v1h-1v1h1v-1h1h1v-1v1h1h1v-1v1h1v1v1v1V276"/>
 		</g>
 		<g id="local__municipality_147" label="Ulundi">
-			<path class="st0" d="M617,290v1v1v1v-1h1v1v-1l1,1v-1l1-1v1h1h1h-1v1h1h1v1h-1h1h-1v1h1h1v-1h1v1v-1v1h1v1h-1v1v1v1h1h-1v1v1v1
+			<path className="st0" d="M617,290v1v1v1v-1h1v1v-1l1,1v-1l1-1v1h1h1h-1v1h1h1v1h-1h1h-1v1h1h1v-1h1v1v-1v1h1v1h-1v1v1v1h1h-1v1v1v1
 				h-1v1h-1v-1h-1v1h-1v-1v1h-1v-1h-1h-1v1h1h-1v1h-1h-1h1v1v1h-1h-1h-1l-1-1l-1-1l-1-1v-1v1h-1v1v1l-1,1v-1l-1,1h-1v-1v1h-1h-1v1
 				h-1h1h-1v1v1h-1v-1v1h-1v-1v1v-1v1v-1h-1h1v-1h-1h-1v-1h-1h1h-1v-1h-1v-1h-1v-1h-1h-1v-1v-1h-1v-1l1-1h1v-1l1-1h1v-1l1-1l-1-1
 				l-1,1v-1v-1l-1,1l-1-1v-1h1h1v-1h-1v-1v-1l1-1v-1h1v1v-1v1h1h1h1h1h1v-1v1h1v1v-1h1h1h1h1h-1v1h1l1-1h1v-1v-1h1v-1h1v-1h1h1v-1h1
 				v-1h1v-1v1v1v1v-1v1v-1v1v-1h1h-1v1h1h-1h1v1h-1v1v-1v1v1h1h-1v1h-1h1v1v-1v1h1V290"/>
 		</g>
 		<g id="local__municipality_148" label="Umhlabuyalingana">
-			<path class="st0" d="M646,259v-1v-1h1h-1v-1h-1v-1h1v-1h-1h1v-1h1h-1v-1v1v-1h1h-1h1h-1h1h-1h1v-1v-1v1v-1v-1h-1h1v-1h1h1v-1h-1
+			<path className="st0" d="M646,259v-1v-1h1h-1v-1h-1v-1h1v-1h-1h1v-1h1h-1v-1v1v-1h1h-1h1h-1h1h-1h1v-1v-1v1v-1v-1h-1h1v-1h1h1v-1h-1
 				v-1h1v-1h1h-1h1h-1h1h-1h1h-1v-1h1v1v-1h-1h1h-1h1l-1-1h1h-1h1h-1h1v-1h1h1h1h1h1h1h1h1h1h1h1h1h1h1h1h1h1h1h1h1h1h1h2v1v1v1
 				l-1,1h1v1h-1v1v1v1v1h-1h1h-1v1v1v1h-1v1v1h-1v1v1h-1v1v1v1h-1v1v1v1h-1v1v1h-1v1v1v1h-1h-1h-1h-1h-2l-1,1h-2h-1h-1l-2,1v-1v-1
 				v-1v-2h-1v1h-1h-1h-1h-1v1h-1v-1v-1h-1h-1h1v-1v-1v-1l1-2l-1-1h-1v-1H646"/>
 		</g>
 		<g id="local__municipality_149" label="Jozini">
-			<path class="st0" d="M645,256h1v1h1h-1v1v1h-1v1h1l1,1l-1,2v1v1v1h-1h1h1v1v1h1v-1h1h1h1h1v-1h1v2v1v1v1v1v1v1l1,1h-1l-1,1v-1v-1
+			<path className="st0" d="M645,256h1v1h1h-1v1v1h-1v1h1l1,1l-1,2v1v1v1h-1h1h1v1v1h1v-1h1h1h1h1v-1h1v2v1v1v1v1v1v1l1,1h-1l-1,1v-1v-1
 				v1h-1h-1v1v1l-1,1h-1v1h-1h-1v-1h-1h-1v1v1h-1h1v1h-1h1h-1h-1v1h-1h-1h1h-1h-1h1h-1h1v1h-1l-1,1l-1-1l-1-1v-1v-1v-1v-1v-1l-1-1
 				v-1v-1v-1v-1v-1h1v-1h1v1h1l1-1l-1-1v-1h-1v-1v-1v-1v-1v-1h-1v-1v-1v-1v-1v-1v-1v-1v-1v-2v-1v-1v-1v-1v-1v-1l1-2l-1-1l1-1v-3h1h1
 				h1v-1h1v1v1h1h1v1h1h1v-1h1h1h1h1v1v-1l1,1v1h-1h1h-1h1h-1l1,1h-1h1h-1h1v1v-1h-1v1h1h-1h1h-1h1h-1h1h-1v1h-1v1h1v1h-1h-1v1h-1h1
 				v1v1v-1v1v1h-1h1h-1h1h-1h1h-1v1v-1v1h1h-1v1h-1h1v1h-1V256"/>
 		</g>
 		<g id="local__municipality_150" label="The_Big_5_False_Bay">
-			<path class="st0" d="M651,289h-1v1v1h-1v1h1h-1v1h-1h-1v-1h-1h-1v1v-1h-1v1v-1v-1v-1h1v-1v-1v-1v-1h-1v-1v-1h-1h-1h-1h-1v1h-1h-1
+			<path className="st0" d="M651,289h-1v1v1h-1v1h1h-1v1h-1h-1v-1h-1h-1v1v-1h-1v1v-1v-1v-1h1v-1v-1v-1v-1h-1v-1v-1h-1h-1h-1h-1v1h-1h-1
 				v-1l1-1h1v-1h-1h1h-1h1h1h-1h1h1v-1h1h1h-1h1v-1h-1h1v-1v-1h1h1v1h1h1v-1h1l1-1v-1v-1h1h1v-1v1v1l1-1h1l-1-1v-1v-1v-1l2-1h1h1h2
 				l1-1h2h1h1h1h1v1h-1v1v1v1v1h-1v1v1v1h-1v1v1v1v1l-1,1v1v1v1v1v1v1v1h-1v1v1v1h-2h-2h-1v-1h-1h-1l-1-1l-1,1h-1v-1h1h-1V289h-1
 				H651"/>
 		</g>
 		<g id="local__municipality_151" label="Hlabisa">
-			<path class="st0" d="M645,289v1h-1v1v1h-1v1v-1h-1v-1v1h-1l-1,1l-1,2l-1,1l-1,2l-1,1v2v1l-1,1h-1h-1l-1,1h-1h-1h-1h-3l1-1h-1h-1
+			<path className="st0" d="M645,289v1h-1v1v1h-1v1v-1h-1v-1v1h-1l-1,1l-1,2l-1,1l-1,2l-1,1v2v1l-1,1h-1h-1l-1,1h-1h-1h-1h-3l1-1h-1h-1
 				v-1h1h-1v-1v-1v-1h1h-1v-1v-1v-1h1h1h1v-1v1h1v-1v-1h-1h1h-1v-1h1h-1v-1h1v-1v-1h1v-1h-1v-1h1h1h1h1h1v1v-1h1h-1h1v-1h-1h1h-1v-1
 				h1v-1v-1h1h1h1v1h1h1v-1h1h1h1h1v1v1h1v1v1V289"/>
 		</g>
 		<g id="local__municipality_152" label="Mtubatuba">
-			<path class="st0" d="M641,304v1h-1h-1v-1v-1v1v-1h-1h-1h-1v-1h1h1h-1v-1h-1v-2l1-1l1-2l1-1l1-2l1-1h1v-1v1h1v1v-1h1v1v-1h1v1v-1
+			<path className="st0" d="M641,304v1h-1h-1v-1v-1v1v-1h-1h-1h-1v-1h1h1h-1v-1h-1v-2l1-1l1-2l1-1l1-2l1-1h1v-1v1h1v1v-1h1v1v-1h1v1v-1
 				h1h1v1h1h1v-1h1h-1v-1h1v-1v-1h1h-1h1v1h1h-1v1h1l1-1l1,1h1h1v1h1h2h2v1v1h-1v1v1h-1v1v1h-1v1v1h-1v1h-1v1v1v1v1h-1v1h-2h-1h-1
 				h-1v1h-1v1v-1h-1h-1v-1v1h-1v-1v-1h-1h-1h-1h-1L641,304"/>
 		</g>
 		<g id="local__municipality_153" label="Mfolozi">
-			<path class="st0" d="M635,313h-1v-1h-1v-1h-1l1-1h-1v-1l-1-1v-1h-1v-1h1v-1v-1h-1h1h1l1-1h1h1l1-1v-1h1v1h1h-1h-1v1h1h1h1v1v-1v1
+			<path className="st0" d="M635,313h-1v-1h-1v-1h-1l1-1h-1v-1l-1-1v-1h-1v-1h1v-1v-1h-1h1h1l1-1h1h1l1-1v-1h1v1h1h-1h-1v1h1h1h1v1v-1v1
 				v1h1h1v-1l1,1h1h1h1h1v1v1h1v-1v1h1h1v1v-1h1v-1h1h1h1v1v1h-1v1h-1v1h-1v1h-1v1h-1v1h-1l-1,1h-1v1h-1v1h-1v1h-1v-1v-1h1h-1h-1h-1
 				h-1l1-1h-1v-1v1h-1h-1h1v-1h-1v-1h-1v1H635h-1H635"/>
 		</g>
 		<g id="local__municipality_154" label="uMhlathuze">
-			<path class="st0" d="M627,323v1V323v1l-1-1v1v-1v1v-1h-1v1v-1h1v-1h1v-1h1h1v-1h1v-1h-1v-1h1h-1v-1v1h-1v-1v1h-1v-1h1h-1h1v-1
+			<path className="st0" d="M627,323v1V323v1l-1-1v1v-1v1v-1h-1v1v-1h1v-1h1v-1h1h1v-1h1v-1h-1v-1h1h-1v-1v1h-1v-1v1h-1v-1h1h-1h1v-1
 				l1-1h1v1h1v-1h1h-1h1v-1h-1h1v-1h1v-1h1v1h1h-1h1h1v-1h1v1h1v1h-1h1h1v-1v1h1l-1,1h1h1h1h1h-1v1v1v1h-1v1h-1v1h-1v1h-1l-1,1h-1
 				l-1,1h-1h-1v1h-1h-1h-1h-1v1h-1v-1h1h-1v-1H627"/>
 		</g>
 		<g id="local__municipality_155" label="Ntambanana">
-			<path class="st0" d="M629,304h1h1v1v1h-1v1h1v1l1,1v1h1l-1,1h1v1v1h-1v1h-1h1v1h-1h1h-1v1h-1v-1h-1l-1,1v1h-1h-1h1v-1h-1v-1h-1v1
+			<path className="st0" d="M629,304h1h1v1v1h-1v1h1v1l1,1v1h1l-1,1h1v1v1h-1v1h-1h1v1h-1h1h-1v1h-1v-1h-1l-1,1v1h-1h-1h1v-1h-1v-1h-1v1
 				v-1h-1v1h-1v-1h-1h-1h-1v-1h-1h-1v-1h1v-1h1v-1h-1v1v-1v1h-1v-1h-1v-1v1h-1v-1l1-1v-1v1h1v-1h1h1v-1h-1v-1h1h1h-1v-1h-1v-1h1h-1
 				v-1h1v-1v1h1v-1v1h1v-1h1v1h1v-1h1h1h-1v1h1h1l-1,1H629"/>
 		</g>
 		<g id="local__municipality_156" label="uMlalazi">
-			<path class="st0" d="M624,316v-1h1v1v-1h1v1h1v1h-1h1h1h-1v1h1v-1v1h1v-1v1h1h-1v1h1v1h-1v1h-1h-1v1h-1v1h-1v1v-1h1v1v-1v1v-1
+			<path className="st0" d="M624,316v-1h1v1v-1h1v1h1v1h-1h1h1h-1v1h1v-1v1h1v-1v1h1h-1v1h1v1h-1v1h-1h-1v1h-1v1h-1v1v-1h1v1v-1v1v-1
 				l1,1v-1v1v-1h1v1h1h-1v1h1h-1h-1v1h-1v1h-1v1h-1v1h-1h-1h-1h-1h-1h-1v-1h-1l1,1h-1v-1h-1v-1h-1h1h-1v-1v1h-1v-1v1v-1v1v-1h-1v1
 				h-1v1v1h-1h1v1h-1h-1h1h-1v1h1h-1v1v-1v1h-1h1v1h-1v1v-1h-1h1v-1v-1h-1v1h-1v1v-1v-1h-1h-1v-1h-1v-1h-1v-1h-1v-1v-1v-1h-1h-1v1h1
 				v1h-1v-1v-1h-1v-1h-1v-1h1v-1h1v-1h1v-1h1h1h1v-1v-1v-1h1v1h1h-1h1v1h1h1h1h1v-1h1h1h1v-1h1v1v-1h1v1v-1v-1h1h1v-1h1h1h1h1h1h1v1
 				H624"/>
 		</g>
 		<g id="local__municipality_157" label="Mthonjaneni">
-			<path class="st0" d="M619,315h-1h-1v1h-1h-1v1v1v-1h-1v1v-1h-1v1h-1h-1v-1h-1h-1h1v-1v-1v1h-1v-1v1h-1v-1v1v-1h-1v-1h1h-1v-1v1
+			<path className="st0" d="M619,315h-1h-1v1h-1h-1v1v1v-1h-1v1v-1h-1v1h-1h-1v-1h-1h-1h1v-1v-1v1h-1v-1v1h-1v-1v1v-1h-1v-1h1h-1v-1v1
 				v-1h-1v-1h1h-1v1h-1v-1h-1v-1v-1h-1v-1h1v-1v-1h1h-1h1v-1h1h1v-1v1h1l1-1v1l1-1v-1v-1h1v-1v1l1,1l1,1l1,1h1h1h1v-1v-1h-1h1h1v-1
 				h1h-1v-1h1h1v1h-1v1h1h-1v1h1v1h1h-1h-1v1h1v1h-1h-1v1h-1v-1v1l-1,1v1h1v-1v1h1v1h1v-1v1v-1h1v1h-1v1h-1v1h1h1v1H619"/>
 		</g>
 		<g id="local__municipality_158" label="Nkandla">
-			<path class="st0" d="M595,318v1h-1v1h1l-1,1h-1v-1v-1v-1v-1h-1v1h-1h-1h-1v-1h1v-1h-1h-1h-1h1v1h-1v1v1h-1v-1h-1h1v-1v-1h-1h-1v1
+			<path className="st0" d="M595,318v1h-1v1h1l-1,1h-1v-1v-1v-1v-1h-1v1h-1h-1h-1v-1h1v-1h-1h-1h-1h1v1h-1v1v1h-1v-1h-1h1v-1v-1h-1h-1v1
 				h-1v-1v-1h-1h1v-1h1v-1v-1v1h1h1v-1h1h1l1-1h1v-1h-1v-1h-1h-1v-1h1h1v-1l1-1v-1h1h1v-1h1l2-1h1h1v1h1v1h1v1h1h-1h1v1h1h1v1h-1h1
 				v1v-1v1v-1v1h1v-1v1v1h1v1v1h1v1h1v-1h1h-1v1h1v1v-1v1h1h-1v1h1v1v-1v1h1v-1v1h1v-1v1v1h-1h1h1v1h-1v1h-1h-1h-1h-1v-1h-1h1h-1v-1
 				h-1v1v1v1h-1h-1h-1v1h-1v1h-1v1h-1v-1v-1h-1h-1v-1v-1h-1V318"/>
 		</g>
 		<g id="local__municipality_159" label="Mandeni">
-			<path class="st0" d="M611,332v1v1h-1v-1v-1h-1h1v-1v1v-1h1h-1v-1h1h-1h1h1v-1h-1h1v-1v-1h1v-1h1v1v-1v1v-1v1h1v-1v1h1h-1h1v1h1v1
+			<path className="st0" d="M611,332v1v1h-1v-1v-1h-1h1v-1v1v-1h1h-1v-1h1h-1h1h1v-1h-1h1v-1v-1h1v-1h1v1v-1v1v-1v1h1v-1v1h1h-1h1v1h1v1
 				h1l-1-1h1v1h1h1h1h1h1h1h-1v1h-1v1h-1v1h-1v1h-1v1h-1v1h-1v1h-1v1v-1v1l-1-1h-1h-1v1v-1h-1v1h-1v-1h-1h1v-1h-1h1v-1l1-1h-1l1-1
 				H611"/>
 		</g>
 		<g id="local__municipality_160" label="KwaDukuza">
-			<path class="st0" d="M615,338h-1H615h-1v1h-1v1h-1v1h-1v1h-1v1h-1h1h-1v1h-1v1v1v-1v1h-1v1h-1v1h-1v1h-1v-1v-1h-1h-1h-1v1h-1v-1
+			<path className="st0" d="M615,338h-1H615h-1v1h-1v1h-1v1h-1v1h-1v1h-1h1h-1v1h-1v1v1v-1v1h-1v1h-1v1h-1v1h-1v-1v-1h-1h-1h-1v1h-1v-1
 				v1v-1v1h-1v-1v-1h1v-1v-1h1l1-1h1v-1h1h1v-1h-1v-1h-1v-1h1v-1v-1h-1h1h1h1v-1h1v-1v-1h-1h1h1v-1h1v1v-1h1v1h1v-1v-1h1l-1,1h1
 				l-1,1v1h-1h1v1h-1h1v1h1v-1h1v1v-1h1h1l1,1h-1V338"/>
 		</g>
 		<g id="local__municipality_161" label="Ndwedwe">
-			<path class="st0" d="M604,339h-1v1h1v1h1v1h-1h-1v1h-1l-1,1h-1v1v1h-1v1v1h1v-1v1v-1v1h1l-1,1h-1v-1l-1,1h-1v1h-1h-1h-1v1h-1v-1
+			<path className="st0" d="M604,339h-1v1h1v1h1v1h-1h-1v1h-1l-1,1h-1v1v1h-1v1v1h1v-1v1v-1v1h1l-1,1h-1v-1l-1,1h-1v1h-1h-1h-1v1h-1v-1
 				h-1v1h-1v1v-1v1v-1h-1v1v-1h-1v-1v-1h-1v1v-1h-1h-1h-1v-1h1v-1v-1h1v-1h1v1h1v-1v-1h1v-1h1h1h1v-1h1h-1h-1v-1v-1h-1v-1h1h-1v-1h1
 				h1v-1v1h1v-1h1v1h1v-1h1h1v1h1h-1v1v1h-1h1h1v-1h-1h1v1h1v1v-1h1v-1v-1v-1h1v-1v-1h1h1l1-1h1h-1h1h1v1v1h-1v1h-1h-1h-1h1v1V339"
 				/>
 		</g>
 		<g id="local__municipality_162" label="Maphumulo">
-			<path class="st0" d="M599,339h-1H599v1h-1h-1h1v-1v-1h1h-1v-1h-1h-1v-1v-1h-1v-1h-1h1h-1h-1v-1h-1h-1v-1h1h1v-1v-1h1h1h1h1h1v-1
+			<path className="st0" d="M599,339h-1H599v1h-1h-1h1v-1v-1h1h-1v-1h-1h-1v-1v-1h-1v-1h-1h1h-1h-1v-1h-1h-1v-1h1h1v-1v-1h1h1h1h1h1v-1
 				h-1v-1v-1h-1v-1h-1v-1h1h-1h-1v-1v-1v-1h1h1h1v-1h1v1v1v1h1v1h1v1v1h1v-1h-1v-1h1h1v1v1v1h1v1h1v1h1v1h1h1v1v1v-1h1v-1h1v1v1h-1
 				v1h-1h-1h-1h1h-1l-1,1h-1h-1v1v1h-1v1v1v1h-1v1v-1h-1V339"/>
 		</g>
 		<g id="local__municipality_164" label="Dr_Nkosa_Dl">
-			<polygon class="st0" points="562,364 562,365 561,365 561,369 559,369 559,368 558,369 558,368 557,369 557,370 556,370 555,369 
+			<polygon className="st0" points="562,364 562,365 561,365 561,369 559,369 559,368 558,369 558,368 557,369 557,370 556,370 555,369 
 				555,370 554,371 552,371 552,370 550,370 550,369 547,369 547,370 544,370 544,369 543,369 543,368 540,368 540,367 538,367 
 				538,366 536,366 536,365 535,365 535,366 534,366 534,365 533,365 533,364 528,364 528,363 524,363 524,362 523,362 523,361 
 				522,361 522,360 523,360 523,359 522,359 522,358 523,358 523,355 524,355 524,354 525,354 525,353 526,353 526,352 529,352 
@@ -1139,51 +1139,51 @@ id="mapsalocal"
 				561,354 561,357 560,357 560,359 559,359 559,361 560,361 560,364 			"/>
 		</g>
 		<g id="local__municipality_165" label="Greater_Kokstad">
-			<path class="st0" d="M538,376v1h-1v1h1v1h-1v1h1v1h1v1h1v1h1v1h1h-1v1l1,1v1h-1l1,1h-1h1v1h1h-1v1h-1v1l-1,1v1l-1-1h-1v-1h-1h-1
+			<path className="st0" d="M538,376v1h-1v1h1v1h-1v1h1v1h1v1h1v1h1v1h1h-1v1l1,1v1h-1l1,1h-1h1v1h1h-1v1h-1v1l-1,1v1l-1-1h-1v-1h-1h-1
 				l-1,1h-1h-1h-1v1h-1v-1h-1h-1h-1v-1h-1h-1h-1v1v-1h-1h-1v-1h-1v-1h1h1v-1v1v-1h-1h1h-1h1h-1v-1h1h1v-1v-1v-1h1v-1h1v-1h1h1h-1v-1
 				h1v1h1v-1h-1v-1v-1v-1h-1v-1h-1v1l1,1h-1v-1h-1h-1h-1v-1h-1h1h-1v-1h-1h1v-1h-1h1h-1v-1v-1v-1v1v-1v-1v-1l-1-1v-1h-1v-1h-1h-1v-1
 				h1h1v-1h1h1v-1h1v-1h1v1v-1h1h1h1h-1h1h1v1h1h-1h1h1h1h-1h1h1h1v1h1h-1h1v1h1v1h1h1v1h-1v1l-1-1v1l-1,1v1v1h-1v1h1v1h1h1h1v1h1
 				V376"/>
 		</g>
 		<g id="local__municipality_166" label="Ubuhlebezwe">
-			<path class="st0" d="M574,372v1h1v1h-1v1h-1v-1l-1,1v1v1h-1v1l-1,1l-1,1v1h-1h-1l-1,1h-1h-1h-1h-1h-1v-1v1h-1v-1h-1v-1v-1v1h1v-1
+			<path className="st0" d="M574,372v1h1v1h-1v1h-1v-1l-1,1v1v1h-1v1l-1,1l-1,1v1h-1h-1l-1,1h-1h-1h-1h-1h-1v-1v1h-1v-1h-1v-1v-1v1h1v-1
 				h-1h-1h1v1h-1v-1h-1v1v-1h-1h1v-1h-1h1h-1h-1v-1h-1v-1v-1h1v1h1v-1h-1h-1v-1v-1h-1h-1v-1h-1h1h-1v-1h1h1h1l1-1v-1l1,1h1v-1l1-1v1
 				l1-1v1h1h1v-1v-1v-1v-1v1h1h1h1v1v-1v1h1h1h1h1h1h1v1h-1h1h1v1h1h-1h1v1h1v1v-1h1v-1v1h1L574,372"/>
 		</g>
 		<g id="local__municipality_167" label="Umzimkhulu">
-			<path class="st0" d="M560,381v1h1v-1v1h1v1h-1v1h-1h-1v1h-1v1h-1v1v1h-1v1h-1v1v-1h-1v-1l-1,1h-1l-1-1h-1v-1h-1h-1h-1h-1h-1h-1
+			<path className="st0" d="M560,381v1h1v-1v1h1v1h-1v1h-1h-1v1h-1v1h-1v1v1h-1v1h-1v1v-1h-1v-1l-1,1h-1l-1-1h-1v-1h-1h-1h-1h-1h-1h-1
 				h-1v1v1h-1v-1h-1h1l-1-1h1v-1l-1-1v-1h1h-1v-1h-1v-1h-1v-1h-1v-1h-1v-1h1v-1h-1v-1h1v-1v-1h-1v-1h-1h-1h-1v-1h-1v-1h1v-1v-1l1-1
 				v-1l1,1v-1h1v-1h-1h-1v-1h-1v-1v1h1v-1h1h1h-1v1h1h1v1h1h-1h1h1h-1h1v1h1h1h1v1h1v1h1v-1v1h1h1v-1v1v-1h1h1h1v1h1h-1h1h1v1h-1v1
 				h1h-1h1v1h1h1v1v1h1h1v1h-1v-1h-1v1v1h1v1h1h1h-1h1v1h-1h1v1v-1h1v1h1v-1h-1h1h1v1h-1v-1v1v1H560"/>
 		</g>
 		<g id="local__municipality_168" label="Greater_Giyani">
-			<path class="st0" d="M574,103h-1l-1,1h-1v1l-1-1h-1l1-1h1v-1v-1h1l-1-1v-1l-1-1h1h1h1l1,1l1-1h1h1v1h1v-1v-1l1-1l1-1v1v-1v1v-1h1
+			<path className="st0" d="M574,103h-1l-1,1h-1v1l-1-1h-1l1-1h1v-1v-1h1l-1-1v-1l-1-1h1h1h1l1,1l1-1h1h1v1h1v-1v-1l1-1l1-1v1v-1v1v-1h1
 				v1v-1h1v1v-1h1v-1h1v-1h1v-1l1-1v1h1h1h1v1v-1h1v1h1h-1h1h1v1h1h1v1h1h1h1h1v1h1h-1v-1h1v1h1v1h1v-1l1-1v1l1-1v1h1h-1v1h1v-1v1h1
 				h1h1v-1h1h1v-1h1h1v-1h1v-1v-1h1h1v1h1v1h1v1h1l1,1v1h1h-1h-1v1h-1h-1v1h-1h-1v1h-1v-1v1h-1h-1v1v1v1h-1v1v-1h-1l-1-1h-1h-2v1h-1
 				v1v1v1v1v1v1v1h-1v-1v1v1v1h-1v1h1v1h1h-1h-1v1h-1v-1h-1v1h-1h-1h-1l-1,1v-1h-1v1v-1h-1h-1v1h-1h-1h-1h-1h-1v-1v-1h-1l-2-1l-1-1
 				h-1v-1l2-2v-1l1-2h-1l-1-1l-1-1l-2,2h-1l-2,1h-1l-1-1h1v-1h1h1l1-1h-1l-1-1v-1h-1l-1,1H574"/>
 		</g>
 		<g id="local__municipality_169" label="Greater_Tzaneen">
-			<path class="st0" d="M576,127l1,1l1,1l1,1h1v1h1l2,2l1,1v1v-1h-1v1h-1h-1v1h-1v-1v1h-1v-1v1v-1h-1h-1l-1-1l-1-1l-1-1h-1v-1h-1
+			<path className="st0" d="M576,127l1,1l1,1l1,1h1v1h1l2,2l1,1v1v-1h-1v1h-1h-1v1h-1v-1v1h-1v-1v1v-1h-1h-1l-1-1l-1-1l-1-1h-1v-1h-1
 				l-1,1l-1,1h-1v-1h-1v1l-1,1l-1-1v-1v-1h-1l-2-1h-1v-1h-1h-1v-1h-1v-1h-1l-1,1h-1l-1-1h-1h-1v-1h-1l-1-1h1h1v-1v-1v-1v-1h-1h1h1
 				v-1v-1l-1-1v-1v-1v-1h1h2v-1h1h1v-1l1,1v1h-1l1,1h1h1v1h1v1v-1l1,1v1l1-1h1h1v-1v-1h1v-1h1h1v-1v-1l1,1h1v-1h1v-1h1h-1v-1l1-1
 				l1-1v1h1l1,1h1h1l1-1h1l1,1l1,1v2h-1h-1v1h-1h-1v1h-1v1h1v1v1h1h-1v1l2,2h-1l-1,1h-1l1,1h1v1v1h-1v1H576"/>
 		</g>
 		<g id="local__municipality_170" label="Ba-Phalaborwa">
-			<path class="st0" d="M597,130h-1h-1h-1l-1,1h-1v1h-1v-1h-1v1v-1v-1h-1v-1l-1,1v1v1h-1v1h-1h-1v1h-1l-1-1l-2-2h-1v-1h-1l-1-1l-1-1
+			<path className="st0" d="M597,130h-1h-1h-1l-1,1h-1v1h-1v-1h-1v1v-1v-1h-1v-1l-1,1v1v1h-1v1h-1h-1v1h-1l-1-1l-2-2h-1v-1h-1l-1-1l-1-1
 				l-1-1h2v-1h1v-1v-1h-1l-1-1h1l1-1h1l-2-2v-1h1h-1v-1v-1h-1v-1h1v-1h1h1v-1h1h1v-2h1l1,1l2,1h1v1v1h1h1h1h1h1v-1h1h1v1v-1h1v1l1-1
 				h1h1h1v-1h1v1h1v-1h1h1h-1v-1h-1v-1h1v-1v-1v-1v1h1v-1v-1v-1v-1v-1v-1v-1h1v-1h2h1l1,1h1v1v-1h1v-1v-1v-1h1h1v-1v1h1v-1h1h1v-1h1
 				h1v-1h1h1v1v1v6v2l1,1l3,4l1,1l1,4l2,7l5,2v1l-1,1h-1h-1h-1v-1h-1v1h-1v1v1h-1h-1v-1h-1h-1h-1v1h-1v-1h-1v1h-1h-1h-1v-1h-1h-1v1
 				h-1v1h-1v-1v1h-1h-1h-1h-1v1h-1v-1h-1v-1h-1v-1h-1v1h-1v1h-1h-1h-1v1h-1h-1v1h-1v-1h-1v-1h1V130"/>
 		</g>
 		<g id="local__municipality_171" label="Maruleng">
-			<path class="st0" d="M578,144h-1l-1-1l-1-1h-1v-1h-1l-1-1v-1h-1v-1v-1h-2h-1v-1h1l2-1h1h-1h1l-1-1h-1v-1l1-1l1-1h1v1h1l1,1l1,1
+			<path className="st0" d="M578,144h-1l-1-1l-1-1h-1v-1h-1l-1-1v-1h-1v-1v-1h-2h-1v-1h1l2-1h1h-1h1l-1-1h-1v-1l1-1l1-1h1v1h1l1,1l1,1
 				l1,1h1h1v1v-1v1h1v-1v1h1v-1h1h1v-1h1v1v-1h1v-1h1h1v-1h1v-1v-1l1-1v1h1v1v1v-1h1v1h1v-1h1l1-1h1h1h1v1h-1v1h1v1h1v-1h1h1h1h1
 				l-1,1v1l-1,1h-1v1v1v1v1v1v1h1h1h1h1l2-1v1h1v1l1,1h-2h-2v1v1h2l1,1l1,2l-1,2h-1h-1h-1h-1v1h-1h-1h-1h-1h-1h-1h-1v-1v-1h-1h-1h-1
 				h-2v-1h-1l-1-1l-1-1h-1h-1h-1h-1h-1v-1v1h-1h-1v-1v1v-1h-1v1h-1V144"/>
 		</g>
 		<g id="local__municipality_173" label="Musina">
-			<polygon class="st0" points="609.9,71 608.9,71 605.9,74 602.9,76 601.9,77 600,80 596,81 594.9,81 592.8,83 591.4,82 
+			<polygon className="st0" points="609.9,71 608.9,71 605.9,74 602.9,76 601.9,77 600,80 596,81 594.9,81 592.8,83 591.4,82 
 				588.4,82.1 589.5,79.7 590.4,78.6 590,77.7 590.4,76.7 589.7,76.1 590,75.2 590.4,74.3 591.5,73.2 593.1,72.8 594,71.8 
 				593.3,70.8 592.5,70.2 593.1,69.6 592.8,69 594.5,68.9 591.9,68 589.6,68 588.5,67 586.7,67.1 586.6,68 585,68 585,69 584,69.6 
 				581.8,69.8 580.5,68.7 579.2,68.6 578.3,70.1 578.8,71.1 577.5,72.3 578.1,73.4 577.4,74.7 576,76.6 573.8,78 572.3,79.1 
@@ -1200,7 +1200,7 @@ id="mapsalocal"
 				606.9,64 606.9,66 607.9,66 607.9,67 			"/>
 				</g>
 				<g id="local__municipality_179" label="Thulamela">
-			<polygon class="st2" points="564,93.9 566.5,95 569,95.2 570.4,94.3 574.1,92.1 577.4,90.2 580.5,89.4 584.4,86.4 586.4,83.9 
+			<polygon className="st2" points="564,93.9 566.5,95 569,95.2 570.4,94.3 574.1,92.1 577.4,90.2 580.5,89.4 584.4,86.4 586.4,83.9 
 				588.5,82.1 589.5,79.7 590.5,78.6 590,77.7 590.5,76.7 589.8,76.1 590,75.2 590.5,74.3 591.6,73.2 593.1,72.8 594.1,71.8 
 				593.4,70.8 592.5,70.2 593.1,69.6 592.9,69 594.6,68.9 592,68 589.7,68 588.6,67 586.8,67.1 586.7,68 585.1,68 585.1,69 
 				584.1,69.6 581.9,69.8 580.5,68.7 579.2,68.6 578.4,70.1 578.9,71.1 577.5,72.3 578.1,73.4 577.4,74.7 576.1,76.6 573.8,78 
@@ -1208,38 +1208,38 @@ id="mapsalocal"
 				552.1,88.3 554,88.7 552.9,90.2 555,90.3 557.8,92.8 559,93.5 560.8,93.6 			"/>
 		</g>
 		<g id="local__municipality_176" label="Greater_Letaba">
-			<path class="st0" d="M558,113v1h-1h-1v1l-1-1v-1h1v-1h1h1v-1h1v-1v-1l-1-1v-1h-1v-1h1v-1v1l1-1v-1v-1v-1h1h-1v1h1l1-1h1h1v-1h1h1
+			<path className="st0" d="M558,113v1h-1h-1v1l-1-1v-1h1v-1h1h1v-1h1v-1v-1l-1-1v-1h-1v-1h1v-1v1l1-1v-1v-1v-1h1h-1v1h1l1-1h1h1v-1h1h1
 				h1h2v1l1,1v1h1l1,1v-1h1l1-1h1h1l1-1h1v1l1,1h1l-1,1h-1h-1v1h-1l1,1h1l2-1h1l2-2l1,1l1,1h1l-1,2v1l-2,2v1l-1-1l-1-1h-1l-1,1h-1
 				h-1l-1-1h-1v-1l-1,1l-1,1v1h1h-1v1h-1v1h-1l-1-1v1v1h-1h-1v1h-1v1v1h-1h-1l-1,1v-1l-1-1v1v-1h-1v-1h-1h-1l-1-1h1v-1L558,113"/>
 		</g>
 		<g id="local__municipality_177" label="Blouberg">
-			<path class="st0" d="M516,105v1h-1l1,2h-1h-1v1v1l-1-1v-1h-1l-1-2l-2-1v-2h-1l-1-1v-1l-2,1v1h-1v1h-1h-2v-1h-1l-1-1h-2v-1h-1
+			<path className="st0" d="M516,105v1h-1l1,2h-1h-1v1v1l-1-1v-1h-1l-1-2l-2-1v-2h-1l-1-1v-1l-2,1v1h-1v1h-1h-2v-1h-1l-1-1h-2v-1h-1
 				l-1,1h-1l-1-1v-1h-1l-1-1v-1l-1-2h2l-1-2v-1h-1l-1-1h-1v1l-1-2v-1l-1-2h1v-1l-1-1h-1h-1v-1v-1h-1l1-1l-2-1h1l-1-1v-1h1v-1h1v-1
 				v-1h1v-1h1v-1h1h1v-1h1v-1h1v-1h1v-1h1h1h1h1h1h1v1h1h1v-1h1h1h1h1h1v-1h1h1v-1h1h1h1v-1h1h1v-1h1v-1h1v1h1v1v1h1v1l1,1l1,1v-1h1
 				h1l1-1h1h1l2,1v1l1,1l1,1v1l1,1l-1,1l1,1v1l-1,2v1h-1v1l-1,1v1v1l1,1h1l1-1l1,1v1l1-1v1v2l1,1l-1,1h-1l1,1h-2h1v1v1v1h1l-1,1v1
 				h-1v1h-1l-1,1l-1-1v1v1h-1h-1v-1h-1l-1,2h-1v1h-1v1l-1,1H516"/>
 		</g>
 		<g id="local__municipality_178" label="Polokwane">
-			<path class="st0" d="M553,124v1h-1h-1l1,1h-1l-1,1v1v1v1h-1l-1,1l-1,1h1h-1l-1,1h-1l-1,1l-1,1h-1h-1l-1,1h-1h-1v1h-1h-1l1,1v1h-1
+			<path className="st0" d="M553,124v1h-1h-1l1,1h-1l-1,1v1v1v1h-1l-1,1l-1,1h1h-1l-1,1h-1l-1,1l-1,1h-1h-1l-1,1h-1h-1v1h-1h-1l1,1v1h-1
 				h-1v-1h-1v1h-1h-1l-1,1h-1v-1h-1v1h-1v-1l-1-1v-1h-1v1h-1v-1v-1v-1l1-1h1v-1v-1h-1h-1v-1h-1v-1l1-1v-1h-1h-1h-1h1l1-1h1v-1v-1v-1
 				h1v-1h-1h-1l-1-1l1-1h1v-1v-1v-1v-1v-1h1v-1v-1h1h1v-1h1h1h1l1,1l1-1h1h1l-1,1v1l1,1v1h1v1v1h1v1v1v-1h1l1-1v1h1l1-1h1h1l1-1h1
 				l1-1h1v-1h1l1-1v1l1,1h1v-1h1v-1h1v1v1v1l1,1v1v1h-1h-1h1v1v1V124"/>
 		</g>
 		<g id="local__municipality_179" label="Molemole">
-			<path class="st0" d="M525,105l-1,1h-1h-1v-1h-2v-1l-1-1h-1h1v-1h1l1-2h1v1h1h1v-1v-1l1,1l1-1h1v-1h1h1h1h1h1h1h2l-1,1h2h1h2h1h1
+			<path className="st0" d="M525,105l-1,1h-1h-1v-1h-2v-1l-1-1h-1h1v-1h1l1-2h1v1h1h1v-1v-1l1,1l1-1h1v-1h1h1h1h1h1h1h2l-1,1h2h1h2h1h1
 				v1v1h1v1l-1,1h1v1v1h1v-1l1,1h1h1l1-1v2l1-1h2h1v1h1v-1v-1v1h1v-1h1v-1h1v1h1v-1v1v-1v1h1v-1v-1h1h1v1v1v1l-1,1v-1v1h-1v1h1v1
 				l1,1v1v1h-1v1h-1h-1v1h-1v1l1,1h-2h-1h-1v1h-1v1h-1l-1-1v-1l-1,1h-1v1h-1l-1,1h-1l-1,1h-1h-1l-1,1h-1v-1l-1,1h-1v1v-1v-1h-1v-1
 				v-1h-1v-1l-1-1v-1l1-1h-1h-1l-1,1l-1-1v-1v-1h1l-1-1v-1v1h-1l-1-1v-1h-1h-1h-1v-1l1-2h-1H525"/>
 		</g>
 		<g id="local__municipality_180" label="Lepele-Nkumpi">
-			<path class="st0" d="M547,143v1v1h-1v1h-1v1h-1v-1v1h-1h-1v-1h-1v1v1h-1v1h-1v1h-1v1h-1v1h-1h1h-1v1v1v-1h-1v-1h-1h-1v-1h-1h-1
+			<path className="st0" d="M547,143v1v1h-1v1h-1v1h-1v-1v1h-1h-1v-1h-1v1v1h-1v1h-1v1h-1v1h-1v1h-1h1h-1v1v1v-1h-1v-1h-1h-1v-1h-1h-1
 				v-1h-1v-1v-1v-1h-1v-1v-1h-1v-1v-1v-1v-1h-1l-1,1h-2l-1,1h-1h-1h-1h-1l1-3h-1v-1v-1v-1l1-1l1,1h2l1,2l1-1h1v-1h1v1l1,1v1h1v-1h1
 				v1h1l1-1h1h1v-1h1v1h1h1v-1l-1-1h1h1v-1h1h1l1-1h1h1l1-1l1-1h1l1-1h1h-1l1-1l1-1h1v-1v-1v-1l1-1h1h1v1h1h1l1,1h1l1-1h1v1h1v1h1h1
 				v1h1l2,1h1v1v1l1,1l1-1v-1h1v1h1v1h1l1,1h-1h1h-1l-2,1h-1v1h1h2v1v1h1l-2,1l-1,1h-1v-1h-1v-1h-1v1h-1h-1h-1v-1v-1h-1h-1h-1v-1h-1
 				v-1h-1h-1h-1v1h-1h-1h-1h-1v1h-1h-1h-1v1h-1v1h-1h1h-1v1h1h-1v1h1v1H547"/>
 		</g>
 		<g id="local__municipality_181" label="Thabazimbi">
-			<path class="st0" d="M462,167v1v1h-1v1h-1v1v1h-1v-1h-1h-1v-1l-2,1h-1h-1h-1h-1v-1l-1-1h-1l-1,1h-1v-1h-1v-1l1-1v-1h-1h-1l-1,1
+			<path className="st0" d="M462,167v1v1h-1v1h-1v1v1h-1v-1h-1h-1v-1l-2,1h-1h-1h-1h-1v-1l-1-1h-1l-1,1h-1v-1h-1v-1l1-1v-1h-1h-1l-1,1
 				v-1l-1-1l-1-1h-1l-1-1v-1h-1v-1v-1v-1v-1v-1h-1h-1v1v1h-1h-1v1h-1h-2v1h-1h-1h-1v1l-1,1h-1v-1h-1v1l-2-2l-1-1h-1l-1,1l-2-1h-1h-1
 				h-1h1v-1h-1v1v-1h-1v-1v-1v-1v-1v-1h-1h1v-1h1v-1h1v-1v-1h1v-1v-1h1h-1h1h-1h1v-1h1v-1v1v-1v1v-1h1v-1h1v-1h1h1h-1h1h-1h1v-1h-1
 				h1h1v-1h1v-1v1v-1v1v-1v1v-1h1v-1v1v-1h1v1v-1v1v-1h1h1v-1v1v-1h1h1v-1v1v-1h1v-1h-1h1h-1h1v-1v-1v-1h-1l1-1v-1h-1h1v-1h1v-1v-1
@@ -1249,37 +1249,37 @@ id="mapsalocal"
 				h-1l-1,1v-1h-1h-1H462"/>
 		</g>
 		<g id="local__municipality_182" label="Mookgopong">
-			<path class="st0" d="M505,133l-1,1v1v1h1h1h1v-1h1l-1,1v1h1v1h1h1h1h1l-2,2v1h1l1,1v1h1l-1,1l2,1l1-2h2l1-1l1,1h1h1h1h1l1-1h2
+			<path className="st0" d="M505,133l-1,1v1v1h1h1h1v-1h1l-1,1v1h1v1h1h1h1h1l-2,2v1h1l1,1v1h1l-1,1l2,1l1-2h2l1-1l1,1h1h1h1h1l1-1h2
 				l1-1h1v1v1v1v1h1v1v1h1v1v1v1h1v1h1h1v1v1h-1h1v1h-1v1h-1h-1v1h-2h-1l1,2v1v1h-1l-1,2v1v1h-1h-1h1v1l-1,1h-1h-1v1h-1v-1h-1v-1v-1
 				h-1h-1h-1h-1h-1v-1h-1v1h-1v1h-2v-1h-1h-1h-1v1h-1l-1,1l-1-1v-1v-1l-1-1v-1l-1,1h-1v-1v1h-1v-1h-1v-1v-1l-1-1h1h1h1v-1h1v-1v-1
 				h-1h-1v-1v-1v-1l1,1v-1h-1l-1-1l-2,1v-1l-1-1l1-1v-1v-1l-1-1l-1,1v-1v-1l-1-1l-1-1h-1v-1l-1-1v-1h1h-1v-1h1l1-1v-1v-1v-1h2h1v-1
 				h-1h1v-1h-1v-1h1h-1v-1h1h-1h1h2h-1l1-1l1,1l1-1l1-1v1l1,1v1h1h1V133"/>
 		</g>
 		<g id="local__municipality_183" label="Modimolle">
-			<path class="st0" d="M484,136v-1v-1l1-1v-1v-1l1-1v-1h1v-1l1,1l1-1h1l2,1v-1h1h1h1v1v1h1h1v1h-1h1h-1v1h1h-1v1h1v1h-1h1v1h-1h-2
+			<path className="st0" d="M484,136v-1v-1l1-1v-1v-1l1-1v-1h1v-1l1,1l1-1h1l2,1v-1h1h1h1v1v1h1h1v1h-1h1h-1v1h1h-1v1h1v1h-1h1v1h-1h-2
 				v1v1v1l-1,1h-1v1h1h-1v1l1,1v1h1l1,1l1,1v1v1l1-1l1,1v1v1l-1,1l1,1v1l2-1l1,1h1v1l-1-1v1v1v1h1h1v1v1h-1v1h-1h-1h-1l1,1v1v1h1v1
 				h-1h-1l-1,1l-1-1v-1h-1v1l-1-1h-1v-1h-1l-1-1v1h-1h-1h-1v-1v-1h-1h-1l-1-1h-1v-2h-1h-1v-1h-1l-1-1h-1h-1h-1h-1h-1l-1-1l-1-1h-1
 				h-1h-1h-1h-1l-1,1h-2v-1l-1-1v-1h-1l1-1h1h1h1v-1h-1h-1h-1h-1h-1h-1h-1v-1v-1l-1-2h1h1l1-1h1l1,1l1,1h1h1h1v-1h1v-1h1h-1v-1v-1h1
 				h1h1h1h1v-1h1l1,1h1v-1v-1l1-1h-1l-1-1v-1h1l1,1v-1h1h1h1h1L484,136"/>
 		</g>
 		<g id="local__municipality_184" label="Kgatelopele">
-			<path class="st0" d="M313,297v1h-1v1v1h-1l1,1h1h-1v1v1h-1v1l-1,1v1l1,1h-1l-1,1l-1,1v1h-1h-1h-1v-1h-1h-1v-1h-1h-1v-1v-1v-1h1
+			<path className="st0" d="M313,297v1h-1v1v1h-1l1,1h1h-1v1v1h-1v1l-1,1v1l1,1h-1l-1,1l-1,1v1h-1h-1h-1v-1h-1h-1v-1h-1h-1v-1v-1v-1h1
 				h-1v-1h-1h-1v-1h-1h-1h-1v-1h-1v-1v-1l1-1h-1v-1v-1h1v-1v-1h1v-1h1v-1h1v-1l1-1h-1h-1h-1v-1h-1v-1l-1-1v-1l-1-1v-1h-1l1-1h1h1v1
 				h1h1l1-1l2-1l1-1l1,1l1,1v-1l2,1l1,1l1,1h2l1,1l1,1l-2,2l1,1h1h1l1,1v1v1h-1v1v1V297"/>
 		</g>
 		<g id="local__municipality_185" label="Bela-Bela">
-			<path class="st0" d="M473,159l-1-1l-1-2h1v-1l1-1v-1l1-2l1,1l1,1h1h1h1h1h1l1,1h1v1h1h1v2h1l1,1h1h1v1v1h1h1h1v-1l1,1h1v1h1l1,1
+			<path className="st0" d="M473,159l-1-1l-1-2h1v-1l1-1v-1l1-2l1,1l1,1h1h1h1h1h1l1,1h1v1h1h1v2h1l1,1h1h1v1v1h1h1h1v-1l1,1h1v1h1l1,1
 				v-1h1v1l1,1l1-1h1h1h1v-1v1h1l1-1v1l1,1v1v1l1,1h-1l-1,1h-1l-1,1v1l1,1h-1v1h-1h-1h-1h-1h-1v2h-1h-1h-1v1h-1l1,1v1h-1h1h1h1h1v-1
 				h1h1v-1h1h1v-1h2v-1l1,1l-1,1h-1h1v1v1h1h1v1h-1v1v-1v1h-1v1l-1-1h-1h-1h-1h-1v1v1h-2h-1v1h-1h-1v-1v-1l-2,1h-1v-1h-1v-1h-1v-1
 				v-1h-1h-1h-1h-1h-1v-1v-1h-1h-1v-2h1h1l1-1l1,1v1h1v-1l1-1h1v-1h-1v-1h-1h-1h-1l-1-1l-1-1h-1h-2h-1h-1v-1v-1v-1h-1l-2-1h-1h-1
 				l1-1h-1h-1v-1v-1h1v-1H473"/>
 		</g>
 		<g id="local__municipality_186" label="Phokwane">
-			<path class="st0" d="M345,278v1V278h1H345l1-1v-1v-1v-1v-1h1h1h1v-1v-1h1v1v1v1v1h1h1h1h1h1h1h1v-1h1h1v1h1v1h-1v1l-2,1v1h-1v1
+			<path className="st0" d="M345,278v1V278h1H345l1-1v-1v-1v-1v-1h1h1h1v-1v-1h1v1v1v1v1h1h1h1h1h1h1h1v-1h1h1v1h1v1h-1v1l-2,1v1h-1v1
 				h-1v1l-1,1h-1v1h-1h1v1h-1v1l1,1v1v-1h-1h-1v1v-1h-1v1h-1v-1h-1h1v-1h-1v-1h-1h-1h-1h-1v-1h-1h1v-1h1v-1h1v-1h1l-2-1V278"/>
 		</g>
 		<g id="local__municipality_187" label="Joe_Morolong">
-			<path class="st0" d="M316,263l-1,1v1h-1h1v1h1v1h-1v-1h-1l-1,1l-1-1h-1v1v1h-1v1h-1h-1v-1h-1h-1h-1v-1h-1v-1h-1v-2l-1-2v-1h-2v-1
+			<path className="st0" d="M316,263l-1,1v1h-1h1v1h1v1h-1v-1h-1l-1,1l-1-1h-1v1v1h-1v1h-1h-1v-1h-1h-1h-1v-1h-1v-1h-1v-2l-1-2v-1h-2v-1
 				l-2-1h-1h-1h-1h-1v-1h-1l-1-1l-1-1l-3-2l-2-1l-1,1h-1v1v2h1v1h1v1h1v1h1v1h1v1h1h1h-1v1h-1h-1v1h-1h-1h-1l-1-1h-2h-2h-1v1v-1h-1
 				h-1h-1h-3h-1v1l1,1v1v1h-1l1,1v1h-1h-2h-1h-1v-2v-1v-1h-1h-1v-2v-2h-1v-1l1-1v-1h1l-1-1h-1l-1,1h-2h-1h-2h-1h-3h-2v-1v-3l-1-2v-2
 				l-3-1l-1,1v1h-1v-1l-1-1l-1-1l-1-2v1h-1h1h-1h1l1,2l-1,1l-2,1h-1l-2,1v-4l-1-2l-1-1l-1,1v-1l-1-1l-1-2l-1-3h-1v-1h-1v-1v-1h-1v-1
@@ -1290,36 +1290,36 @@ id="mapsalocal"
 				/>
 		</g>
 		<g id="local__municipality_188" label="Gamagara">
-			<path class="st0" d="M268,286h-2l-1,1v-1v-1h1v-1h2h1h1l1-1l-2-2h1l2-1l-1-1l-1-1v-1h-1v-1h-1v-1h-1v-1h-1h1l1-2v-1v-1v-1h1h1h2
+			<path className="st0" d="M268,286h-2l-1,1v-1v-1h1v-1h2h1h1l1-1l-2-2h1l2-1l-1-1l-1-1v-1h-1v-1h-1v-1h-1v-1h-1h1l1-2v-1v-1v-1h1h1h2
 				h1v-1l-1-1h1v-1v-1l-1-1v-1h1h3h1h1h1v1v-1h1h2h2l1,1h1h1h1v-1h1h1v-1h1v-1h1v1h1v1v1v1h1v1h-1l-1,1l-1,1h-1v1v1v1v1v1v1v1l1,1
 				h-2h-1h-2h-1v1l-1,1l-1,1v2h-1l1,1v1l-2-1v1v-1l-1-1l-1,1v1h-1h-1h-1h-1v1h-1h-1v1h-1l-1,1h-1h-1H268"/>
 		</g>
 		<g id="local__municipality_189" label="Nelson_Mandela_Bay">
-			<path class="st0" d="M373,526h-1h-1v-1h-1h-1v-1h-1h-1h1v-1h-1v-1h-1v-1h1h1h1h-1l-1-1h1v-1v-1h1v-1v-1h1h1h-1v-1l1-1h-1h-1v-1v1
+			<path className="st0" d="M373,526h-1h-1v-1h-1h-1v-1h-1h-1h1v-1h-1v-1h-1v-1h1h1h1h-1l-1-1h1v-1v-1h1v-1v-1h1h1h-1v-1l1-1h-1h-1v-1v1
 				v-1h-1h1h1v1h1h-1h1h1v-1v-1l-1-1h1l-1-1h1v-1v-1h1h1h1h1h1h1h1v1h-1v1h1h1l1,1v-1v-1h1h1h1v1h-1h1h1v1h1v-1h-1h1v1v-1h1h1v1v1h1
 				v1h1h1v-1h1l1,1v1h-1v1h-1h-1h-1v1h-1h-1v1h-1v1h-1v1h-1v1v1h-1v1v1v1h1h-1h1h1v1h1v1v1h1h-1h1h-1v-1h-1h-1v1h-1h-1h-1h-1h-1h-1
 				h-1h-1h-1h-1v-1H373"/>
 		</g>
 		<g id="local__municipality_190" label="Moretele">
-			<path class="st0" d="M483,168l1,1h1h1h1v1h1v1h-1l-1,1v1h-1v-1l-1-1l-1,1h-1h-1v2h1h1v1v1h1h1h1h1h1v1v1h1v1h1v1v1h-1l-1,1h-1
+			<path className="st0" d="M483,168l1,1h1h1h1v1h1v1h-1l-1,1v1h-1v-1l-1-1l-1,1h-1h-1v2h1h1v1v1h1h1h1h1h1v1v1h1v1h1v1v1h-1l-1,1h-1
 				l-1-1h-1v1h-1l-1,1h-1v-1l-1,1h-1v1h-1v-1h-1v-1h-1v-1v-1h1v-1h-1l-1,1v-1h-1l2-1v-1v1h-1v-1h-1l-1,1h-1v-1v-1v-1h-1l1-1v-1h1h-1
 				h1h-1v-1v-1h-1l-1,1v-1h-1h1h-1h1h-1v-1v-1l1-2h1h1h1l1,1h1v-1l1-1v1h1h1h2h1L483,168"/>
 		</g>
 		<g id="local__municipality_191" label="Madibeng">
-			<path class="st0" d="M469,166l1,1h1l-1,2v1v1h1h-1h1h-1h1v1l1-1h1v1v1h1h-1h1h-1v1l-1,1h1v1v1v1h1l1-1h1v1h1v-1v1l-2,1h1v1l1-1h1
+			<path className="st0" d="M469,166l1,1h1l-1,2v1v1h1h-1h1h-1h1v1l1-1h1v1v1h1h-1h1h-1v1l-1,1h1v1v1v1h1l1-1h1v1h1v-1v1l-2,1h1v1l1-1h1
 				v1h-1v1v1h-1v1v1v1h1h1v1h1v1h-1v1h-1h1v1h1h1v1h-1h-1h-1v-1v1h-1v1l1,1v1h-1v1v1v1v1h1v1h-1v1v1h-1v1h-1v1h-1v-1v-1h-1v1v1h-1
 				h-1l-1,1h-1l-1-1h-1l-1,1v-1l-1-1v-1h-1h1v-1h-1v1h-1v1h-1h-1v1h-1v-1v-1h-1v-1v-1v-1v-1v-1v-1v-1h2h1v1h2h1v-1h-1v-1v-1v-1v-1
 				l-1-1v-1h1l-1-1h-1v-1h-1h-1v-1v-1v-1v-1h-1v-1h-1v-1h-1v1v-1h-1v-1h1v-1h1v-1v-1h1v-1h-1v-1v-1h1v-1h-1h1h1v1h1v-1v-1h1v-1h1v-1
 				v-1h1h1h1v1l1-1h1h1h1V166"/>
 		</g>
 		<g id="local__municipality_192" label="Ventersdorp">
-			<path class="st0" d="M421,221l-1-1v-1l-1-1h1h1v-1h1h-1v-1l-1-1v-1h1h1v-1h1v-1v-1v-1h1h1h1v-1l1,1v1v1l1-1h1h1l2-1h1h1h1v-1h1
+			<path className="st0" d="M421,221l-1-1v-1l-1-1h1h1v-1h1h-1v-1l-1-1v-1h1h1v-1h1v-1v-1v-1h1h1h1v-1l1,1v1v1l1-1h1h1l2-1h1h1h1v-1h1
 				l1,1h1v1h1l1,1v1l1-2v2h-1h1v-1h1v-1h1v1h1v-1h1h1h1h1h1h1l1,1h1v1v1h-1v-1h-1v2v1v1l1,1v1h-1v1h-1h-1v1h-1v1h-1l-1,1l1,1h1v1v1
 				v1v1h-1h-1h-1h-1h-1h-1v1h-1h-1h-1h-1h-1v1h-1h-1h-1h-1h-1h-1v1h-1h1h-1v1h-1h-1h-1l-1-1h1v-1l-2-1v-1h-1h-1l-1-1l-1,1h-1h-1v-1
 				h-1v-1l-1-1h1l1-1v-1h-1h1v-1h1v-1h1H421"/>
 		</g>
 		<g id="local__municipality_193" label="City_of_Tshwane">
-			<path class="st0" d="M490,204h-2v1l-1-1h-1h-1l-1,1h-1h-1h-1v-1v1h-1h-1v-1h-1v1h-1v-1h-1h-1h-1h-1v-1h1v-1v-1h1v-1h1v-1v-1h1v-1
+			<path className="st0" d="M490,204h-2v1l-1-1h-1h-1l-1,1h-1h-1h-1v-1v1h-1h-1v-1h-1v1h-1v-1h-1h-1h-1h-1v-1h1v-1v-1h1v-1h1v-1v-1h1v-1
 				h-1v-1v-1v-1v-1h1v-1l-1-1v-1h1v-1v1h1h1h1v-1h-1h-1v-1h-1h1v-1h1v-1h-1v-1h-1h-1v-1v-1v-1h1h1v1h1v1h1v-1h1l1-1v1h1l1-1h1v-1h1
 				l1,1h1l1-1h1v-1h1l2-1v1v1h1h1v-1h1h2v-1v-1h1h1h1h1l1,1v-1h1v-1v1v-1h1v-1h-1h-1v-1v-1h-1h1l1-1h1h1v-1h1v1h1v1v1h1v1v1h-1h-1v1
 				v1h-1l-1,1h-1l-1,1h-1l1,1v1v1h-1l1,1v1h-1v1h1v1v1v1v1v1h1v1v1h1h-1l1,1h1v-1v-1h1l1,1v1v1h1l1-1h1l-1-1v-1h1v1h1v-1v-1h-1v-1
@@ -1328,7 +1328,7 @@ id="mapsalocal"
 				v-1v1v-1h-1h1v-1h-1h1v-1h-1h-1v-1h-1h-1v1h-1L490,204"/>
 		</g>
 		<g id="local__municipality_194" label="Matzikama">
-			<path class="st0" d="M80,403v-1v-1v-1v-1v-1h1h1v-1h1l1,1l1,1h1l1,1h1l1-1h-1h1h1h1v-1h1v-1l1-1l1-1v-1h1v-1v-3l1-1v-1h1v-1h-1
+			<path className="st0" d="M80,403v-1v-1v-1v-1v-1h1h1v-1h1l1,1l1,1h1l1,1h1l1-1h-1h1h1h1v-1h1v-1l1-1l1-1v-1h1v-1v-3l1-1v-1h1v-1h-1
 				v-1v-1l1,1h1v1l2,2v1h1v1v-1v-1h-1v-1v-1v-1v-1v-1h1h1h1l1,1v1h1v1h1v1v1h1h1h1h1h1v1l1,1v1v1l1,1h1v1h1h1l1,1h1v1v1l1,2v1l-4,1
 				h1l1,1h1l1,1h1h-1l-1,1h-1v1l-1,1v1h1v1v1h1v1v1v1v1v1v1v1h1v1h1h1l-1,1v1h-1h1v1h1v1h1h-1v1h1v1v1h-1v1h-1v1h1v-1v1h1h1h1h-1v1
 				l-1,1h1h1v1h-1v1v1v1h-1v1h1v1h1v1h-1v1h1v1h-1v1h-1h-1v1h1h-1v1h-1h-1h1v-1h-1h-1h-1h-1h-1h-1v1h-1v-1h-1v1h-1h-1h-1v-1h-1v1
@@ -1338,7 +1338,7 @@ id="mapsalocal"
 				h1h1h1H80"/>
 		</g>
 		<g id="local__municipality_195" label="Cederberg">
-			<path class="st0" d="M107,464h-1h-1h-1l-1,1v-1h-1h-1v-1h-1l-1,1v1l-1-1h-1v-1h-1h-1h-1v1v-1v-1v-1h-1v-1v-1v-1v1v-1h1v-1v-1v-1
+			<path className="st0" d="M107,464h-1h-1h-1l-1,1v-1h-1h-1v-1h-1l-1,1v1l-1-1h-1v-1h-1h-1h-1v1v-1v-1v-1h-1v-1v-1v-1v1v-1h1v-1v-1v-1
 				h-1v-1v-1v-1v-1h-1h1h-1h1h-1h1h-1h1h-1h1h-1v-1h1h-1h1h-1h1v-1v1v-1v-1h-1v-1v-1h1v-1h1h1l1-1h1l-1-1v-1h1h1h-1v-1h-1h1l1-1h1
 				l1,1h1h1h1v1h1v1h1v1h1h1l-1-1h1l1-1h1l-1-1v-1h1v1h1h1h1v-1h1v1h1v-1h1h1h1h1h1h1v1h-1h1h1h1h1v1h1h1h1h1h1v1v1h1v-1h1v-1h1v-1
 				h1v-1v1l-1,1v1v1v1h1h1v1l1,1l1,1v-1h1h1l1,1l1,1h1v1h-1l1,1v-1v-1v1h1v1h-1l-1,1v1l1-1v1v1v1h-1l1,1h-1l-1,1h-1h-1v1h1v1v1v1h1
@@ -1346,28 +1346,28 @@ id="mapsalocal"
 				v-1v-1v-1l-1,1v-1v-1v-1l-1-1v-1h-1v-1v-1v-1h-1h-1v-1h-1v-1h-1v-1h-1v-1h-1h-1v1v1v1v-1h-1h-1h-1l-1-1l-1-1v-1V464"/>
 		</g>
 		<g id="local__municipality_196" label="Bergrivier">
-			<path class="st0" d="M94,483v1h-2h-1v-1h-1v-1h-1h-1l1-1h-1h-1v-1h1h-1l-1-1l1-1h-1h-1l-1,1l1-1v-1h1v-1h1v-1h1v-1h1h1v-1h1v-1
+			<path className="st0" d="M94,483v1h-2h-1v-1h-1v-1h-1h-1l1-1h-1h-1v-1h1h-1l-1-1l1-1h-1h-1l-1,1l1-1v-1h1v-1h1v-1h1v-1h1h1v-1h1v-1
 				v-1h1v-1v-1h1v-1v-1v-1h1v-1v-1v-1h1h1h1v1h1l1,1v-1l1-1h1v1h1h1v1l1-1h1h1h1v1v1l1,1l1,1h1h1h1v1v-1v-1v-1h1h1v1h1v1h1v1h1v1h1
 				h1v1v1v1h1v1l1,1v1v1v1l1-1v1v1v1v-1h1v1h-1h1l1,1h1h1l1-1v-1l1,1l-2,5l1,2v1v1l-1,1h-2h-1v1h-1h-1h-1v1h-1h-1v1h-1v-1h-1h-1v-1
 				v1v-1h-1v-1v-1v1v-1h-1v-1h-1h1v-1h-1v-1h-1v-1h-1v-1h-1h-1v-1h-1v-1v1v-1h-1h-1h-1h-1h-1v1h-1v1h-1v-1v1h-1v-1v1h-1v-1h1h-1v1
 				v-1h-1v1v-1h-1v1h-1v-1H94"/>
 		</g>
 		<g id="local__municipality_197" label="Saldanha_Bay">
-			<path class="st0" d="M92,491h-1v1h-1v1l-1,1h-1h1l-1,1h1v1v1v1l-1-1v1h-1h-1v-1v-1h-1v-1h-1v-1h-1v-1h-1v-1h-1v-1v1h-1v-1h-1h1
+			<path className="st0" d="M92,491h-1v1h-1v1l-1,1h-1h1l-1,1h1v1v1v1l-1-1v1h-1h-1v-1v-1h-1v-1h-1v-1h-1v-1h-1v-1h-1v-1v1h-1v-1h-1h1
 				h-1v-1v-1v1v-1h1h-1v-1h1v1h1h-1h1h-1h1v1v1h1h-1h1v1h1v1h1v1h1v-1h-1h1h-1h1h-1v-1v-1h-1v-1h-1v-1v-1v-1v-1h-1h-1v1v-1v-1h-1v1
 				h-1v1h1h-1h-1v1v-1h-1h1v-1h-1h-1v-1h1h-1h1h-1h1h-1h1v-1v-1v-1h-1v-1h1v-1h-1v-1v1v-1v1v-1h-1h1h-1h1v-1h1h1v-1v-1h-1h1h-1v-1h1
 				v-1h1v1v-1v1h1v-1h1h-1v1h1h1v1h1v1v-1v1h1h-1h1h1h1v1l-1,1l1-1h1h1l-1,1l1,1h1h-1v1h1h1l-1,1h1h1v1h1v1h1h2v-1h1v1h1v-1h1v1v-1
 				h1v1v-1h1h-1v1h1v-1v1h1v-1v1h1v-1v1v1h1v1v1h-1h-1l1,1l1,1l-1,1h-1h1l-1,1v1v1h1v1l-1,1l-1-1h-1l-1-1h-1l-1-1h-2v1l-1-1V491"/>
 		</g>
 		<g id="local__municipality_198" label="Swartland">
-			<path class="st0" d="M87,501v-1h-1v-1h1v-1h1v-1l1,1v-1v-1v-1h-1l1-1h-1h1l1-1v-1h1v-1h1v1l1,1v-1h2l1,1h1l1,1h1l1,1l1-1v-1h-1
+			<path className="st0" d="M87,501v-1h-1v-1h1v-1h1v-1l1,1v-1v-1v-1h-1l1-1h-1h1l1-1v-1h1v-1h1v1l1,1v-1h2l1,1h1l1,1h1l1,1l1-1v-1h-1
 				v-1v-1l1-1h-1h1l1-1l-1-1l-1-1h1h1v-1v-1h-1v-1v-1h1v-1h1h1h1h1h1v1v-1v1h1v1h1h1v1h1v1h1v1h1v1h-1h1v1h1v1v-1v1v1h1v1v-1v1h1h1
 				v1h1v1h-1h1v1v1h1v1h1v1h-1v1h1h-1h1v1v1h-1v1v1h-1h1h-1v1v1v1h-1v1h1h-1v1v-1v1h-1h-1h-1v1v1l-1-1v1h-1v1h-1v1h-1v1h-1v-1v1h-1
 				v-1l-1-1h-1h-1v-1v-1h-1l-1-1v-1v-1l-1,1h-1v-1v-1h-1l-1-1h-1v1v1h-1h-1h-1v1l-1,1h-1v-1v-1v-1h-1v-1h-1v-1h-1v-1h-1v-1h-1H87"/>
-			<path class="st0" d="M83,502h1v1v-1v1v-1H83"/>
+			<path className="st0" d="M83,502h1v1v-1v1v-1H83"/>
 		</g>
 		<g id="local__municipality_199" label="Witzenberg">
-			<path class="st0" d="M169,455h1v1v1v1h-1h-1l-1,1l-1,1l1,1h-1v1l-1,1v-1h-1h-1v1v1h1v1v1v1l1,1l-1,1h1v1v1l1,1h1v1h1h-1v1v1v1h1
+			<path className="st0" d="M169,455h1v1v1v1h-1h-1l-1,1l-1,1l1,1h-1v1l-1,1v-1h-1h-1v1v1h1v1v1v1l1,1l-1,1h1v1v1l1,1h1v1h1h-1v1v1v1h1
 				v1h1h1v1h1h1v1h1v1h1v1v1h1h1v1h1v1v1h-1l-1,1v1h-1h-1v1h-1h-1l2,2l-1,1v1h-2h-1h-1h-1h-1v1h-1h-1h-1v1l-3,1v1v1h-1v1h-1l-1,1v1
 				h-1h-1l-2,1h-2l-1-1l-3,1l-3-1h-1v1h-1v2h-1l-2,1l-3,1v1v2h-1v1v1h-1v-1h-1v1v-1v1v-1v1h-1h-1l1-1h-1h-1v-1h-1h-1l-1,1l-1-1l-2-1
 				l1-1l-1-2v-1v-1v-1h-1v-1l1-1l-1-1v-1l-1-1h1v-1v-1h-1l1-1v-1v-1v-1h1h2l1-1v-1v-1l-1-2l2-5l-1-1v-1v-3h1v-1v-1h-1v-1v-1h-1v-1
@@ -1375,43 +1375,43 @@ id="mapsalocal"
 				h1v1h1h1h1l2-1l1-1l1-1l1-1v-1h1h1v-1v-1h1v-1h1h1v1v1h-1h1h1H169"/>
 		</g>
 		<g id="local__municipality_200" label="Drakenstein">
-			<path class="st0" d="M127,520h-1h-1v-1h-1h-1v1h-1v-1h-1h-1v1h-1v-1v1h-1l-1,1v-1h-1v-1v-1v-1h-1h-1v1h-1v-1v1h-1v-1h1l-1-1h1v-1
+			<path className="st0" d="M127,520h-1h-1v-1h-1h-1v1h-1v-1h-1h-1v1h-1v-1v1h-1l-1,1v-1h-1v-1v-1v-1h-1h-1v1h-1v-1v1h-1v-1h1l-1-1h1v-1
 				h1h-1v-1h-1v-1v-1h1v-1h-1v-1h1v-1l1,1v-1v-1h1h1h1v-1v1v-1h1h-1v-1h1v-1v-1v-1h1h-1h1v-1v-1h1v-1v-1h-1h1h-1v-1h1v-1h-1v-1h-1
 				v-1v-1h-1h1v-1v-1h1h1v-1h1h1h1v1v1l-1,1h1v1v1h-1l1,1v1l1,1l-1,1v1h1v1v1v1l1,2l-1,1v1v1v1l1,1l1,1v2h1h1v2l1,4H127"/>
 		</g>
 		<g id="local__municipality_201" label="Stellenbosch">
-			<path class="st0" d="M110,520v-1h1v-1h1h1v-1v1h1v-1h1h1v1v1v1h1v1l1-1h1v-1v1h1v-1h1h1v1h1v-1h1h1v1h1h1h2l1,1l-2,2l-1,1h-1h-1
+			<path className="st0" d="M110,520v-1h1v-1h1h1v-1v1h1v-1h1h1v1v1v1h1v1l1-1h1v-1v1h1v-1h1h1v1h1v-1h1h1v1h1h1h2l1,1l-2,2l-1,1h-1h-1
 				h-1l-1,1l-1,1h-1l-1,1l-1-1h-1v-1h-1v1h-1v1h-1h-1h1h-1h-1h-1h1v1h-1v-1h-1h-1v-1v-1v-1h-1h1h-1l1-1l-1-1v-1h1V520"/>
 		</g>
 		<g id="local__municipality_202" label="Breede_Valley">
-			<path class="st0" d="M128,516v-2h-1h-1v-2l-1-1l-1-1v-1v-1v-1l2,1l1,1l1-1h1h1v1h1h1l-1,1h1h1v-1v1v-1v1v-1h1v1h1v-1v-1h1v-2v-1
+			<path className="st0" d="M128,516v-2h-1h-1v-2l-1-1l-1-1v-1v-1v-1l2,1l1,1l1-1h1h1v1h1h1l-1,1h1h1v-1v1v-1v1v-1h1v1h1v-1v-1h1v-2v-1
 				l3-1l2-1h1v-2h1v-1h1l3,1l3-1l1,1h2l2-1h1h1v-1l1-1h1v-1h1v-1v-1l3-1v-1h1h1h1v-1h1h1l1,1h1v1v1l-1,1l1,1l-2,1h1v1l-1,2h1h1l1-1
 				h1h1h1h1h-1v1v1l-1,1h1l1-1l1,1h1v1h-2l-2,1l-1,1h-1l-2,1h-1h-1h-1l-1,1l-1-1l-1,1l-1-1v1h-1h-1l-1-1v-1h-1l-1,1v-1l-2,1v1h-2
 				l-1-1h-1h-1h-1h-1h-3l-1,1h1l1,1v1h1l1,1h2l-1,1h-1v1v1v1v1v-1h-1l-1,1l1,1l-1,1v1h-1h-1v1v1v-1h-1v-1l-1,1h1h-1l-1,1h1v1l-1,2
 				h-1l-1,1h-1h-1h-1l-1-1h-1h-1v-1v-1h-1v-1h-1h-1h1h-1l-1-1L128,516"/>
 		</g>
 		<g id="local__municipality_203" label="Theewaterskloof">
-			<path class="st0" d="M157,528h2v1h1v1h-1h1v1h-1v1h-1h-1v1v-1h-1v1v1h-1l-1,1v1h-1h1v1l-1-1h-1v1v1l-1,1l-1-1h-1l-1,1h-1v1v-1v-1
+			<path className="st0" d="M157,528h2v1h1v1h-1h1v1h-1v1h-1h-1v1v-1h-1v1v1h-1l-1,1v1h-1h1v1l-1-1h-1v1v1l-1,1l-1-1h-1l-1,1h-1v1v-1v-1
 				l-1,1v1h-1v-1v2v-1h1h-1v1v1h-1h-1h1v-1h-1h1h-2h-1h-1h-2l-2-1l-1,1h-1l-1-1h-1v-1v-1h-1h-1h-1h-1v-1v-1h-1h-1l1-1v1h1l-1-1h1h-1
 				v-1h1h-1h-1v-1h-1h-1v1l1,1h-1v1h-1h-1h-1l-2-1h-1v-1l-1-1h1v-1h1v-1h-1v-1h1v-1h1v-1v-1l1-1h1l1-1l1-1h1h1h1l1-1l2-2h1h-1h1h1v1
 				h1v1v1h1h1l1,1h1h1h1l1-1h1l2,1v1h1l2-1l1,1l1,1h1l1,1h2h2h1h1H157"/>
 		</g>
 		<g id="local__municipality_204" label="Overstrand">
-			<path class="st0" d="M132,538v1v1h1l1,1h1l1-1l2,1h2h1h1h2h-1h1v1h-1h1h1h1h1l1,1v1v1v1h-1l1,1l-1,1h1v1h1l-1,1l1,1v1v1v1h1l-1,1
+			<path className="st0" d="M132,538v1v1h1l1,1h1l1-1l2,1h2h1h1h2h-1h1v1h-1h1h1h1h1l1,1v1v1v1h-1l1,1l-1,1h1v1h1l-1,1l1,1v1v1v1h1l-1,1
 				v1h-1h-1v1h-1h1h-1h1h-1v-1v1v-1h-1h1h-1v-1h-1v-1v1v-1h-1h-1v-1h-1h1h-1v-1h-1h-1h-1v-1v-1h-1v-1h-1v1h-1h-1h-1h-1v1v-1v1v-1v1
 				v-1v1v-1v1v-1v1v-1h1v-1h1v-1v1v-1v-1h1v-1v-1h-1v-1v-1h-1v-1h-1h-1h-1h-1h1h-1v1h-1v-1h-1h-1h-1v-1v-1h-1h-1v-1h-1h-1h-1h-1v1
 				h-1v-1v1h-1h-1h-1h-1h1h-1v1h1h-1v-1h-1v1h1h-1v-1v-1v-1v-1v1v-1v-1h1h1v-1v-1v1h1v-1h1v-1l1,1v1h1l2,1h1h1h1v-1h1l-1-1v-1h1h1v1
 				h1h1h-1v1h1h-1l1,1h-1v-1l-1,1h1h1v1v1h1h1h1H132"/>
 		</g>
 		<g id="local__municipality_205" label="Cape_Agulhas">
-			<path class="st0" d="M195,543h-1v1h-1h-1h-1h-1v-1h-1h-1h-1h-1h-1h-1h-1v1v-1v1v-1v1h-1h-1h-1v1h-1h-1v1h-1v1h-1v1h-1l-1,1h-1v1
+			<path className="st0" d="M195,543h-1v1h-1h-1h-1h-1v-1h-1h-1h-1h-1h-1h-1h-1v1v-1v1v-1v1h-1h-1h-1v1h-1h-1v1h-1v1h-1v1h-1l-1,1h-1v1
 				h-1h-1v1h-1h-1v1v1h-1h-1h-1h-1v1h-1h-1v1h-1v1v1v1h-1h-1v1v-1h-1h-1h1h-1h-1v-1h-1v-1h-1h-1h-1h-1h-1h-1h-1v-1l1-1h-1v-1v-1v-1
 				l-1-1l1-1h-1v-1h-1l1-1l-1-1h1v-1v-1v-1l-1-1h-1h-1v-1v-1h1h-1v1v-2v1h1v-1l1-1v1v1v-1h1l1-1h1l1,1l1-1v-1v-1h1l1,1v-1h-1h1v-1
 				l1-1h1v1h1h1v-1h1h1h1v-1l1,1v1h1h1h1v1h1h1l1,1h1h1v-1h1v1v1v1v1h-1h1v1v1h1l1-1h1l1,1h1h1h1h2v-1h-1v-1h1h1h1h1h1v1h1h1h1v1h1
 				h1h1h1h1v1h1h1H195"/>
 		</g>
 		<g id="local__municipality_206" label="Swellendam">
-			<path class="st0" d="M183,537h-1H183h1v1h1h-1v1h1h1h1v1h1h1v1h1h1v1h1v-1h1h1v1v1h1h-1h1h-1h1h-1h-1h-1v-1h-1h-1h-1h-1h-1v-1h-1
+			<path className="st0" d="M183,537h-1H183h1v1h1h-1v1h1h1h1v1h1h1v1h1h1v1h1v-1h1h1v1v1h1h-1h1h-1h1h-1h-1h-1v-1h-1h-1h-1h-1h-1v-1h-1
 				h-1h-1v-1h-1h-1h-1h-1h-1v1h1v1h-2h-1h-1h-1l-1-1h-1l-1,1h-1v-1v-1h-1h1v-1v-1v-1v-1h-1v1h-1h-1l-1-1h-1h-1v-1h-1h-1h-1v-1l-1-1
 				v1h-1h-1h-1v1h-1h-1v-1h-1h1v-1v-1h1v1v-1h1h1v-1h1v-1h-1h1v-1v-1h1h1h1h1h1h1v-1h1h1v1h-1h-1v1h-1h1h1h1h1v1h1h1v-1l1-1v1h-1v-1
 				h1v-1h-1h1v-1v-1h1v-1h-1h-1l-1-1l-1-1v-1l4,2l2,1h2v-1h1v-1v-1h1h-1v-1h-1v-1v-1h1h1h1v-1h-1l-1-1l1-1v-1v-1h1l1-1l-1-1h1h1v-1
@@ -1419,48 +1419,48 @@ id="mapsalocal"
 				h-1h1v1h1v1h-1h-1h1v1h1v1h1h-1l1,1h-1h-1h-1h-1h-1l1,1l-1,1h1v1v1h1h1v1l-1-1v1h-1l-1,1l-1,1h-1V537"/>
 		</g>
 		<g id="local__municipality_207" label="Hessequa">
-			<path class="st0" d="M229,533v1h1v1v1h1v1h1h1h-1v1h1v1h1h1v1h-1h-1h-1v1h-1h-1h-1h-1h-1h-1h-1v-1v1v-1v1v-1v1v-1v1v-1h-1h-1h-1
+			<path className="st0" d="M229,533v1h1v1v1h1v1h1h1h-1v1h1v1h1h1v1h-1h-1h-1v1h-1h-1h-1h-1h-1h-1h-1v-1v1v-1v1v-1v1v-1v1v-1h-1h-1h-1
 				h-1h-1h-1h-1h-1h-1v1h1h-1h-1v1h-1h-1v1h-1v-1v1h-1v-1h-1h-1h-1v-1h-1h-1h-1l-1-1h-1h-1h-1h-1h-1h-1h-1h-1h-1v1h-1h-1h-1v1h-1v-1
 				h-1h-1v-1h-1h-1v-1h-1h-1h-1v-1h1h-1v-1h-1h-1h1v-1h1l1-1l1-1h1v-1l1,1v-1h-1h-1v-1v-1h-1l1-1l-1-1h1h1h1h1h1l-1-1h1h-1v-1h-1v-1
 				h-1h1h1v-1h-1v-1h-1h1h1v-1h1h1h1h1v1h1h1h1v-1l1,1v-1v-1l1-1h-1v-1v-1h1h1h1l-1,1h1h1l1-1v-1h1h1v1h1h1l1-1h1h1h1h1h1h1h1l1,1h1
 				h1h1h1h1l1-1l3,1v-1h1v1v-1v1l1-1h1h1v-1h1l1,2h-1h-2v1h-1v1v1h-1v1h1v1v1h-1v1h1h1v1h1h1h-1v1v1h1h-1h-1v1h1v1h1v1V533"/>
 		</g>
 		<g id="local__municipality_208" label="Mossel_Bay">
-			<path class="st0" d="M244,532h1v1v-1v1v-1v1v-1v1v-1v1h1h-1h-1h-1v1h-1h-1h-1h-1h-1v1h-1h-1v1v1h1v1h-1v1h-1h-1h-1v-1h-1v-1h1h-1
+			<path className="st0" d="M244,532h1v1v-1v1v-1v1v-1v1v-1v1h1h-1h-1h-1v1h-1h-1h-1h-1h-1v1h-1h-1v1v1h1v1h-1v1h-1h-1h-1v-1h-1v-1h1h-1
 				h-1v-1h-1v-1v-1h-1v-1v-1v-1h-1v-1h-1v-1h1h1h-1v-1v-1h1h-1h-1v-1h-1h-1v-1h1v-1v-1h-1v-1h1v-1v-1h1h2h1l1-1v1h1h2h1h1h1h2h1h1v1
 				h1v-1v-1h2v1h1h1h1v1h1h1v1h1v1v1v1v1v1h1h1h1v1v-1v1v-1v1v-1v1v-1v1v-1v1v-1v1v-1h-1h-1h-1v1h-1h-1h-1h-1v1h-1v1h-1v1V532"/>
 		</g>
 		<g id="local__municipality_209" label="George">
-			<path class="st0" d="M271,519v1v1h-1v1h-2v1v1h-1l1,1h-1h1v1h1l1,1v-1v1h-1v-1h-1h-1h-1h-1v-1h-1h-1h-1h-1v1h-1v1h-1h-1h-1h1h-1
+			<path className="st0" d="M271,519v1v1h-1v1h-2v1v1h-1l1,1h-1h1v1h1l1,1v-1v1h-1v-1h-1h-1h-1h-1v-1h-1h-1h-1h-1v1h-1v1h-1h-1h-1h1h-1
 				v1h-1h-1h-1h-1v-1v1v-1v1v-1h-1h-1h-1v-1v-1v-1v-1v-1h-1v-1l-2-2h1h1h1l1,1v-1h1v-1h1l1-1h-1v-1l-1-1h-1v1v-1v-1h1h1l1-1v-1h1h1
 				h1v-1h1h1h1h3h1v-1l2,1h1h1h1l-1-2v-1v-1h1h1l-1-1v-1l-1-1l1-1h1v-1h1h1h2l1,1h1l2-1h2h2h2v-1h1h1h1h2h1h1v1h1v1h1v1h1l-1-1h1h1
 				h1h1h1h1v1h2v1h1h1v1v1v1h1v1l2,1v1v1h-1h-1h-2h-1v1l-1,1h-1h-1h-1l-1,1v1l-1,1h-3v3l-2-1l1,1h-1v1h-1h-1l-1-1h-1l-1-1l-2-1h-1
 				h-1h-1v-1l-1,1h-1h-1h-1h-2l-1,1h-1H271"/>
 		</g>
 		<g id="local__municipality_210" label="Bitou">
-			<path class="st0" d="M301,517v2h2h1l2,1h1h-1v1h-1v1h-1h1h-1h1v1h-1h1h-1v1h1v1h-1h-1h-1h-1h-1h-1v1v-1h-1v1v-1v1v-1v1v-1v1v-1v1
+			<path className="st0" d="M301,517v2h2h1l2,1h1h-1v1h-1v1h-1h1h-1h1v1h-1h1h-1v1h1v1h-1h-1h-1h-1h-1h-1v1v-1h-1v1v-1v1v-1v1v-1v1v-1v1
 				h-1h-1h-1v1h-1v1v1h1v1h-1h1h-1v-1v1v-1v1h-1v-1h-1h-1h-1h-1h-1h-1h-1v-2v-1v-1l1-1h2h-1v-1v-1l1-1h-1h1h1v-1h1l-1-1l2,1v-3h3h1
 				l1,1h1v-1h1h1H301"/>
 		</g>
 		<g id="local__municipality_211" label="Langeberg">
-			<path class="st0" d="M146,525l-2,1h-1v-1l-2-1h-1h1l1-2v-1h-1l1-1h1h-1l1-1v1h1v1v-1v-1h1h1v-1l1-1l-1-1l1-1h1v1v-1v-1v-1v-1h1
+			<path className="st0" d="M146,525l-2,1h-1v-1l-2-1h-1h1l1-2v-1h-1l1-1h1h-1l1-1v1h1v1v-1v-1h1h1v-1l1-1l-1-1l1-1h1v1v-1v-1v-1v-1h1
 				l1-1h-2l-1-1h-1v-1l-1-1h-1l1-1h3h1h1h1h1l1,1h2v-1l2-1v1l1-1h1v1l1,1h1h1v-1l1,1l1-1l1,1l1-1h1h1h1l2-1h1l1-1h1h2h1l1-1h1h1v1
 				l-1,1v1l3-1v1h1l-1,1l-1,1l-1,2l1,1l-1,1h-1v1v1l-1,1l1,1h1v1h-1h-1h-1v1v1h1v1h1h-1v1v1h-1v1h-2l-2-1l-4-2v1l1,1l1,1h1h1v1h-1v1
 				v1h-1h1v1h-1v1h1v-1l-1,1v1h-1h-1v-1h-1h-1h-1h-1h1v-1h1h1v-1h-1h-1v1h-1h-1h-1h-1h-1h-1v1h-1v-1h-2h-1h-1h-1h-2h-2l-1-1h-1l-1-1
 				L146,525"/>
 		</g>
 		<g id="local__municipality_212" label="Kannaland">
-			<path class="st0" d="M215,501h2l1,1h1h1h1h1h1l1-1l3,1l1-1h1h2h1h2l1-1l1,2v1v1v1h1v1v1l1,1v1h-1h-1l1,1h-1v1l1,1h-1v1h-1v-1v1v1
+			<path className="st0" d="M215,501h2l1,1h1h1h1h1h1l1-1l3,1l1-1h1h2h1h2l1-1l1,2v1v1v1h1v1v1l1,1v1h-1h-1l1,1h-1v1l1,1h-1v1h-1v-1v1v1
 				l-1,1h-1h-1l-1-1h-1h-1h-1v-1h-1v1l1,1v1v1h-1v1h-1l-1,1v-1v1v-1h-1v1l-3-1l-1,1h-1h-1h-1h-1h-1l-1-1h-1h-1h-1h-1h-1h-1h-1l-1,1
 				h-1h-1v-1h-1h-1v1l-1,1h-1h-1l1-1h-1h-1h-1l1-1l1-1l1-1l-1-1h-1l-1-1v-1h-1h-1v1h-2h-1v-1h-1l-1-1h-1l-1-1l-2-1v1l-2,1h-1v-1v-1
 				h-1v1h-1h-1l1-2l1-1l1-1h-1v-1h3h1l3-1h1h1l1-1h1h1l1-1h2h1v-1h1l1,1h1h1h1h1h1v-1h1h2h2h1h1h1l1-1H215"/>
 		</g>
 		<g id="local__municipality_213" label="Knysna">
-			<path class="st0" d="M282,518h1l2,1l1,1h1l1,1h1l-1,1v1v1h1h-2l-1,1v1v1v2h-1h-1h-1v-1v1h-1h1h-1h-1v-1v1v-1v1v-1h-1v1v-1h-1h-1
+			<path className="st0" d="M282,518h1l2,1l1,1h1l1,1h1l-1,1v1v1h1h-2l-1,1v1v1v2h-1h-1h-1v-1v1h-1h1h-1h-1v-1v1v-1v1v-1h-1v1v-1h-1h-1
 				v1h-1h1h-1v-1h-1h-1h-1v-1h-1h-1h-1h-1v-1v1l-1-1h-1v-1h-1h1l-1-1h1v-1v-1h2v-1h1v-1v-1h1h1l1-1h2h1h1h1l1-1v1h1H282"/>
 		</g>
 		<g id="local__municipality_214" label="Laingsburg">
-			<path class="st0" d="M217,476v1v1v1v1l1,1v1h1h-1v1h-1h-1h-1l1,1h1v1v1h1h1v1h1v1h1v1h1h1v1v1h1h1v1l-1,1h1h-1v1h1v1h-1l1,1v1v1
+			<path className="st0" d="M217,476v1v1v1v1l1,1v1h1h-1v1h-1h-1h-1l1,1h1v1v1h1h1v1h1v1h1v1h1h1v1v1h1h1v1l-1,1h1h-1v1h1v1h-1l1,1v1v1
 				h-1h-1v1h-1h1h1l1,1h1h1h-1h-1v1h-1l-1,1h-1h-1h-1h-1h-1l-1-1h-2h-1l-1,1h-1h-1h-1h-2h-2h-1v1h-1h-1h-1h-1h-1l-1-1h-1v1h-1h-2
 				l-1,1h-1h-1l-1,1h-1h-1l-3,1h-1h-3l-3,1v-1l1-1v-1h-1h-1l-1,1h-1h-2h-1l2-1h2v-1h-1l-1-1l-1,1h-1l1-1v-1v-1h1h-1h-1h-1h-1l-1,1
 				h-1h-1l1-2v-1h-1l2-1l-1-1l1-1v-1v-1h-1l-1-1h1h1h2v-1l1-1l-2-2h1h1v-1h1h1v-1l1-1h1v-1v-1h1h2h1v-1l1-1l1,1v1h1h1h1h1h1h1v-1h1
@@ -1468,20 +1468,20 @@ id="mapsalocal"
 				v1v1h1h1h1h1v1v1h-1h1V476"/>
 		</g>
 		<g id="local__municipality_215" label="Oudtshoorn">
-			<path class="st0" d="M247,519l2,2h-1h-1v-1h-1h-1h-1v-1h-2v1v1h-1v-1h-1h-1h-2h-1h-1h-1h-2h-1v-1l-1,1h-1h-2v-1h2h1l-1-2h-1v1h-1
+			<path className="st0" d="M247,519l2,2h-1h-1v-1h-1h-1h-1v-1h-2v1v1h-1v-1h-1h-1h-2h-1h-1h-1h-2h-1v-1l-1,1h-1h-2v-1h2h1l-1-2h-1v1h-1
 				v-1h1v-1v-1l-1-1v-1h1v1h1h1h1l1,1h1h1l1-1v-1v-1v1h1v-1h1l-1-1v-1h1l-1-1h1h1v-1l-1-1v-1v-1h-1v-1v-1v-1l-1-2h3h2h1l3-1h1l2-1h1
 				l3,1h1l1,1h2l3,2h2h2h4h1h1h1h1v1h-1l-1,1l1,1v1l1,1h-1h-1v1v1l1,2h-1h-1h-1l-2-1v1h-1h-3h-1h-1h-1v1h-1h-1h-1v1l-1,1h-1h-1v1v1
 				v-1h1l1,1v1h1l-1,1h-1v1h-1v1l-1-1h-1h-1H247"/>
 		</g>
 		<g id="local__municipality_216" label="Prince_Albert">
-			<path class="st0" d="M270,483v2h1l1,1v1h1h1l1-1h1l1,1v2l-1,1l-1,1l-1,2v1h-1v1h-1v1l-1,2h-1v1h-1v2v1h2h-1h-1h-1h-1h-1h-4h-2h-2
+			<path className="st0" d="M270,483v2h1l1,1v1h1h1l1-1h1l1,1v2l-1,1l-1,1l-1,2v1h-1v1h-1v1l-1,2h-1v1h-1v2v1h2h-1h-1h-1h-1h-1h-4h-2h-2
 				l-3-2h-2l-1-1h-1l-3-1h-1l-2,1h-1l-3,1h-1h-2h-3l-1,1h-2h-1h-2h-1l-1,1l-3-1h1v-1h1h1h-1h-1l-1-1h-1h-1h1v-1h1h1v-1v-1l-1-1h1v-1
 				h-1v-1h1h-1l1-1v-1h-1h-1v-1v-1h-1h-1v-1h-1v-1h-1v-1h-1h-1v-1v-1h-1l-1-1h1h1h1v-1h1h-1v-1l-1-1v-1v-1v-1v-1l2,1l1-1h3l2-1l2-1
 				v-1l1-2h1l1,1h1l1-1h1h1h2v-1h1l2-1l1-1h1v1v1l1,1v1l-1,1l-1,2l1-1h1l2,1l1,1l2,1l1-2h2h1v1l1,1v2l2,1l1,1h2l2-1h1v1l1,1h1h1h1
 				l1,1h1h1h2H270"/>
 		</g>
 		<g id="local__municipality_217" label="Beaufort_West">
-			<path class="st0" d="M304,432h1h1h1h1l1,2h1h1v1h1h1l-2,2h1l2,2h1v-1h1v-1h1v-1v-1v-1h2h2l-1,1v1l1,1l1,1h1h1h1h1v1h-1v1h-1l-1,1
+			<path className="st0" d="M304,432h1h1h1h1l1,2h1h1v1h1h1l-2,2h1l2,2h1v-1h1v-1h1v-1v-1v-1h2h2l-1,1v1l1,1l1,1h1h1h1h1v1h-1v1h-1l-1,1
 				v1h1h1h1v1h1h-1l1,1h1l-1,1l-1,1v1l-1-1h-1v1v1h-1v1v1v-1l1,1v1h-1v1h-1h-1h-1v1h1l-1,1h-2h-1v1h-1h-1v1h-1h-1v-1h-1l-1-1l-1-1
 				l-1,1h-1l-1,1h-1v1h-1v2l1,1l-1,1l-2-1h-1h-1h-1h-1h-1h-1l-1,1v1h-1h-1h-1v-1h-1v1h-1v1h-1l-2,1l1,1v1v1v1l2,1v1v1v2l-1,1l2,1
 				l1,1v1h2l-1,3l-2-1h-1l-2-1h-2v-1h-1h-1l-2,1v1v1l1,1l-1,1h-1h-3v1l-2,2l1,1l-2,1h-1l-1,1h-1h-1v-1l-1-1h-1v-2h-1h-2h-1h-1l-1-1
@@ -1493,65 +1493,65 @@ id="mapsalocal"
 				l1,1v-1h1h1v-1h1l1-1l1-1v-1l1-1l1-1v-1v-1h1v-1l2-1h1v1h1v-1l1-1l1,1h2h1h2v-1l1-1H304"/>
 		</g>
 		<g id="local__municipality_218" label="Ga-Segonyana">
-			<path class="st0" d="M303,264v2h1v1h1v1h1h1h1v1h1h1v-1h1v-1v-1h1l1,1l1-1h1v1h1v-1h-1v-1h-1h1v-1l1-1v1h1h1v-1v1h1l-1-1l1-1h-1
+			<path className="st0" d="M303,264v2h1v1h1v1h1h1h1v1h1h1v-1h1v-1v-1h1l1,1l1-1h1v1h1v-1h-1v-1h-1h1v-1l1-1v1h1h1v-1v1h1l-1-1l1-1h-1
 				l1-1v-1l1,1h1h1v1v1h-1v1v1v1v1v1v1v2l2,1h1h-1v1v1v1v1v1h-1h-1h-1h-1v1h-1h-1h-1h-1h-1l-1,1h-1h-1h-1h-1v1h-2h-1h-1l-2,1l-1,1
 				l-1,1l-2,1l-1,1h-1h-1v-1h-1h-1l-1,1v-1v-1l-1,1h-1l-1,1h-2h-2h-1l-1,1v-1l-1-1v-1v-1l-1-1h1v-2l1-1l1-1v-1h1h2h1h2l-1-1v-1v-1
 				v-1v-1v-1v-1v-1h1l1-1l1-1h1v-1h-1v-1v-1v-1h-1v-1h-1v1h-1h-1v-1h-1v-1h-1v-1h-1v-1h-1v-1h-1v-2v-1h1l1-1l2,1l3,2l1,1l1,1h1v1h1
 				h1h1h1l2,1v1h2v1L303,264"/>
 		</g>
 		<g id="local__municipality_219" label="Rustenburg">
-			<path class="st0" d="M438,185v-1v-1h1h1h1h1v-1h1h1h1h1h1v-1h1h1h1h1h1v-1h1h1v-1h1h1v1v-1h1v1h1v1h1v1v1v1v1h1h1v1h1l1,1h-1v1
+			<path className="st0" d="M438,185v-1v-1h1h1h1h1v-1h1h1h1h1h1v-1h1h1h1h1h1v-1h1h1v-1h1h1v1v-1h1v1h1v1h1v1v1v1v1h1h1v1h1l1,1h-1v1
 				l1,1v1v1v1v1h1v1h-1h-2v-1h-1h-2v1v1v1v1v1v1v1h1v1v1h-1h-1h-1l1,1h-1v1v1v1v1v1h-1v1v1v1v1h-1h-1h-1h-1l-1-1h-1h-1h-1h-1h-1v-1
 				v-1v-1v-1v-1v-1v-1v-1v-1h1l-1-1l-1-1h-1v-1v-1v-1h1l1-1h-1v-1v-1v-1h-1v-1h-1v-1h-1l1-1h-1v-1l-1-1v-1v-1h-1h-1V185"/>
 		</g>
 		<g id="local__municipality_220" label="Moses_Kotane">
-			<path class="st0" d="M434,160h1v-1h1h1v-1v-1h1h1v1v1v1v1v1h1v1l1,1h1l1,1l1,1v1l1-1h1h1v1l-1,1v1h1v1h1l1-1h1l1,1v1h1h1h1h1l2-1
+			<path className="st0" d="M434,160h1v-1h1h1v-1v-1h1h1v1v1v1v1v1h1v1l1,1h1l1,1l1,1v1l1-1h1h1v1l-1,1v1h1v1h1l1-1h1l1,1v1h1h1h1h1l2-1
 				v1h1v1h-1v1v1h1v1h-1v1v1h-1v1h-1v1h-1v1h-1h-1v1h-1h-1h-1h-1h-1v1h-1h-1h-1h-1h-1v1h-1h-1h-1h-1h-1h-1h-1h-1h-1h-1v-1h-2h-1h-1
 				l-1,1h-1l-1,1v1l-1,1v1v1v1h-1h-1v-1v-1v-1h-1h-1v1h-1l-1,1l-1-1l-1,1h-1v-1v-1v-1v-1h1v-1v-1v-1h1v-1v-1h-3v-1h1h-1h1v-1h-1v-1
 				h1v-1v-1v-1v-1v-1h-1v-1h1v-1v-1v-1h1v-1v-1v-1v-1v-1h1h1v-1h-1v-1h-1h1h1h1l2,1l1-1h1l1,1l2,2v-1h1v1h1l1-1v-1h1h1h1v-1H434"/>
 		</g>
 		<g id="local__municipality_221" label="Ratlou">
-			<path class="st0" d="M377,214v1h1v1h1h-1v1h-1h-1v1h-1v1v1h-1v1h-1h-1l-1-1h-1l-1,2l-1,1h-1h1v1v1v1h-1l-1,1h-1v1v-1v1h-1v1h-1
+			<path className="st0" d="M377,214v1h1v1h1h-1v1h-1h-1v1h-1v1v1h-1v1h-1h-1l-1-1h-1l-1,2l-1,1h-1h1v1v1v1h-1l-1,1h-1v1v-1v1h-1v1h-1
 				h-1h-1v-1h-1v-1h1v-1v-1h-1h-1v-1h-1v-1l-1,1h-1l-1-2l-1,1h-1h-1v-1v-1v-1h-1v-1l-1-2l-1-1h1h1v-1v-1l-1-2l-1-1l-1-1v-1l-1-1
 				l-1-1l-1-1l-1-1h1v-1l-1-1h-1l-1-1l-2-1h-1v-1h-1v-1h-1l1-1h1h1h1v1v-1v1v-1v1h1h1v1h1h1h1v1v-1h1h1h1h1v1v-1h1h1h1h1h1h-1h1v-1
 				h1h1v-1h1v-1h1h1h1h1h1v1h1h1h1h1h1h1h1h1v1v-1h1v1v1v1h-1l-1,1h-1l1,1h1v1h1h1v1h1v1h1h-1h1v1h1v1h1h-1h1v1h1v1v1h-1v1h-1v1v1v1
 				L377,214"/>
 		</g>
 		<g id="local__municipality_222" label="Tswaing">
-			<path class="st0" d="M377,243h-1v-1h-1h-1h-1h-1v1h-1v-1h-1v-1v-1h-1v-1v1h-1v1h-1h-1v1h-1h-1v1h-1h-1v-1v-1h1v-1v-1h1v-1v-1v-1
+			<path className="st0" d="M377,243h-1v-1h-1h-1h-1h-1v1h-1v-1h-1v-1v-1h-1v-1v1h-1v1h-1h-1v1h-1h-1v1h-1h-1v-1v-1h1v-1v-1h1v-1v-1v-1
 				h1v-1v-1h1l-1-1v-1v-1v-1h1l-1-1v-1v-1v1v-1h1l1-1h1v-1v-1v-1h-1h1l1-1l1-2h1l1,1h1h1v-1h1v-1v-1v1l1,1h1v1h1v2h1v-1h1h1l-1-1
 				l1-1h1h1v-1h2v-1h1v-1h1v1h1v-1h1h1v-1h1v-1v1l1,1l1,1h1l-1,1v1h1l-1,1h-1v1h1l1,1v1h1h1v-1v1v1l1-1h1v1h1h1v1h1h1h1v1v1h-1v1v1
 				v1h1h1h1h1h1h1v1h1v1h-1v1h1v1h-1v1v-1h-1v1h-1v1h-1h-1v1h-1v1l-1,1v1l-1,1v-1h-1v1h-1h-1l-1,1h-1h-1v1l-1-1v-1v1l-1,1h-1v1l-1-1
 				v-1h-1v1h-1h-1h-1v1h-1v1h-1v-1v-1v-1h-1v1h-1v-1v-1h1l-1,1v1h-1l-1,1h-1v-1h-1h-1L377,243"/>
 		</g>
 		<g id="local__municipality_223" label="Mafikeng">
-			<path class="st0" d="M378,221h-1v-1h-1l-1-1v-1h1v-1h1h1v-1h1h-1v-1h-1v-1l-1,1v-1v-1v-1h1v-1h1v-1v-1h-1v-1h-1h1h-1v-1h-1v-1h-1
+			<path className="st0" d="M378,221h-1v-1h-1l-1-1v-1h1v-1h1h1v-1h1h-1v-1h-1v-1l-1,1v-1v-1v-1h1v-1h1v-1v-1h-1v-1h-1h1h-1v-1h-1v-1h-1
 				h1h-1v-1h-1v-1h-1h-1v-1h-1l-1-1h1l1-1h1v-1v-1v-1h1h1v-1h1h1v-1h1v-1h1h1v-1h1h1v-1h1v-1v-1h1v-1v-1h1h1l1-1h1h1h1l1,1l1,1v1v1
 				h1v1v1h1l1,1l2-1h1h1v-1h1v-1h-1h-1h1h1h1v1h1v-1h1v1h1l-1,1v1l1,1h-1v1v1h-1l1,1v1l1,1v-1h1l-1,1l-1,1v1h-1v1l-1-1h-1v-1h-1h-1
 				h-1h-1v1v1h-1h-1h-1h-1h-1h1v1v1h-1v1v1l-1,1h-1v1h1l-1,1h1v1l-1,1v1v1h-1v1v1h-1v1h-1v1h-2v1h-1h-1l-1,1l1,1h-1h-1v1h-1V221"/>
 		</g>
 		<g id="local__municipality_224" label="Ditsobotla">
-			<path class="st0" d="M393,222h-1v-1h1l1-1h-1v-1l1-1h-1l-1-1l-1-1v-1v1h-1v1h-1h-1v1h-1v-1v-1v-1h1v-1v-1l1-1v-1h-1l1-1h-1v-1h1
+			<path className="st0" d="M393,222h-1v-1h1l1-1h-1v-1l1-1h-1l-1-1l-1-1v-1v1h-1v1h-1h-1v1h-1v-1v-1v-1h1v-1v-1l1-1v-1h-1l1-1h-1v-1h1
 				l1-1v-1v-1h1v-1v-1h-1h1h1h1h1h1v-1v-1h1h1h1h1v1h1l1,1v-1h1v-1l1-1l1-1h-1v1l-1-1v-1l-1-1h1v-1v-1h1v-1h1h1h1v-1h1h1l1-1v1h1h1
 				v1h1h1h1h1l-1,1h1l-1,1v1h1h1l1-1l1,1h1h1v1h1h1v1h1v1h1v1h1v1v1h1v1v-1l2,1l1,1v1v1v1h1v1v1h-1h-1l-1,1v-1v-1l-1-1v1h-1h-1h-1v1
 				v1v1h-1v1h-1h-1v1l1,1v1h1h-1v1h-1h-1l1,1v1l1,1h-1h-1v1h-1v1h-1h1v1l-1,1h-1l1,1v1h-1h-1h-1l-1,1h-1v1h-1l1,1h-1h-1h-1v1h-1h-1
 				h-1h-1h-1h-1h-1v-1v-1v-1h1v-1v-1h-1h-1h-1v-1h-1h-1v-1h-1l-1,1v-1v-1v1h-1h-1v-1L393,222"/>
 		</g>
 		<g id="local__municipality_225" label="Ramotshere_Moiloa">
-			<path class="st0" d="M419,193v1h-1v1h-1v1v1l-1,1h-1h-1v-1l1-1h-1l1-1h-1h-1h-1h-1v-1h-1h-1v-1l-1,1h-1h-1v1h-1h-1h-1v1l-1-1v-1
+			<path className="st0" d="M419,193v1h-1v1h-1v1v1l-1,1h-1h-1v-1l1-1h-1l1-1h-1h-1h-1h-1v-1h-1h-1v-1l-1,1h-1h-1v1h-1h-1h-1v1l-1-1v-1
 				l1-1h-1v-1h-1v1h-1v-1h-1h-1h-1h1h1v1h-1v1h-1h-1l-2,1l-1-1h-1v-1v-1h-1v-1v-1l-1-1l-1-1h-1h-1h-1l-1,1h-1v-1v-1h1v-1v-1v-1h1v-1
 				v-1v-1v-1v-1h1v-1h1l1-3l1-4h1v-3h1v-1v-1l1-1l1-1h-1h1h-1v-1h1v-1h-1v-1v-1h-1v-1v-1h1h1h1h2l2-1h1l1-1h1h2h1l1-1h2l2-1h2l2-1v1
 				h1v1v1v1v1v1h1v1v-1h1v1h-1h1v1h1v1h-1h-1v1v1v1v1v1h-1v1v1v1h-1v1h1v1v1v1v1v1h-1v1h1v1h-1h1h-1v1h3v1v1h-1v1v1v1h-1v1v1v1v1h1
 				l1-1l1,1v1h1l-1,2v-1l-1,2l1-1v1h1V193"/>
 		</g>
 		<g id="local__municipality_226" label="Kgetlengrivier">
-			<path class="st0" d="M443,200h1l1,1l1,1h-1v1v1v1v1v1v1v1v1v1h-1v1h-1v-1h-1v1h-1v1h-1h1v-2l-1,2v-1l-1-1h-1v-1h-1l-1-1h-1v1h-1
+			<path className="st0" d="M443,200h1l1,1l1,1h-1v1v1v1v1v1v1v1v1v1h-1v1h-1v-1h-1v1h-1v1h-1h1v-2l-1,2v-1l-1-1h-1v-1h-1l-1-1h-1v1h-1
 				h-1h-1l-2,1v-1v-1h-1v-1v-1v-1l-1-1l-2-1v1v-1h-1v-1v-1h-1v-1h-1v-1h-1v-1h-1h-1v-1h-1h-1l-1-1v-1v-1h1v-1h1v-1v-1h-1v-1l-1,1
 				l1-2v1l1-2h-1v-1l1-1h1v-1h1h1v1v1v1h1h1v-1v-1v-1l1-1v-1l1-1h1l1-1h1h1h2v1h1h1h1h1h1h1v1v1v1h1h1v1v1l1,1v1h1l-1,1h1v1h1v1h1v1
 				v1v1h1l-1,1h-1v1v1V200"/>
 		</g>
 		<g id="local__municipality_227" label="Naledi">
-			<path class="st0" d="M350,233l-1-1v-1v-1v1h-1l-1-1l-1-1v-1l-1-1h-1v1h-1h-1v-1v-1h-1v-1v-1h-1v-1h1h1l1-1h1v-1h1h1l-1-2h-1v-1h1
+			<path className="st0" d="M350,233l-1-1v-1v-1v1h-1l-1-1l-1-1v-1l-1-1h-1v1h-1h-1v-1v-1h-1v-1v-1h-1v-1h1h1l1-1h1v-1h1h1l-1-2h-1v-1h1
 				l1-1l2-1h1l1,1l1,2v1h1v1v1v1h1h1l1-1l1,2h1l1-1v1h1v1h1h1v1v1h-1v1h1v1h1h1h1v-1h1v1l1,1h-1v1v1v1l1,1h-1v1v1h-1v1v1v1h-1v1v1
 				h-1v1v1h1h1v-1h1h1v-1h1h1v-1h1v-1v1h1v1v1h1v1h1v-1h1h1v1h1v1h-1v1h-1h-1h1v1v1h1v1v1h-1v1v-1h-1v-1h-1h-1h-1h-1h-1v-1h-1v-1v1
 				h-1h-1v1h-1v1h1v1v1h1v1h-1v1h1v1h-1h-1v1h-1h-1v-1l-1-1v-1h-1v-1h-1v1h-1v1h-1v1h-1h-1v1l-1,1v1h-1v1v1h-1l-1,1v1h-1v-1h-1v-1
@@ -1559,13 +1559,13 @@ id="mapsalocal"
 				v-1l-1-1v-1h-1h1v-1h1v-1l-1-1v-1h1h1l1-1h1l1-1h1v-1h1l2-1h1l1-1h1h1l1-1l1-1h1h1v-1h1h1L350,233"/>
 		</g>
 		<g id="local__municipality_228" label="Mamusa">
-			<path class="st0" d="M385,257l-1,1h1v1l1,1v1h-1h-1h-1l-1,1h-1h-1h-1v1h-1h-1h-1h-1h-1h-1h-1v1h-1l-1-1h-1v1v1h-1h-1h-1v1h-1v1v1
+			<path className="st0" d="M385,257l-1,1h1v1l1,1v1h-1h-1h-1l-1,1h-1h-1h-1v1h-1h-1h-1h-1h-1h-1h-1v1h-1l-1-1h-1v1v1h-1h-1h-1v1h-1v1v1
 				h-1v1h-1v-1v-1l-1-1h-1l-2,1v1h-1h-1l1-1v-1h-1v-1h-1l-1,1l-1-1h1v-1l-1-1h-1h-1v1h-1h-1v-1v-1v-1v-1l1-1h1v-1v-1h1v-1l1-1v-1h1
 				h1v-1h1v-1h1v-1h1v1h1v1l1,1v1h1h1v-1h1h1v-1h-1v-1h1v-1h-1v-1v-1h-1v-1h1v-1h1h1v-1v1h1v1h1h1h1h1h1v1h1v1v-1h1v-1v-1h-1v-1v-1
 				h-1h1h1v-1h1v-1h-1v-1h1h1v1h1l1,1h1h1v1h1l1-1h1v-1l1-1h-1v1v1h1v-1h1v1v1v1h-1v1v1l1,1v1h1v1h-1v1h-1v1h-1v1l1,1v1h1V257"/>
 		</g>
 		<g id="local__municipality_229" label="Greater_Taung">
-			<path class="st0" d="M357,266h1v1l-1,1h1h1v1l1,1v1l1,1l1,1v1h-1v1h-1h-1v-1h-1h-1v1h-1h-1h-1h-1h-1h-1h-1v-1v-1v-1v-1h-1v1v1h-1
+			<path className="st0" d="M357,266h1v1l-1,1h1h1v1l1,1v1l1,1l1,1v1h-1v1h-1h-1v-1h-1h-1v1h-1h-1h-1h-1h-1h-1h-1v-1v-1v-1v-1h-1v1v1h-1
 				h-1h-1v1v1v1v1l-1,1h1h-1v1v-1v1l2,1h-1v1h-1v1h-1v1h-1v1h1v1h-1h1v1v-1v1h-1h1h-1h1h-1h1h-1h1v1h-1v1h-1h-1v1v1h-1v1v-1h-1v-1
 				h-1l-1-1h-1h1v-1v-1v-1l-2-1l-1,1l-1-2h1v-1h1v-1h1v-1v-1l1-1h-1h-1v-1l2-2h-1h-1v-1h-1v1h-1h-1h-1h-2l-2,1h-1h-1h-1l-1,1v-1v-1
 				v-1v-1v-1h1h-1l-2-1v-2v-1v-1v-1v-1v-1v-1h1v-1v-1h-1h-1l-1-1l-1-1h-1v-1h-1h-1v-1v-1h1v-1v-1l1-1v-1l1-1v-1h1h1v-1h2v-1h1h1h1
@@ -1573,14 +1573,14 @@ id="mapsalocal"
 				v1v1h1h1v-1h1h1l1,1v1h-1l1,1l1-1h1V266"/>
 		</g>
 		<g id="local__municipality_230" label="Lekwa-Teemane">
-			<path class="st0" d="M383,274v-1h-1v1h-1v1h-1h-1h-1h-1v1h-1h-1h-1v1h-1v1h-1v1h-1h-1h-1v1h-1v1h1v1h-1h-1l-1,1v1h-1h-1v1h-1v1
+			<path className="st0" d="M383,274v-1h-1v1h-1v1h-1h-1h-1h-1v1h-1h-1h-1v1h-1v1h-1v1h-1h-1h-1v1h-1v1h1v1h-1h-1l-1,1v1h-1h-1v1h-1v1
 				h-1v1h1v1h-1v1h-1v1h-1h-1h-1h-1v1l-2-1v-1l-1-1l-1-2l-1-1v-1h1v-1h-1h1v-1h1l1-1v-1h1v-1h1v-1l2-1v-1h1v-1h1v-1h1v-1l-1-1l-1-1
 				v-1l-1-1v-1v-1l2-1h1l1,1v1v1h1v-1h1v-1v-1h1v-1h1h1h1v-1v-1h1l1,1h1v-1h1h1h1h1h1h1h1v-1h1h1h1l1-1h1h1h1v-1l-1-1v-1h-1l1-1v-1
 				h-1v-1v-1h1h1v1v1h1h1h1v1l1,1l1,1v1v1v1h-1h-1h-1h-2h1l1,1h1h1v1l1,1l-2,1h-1v1v1h1h1h1h1v1v1h-1h-1h-1v1h-1h-1v1h-1h-1v1h1h-1
 				v1v1h-1v-1H383"/>
 		</g>
 		<g id="local__municipality_231" label="Kagisano_Molopo">
-			<path class="st0" d="M329,196h1v-1v1v1v-1h1h1v1l1,1h1h1v-1v1h1v-1h1h1h-1h1v1l-1,1h1v1h1v1h1l2,1l1,1h1l1,1v1h-1l1,1l1,1l1,1
+			<path className="st0" d="M329,196h1v-1v1v1v-1h1h1v1l1,1h1h1v-1v1h1v-1h1h1h-1h1v1l-1,1h1v1h1v1h1l2,1l1,1h1l1,1v1h-1l1,1l1,1l1,1
 				l1,1v1l1,1l1,1l1,2v1v1h-1h-1h-1l-2,1l-1,1h-1v1h1l1,2h-1h-1v1h-1l-1,1h-1h-1v1h1v1v1h1v1v1h1h1v-1h1l1,1v1l1,1l1,1h1v-1v1v1l1,1
 				l-1,1h-1h-1v1h-1h-1l-1,1l-1,1h-1h-1l-1,1h-1l-2,1h-1v1h-1l-1,1h-1l-1,1h-1h-1v1l1,1v1h-1v1h-1h1v1l1,1v1h1v1v1h-1h-1l-1,1h-1h-1
 				v-1v-1h-1v-1l-1-1h-1h-1h-1v1h-2v-1v-1l-1-1v-1v-1h-1v-1h-1l-1-1h-1h-1h-1v1h-1v-1h-1h-1v-1h-1h-1v-1h-1h-1h-1v-1h-1h-1h-1v-1h-1
@@ -1592,33 +1592,33 @@ id="mapsalocal"
 				v1h1V196"/>
 		</g>
 		<g id="local__municipality_232" label="Tlokwe_City_Council">
-			<path class="st0" d="M432,240h-1h-1h-1v-1v-1h1v-1v-1v-1h1h-1h-1v-1v-1v-1v-1h1h-1h1v-1h1h1h1h1h1h1v-1h1h1h1h1h1v-1h1h1h1v1h1v1
+			<path className="st0" d="M432,240h-1h-1h-1v-1v-1h1v-1v-1v-1h1h-1h-1v-1v-1v-1v-1h1h-1h1v-1h1h1h1h1h1h1v-1h1h1h1h1h1v-1h1h1h1v1h1v1
 				h1h1v1v1v1h1h1v-1h1h1h1l-1-1v-1h1h1v1v1h1v1h1h1h1h1h1h1h1v1v1v1l1-1v1h-1v1v1v1h-1v-1v1h-1h-1v1h1h-1v1h-1v1v1h-1h-1v1h-1h-1
 				v-1h-1v-1h-1h1h-1v-1h-1v1h-1v1h-1v1h-1v1h-1v1h-1v-1v-1h-1v1h-1v-1h-1v1h-1h-1h-1h-1v-1h-1v-1h-1v-1h-1v1v1v1v1h-1v-1h-1v-1v-1
 				v-1l1-1v-1h-1H432"/>
 		</g>
 		<g id="local__municipality_233" label="City_of_Matlosana">
-			<path class="st0" d="M411,250v-1h-1v-1v1h-1l-1-1v-1v-1h-1h-1h-1v1h-1v-1l1-1v-1h1v-1h-1h-1v-1h-1v1h-1v-1h-1l1-1v-1l1-1v-1h1v-1
+			<path className="st0" d="M411,250v-1h-1v-1v1h-1l-1-1v-1v-1h-1h-1h-1v1h-1v-1l1-1v-1h1v-1h-1h-1v-1h-1v1h-1v-1h-1l1-1v-1l1-1v-1h1v-1
 				h1h1v-1h1v-1h1v1v-1h1v-1h-1v-1h1v-1h-1v-1h1v-1h1h1h1l-1-1h1v-1h1l1-1h1h1h1h1v1h1h1l1-1l1,1h1h1v1l2,1v1h-1l1,1h1h1h1v1v1v1h1
 				h1h-1v1v1v1h-1v1v1h1h1h1h1h1v1l-1,1v1v1h-1v1h-1h-1h1h-1h-1h-1v1h-1h-1v1v1h-1v-1h-1h-1v1h-1v1h-1v1h1v1h-1v1v-1h-1h-1v1h-1v1
 				v-1h-1v1v1h-1v-1h-1v1h-1h-1v-1v-1h-1v-1L411,250"/>
 		</g>
 		<g id="local__municipality_234" label="Maquassi_Hills">
-			<path class="st0" d="M413,253v1h1h1v1h1v1h1v1h1v1v1v1h-1h1h-1v-1v1h-1v1v1h1h1h1v1h-1h-1h-1h-1h-1h-1h-1h-1v1h-1h-1h-1v1h-1v1v1
+			<path className="st0" d="M413,253v1h1h1v1h1v1h1v1h1v1v1v1h-1h1h-1v-1v1h-1v1v1h1h1h1v1h-1h-1h-1h-1h-1h-1h-1h-1v1h-1h-1h-1v1h-1v1v1
 				v1h-1h-1v1h-1v1v-1v1h-1v1h-1h-1v1l1,1h-1v1h-1h1h1v1h-1v1h-1v1h-1v-1h-1v-1h1v-1v-1h-1h-1v-1h1h-1h-1v-1h-1v1v-1h-1v1h-1h-1v-1
 				v-1v-1v-1h-1h-1h-1h-1v-1v-1h1l2-1l-1-1v-1h-1h-1l-1-1h-1h2h1h1h1v-1v-1v-1l-1-1l-1-1v-1h-1h-1h-1v-1v-1h-1h-1v1l-1-1v-1h1v-1h1
 				v-1h1v-1h-1v-1l-1-1v-1v-1h1h1v-1h1v-1h1h1h1v-1h1v1l1,1v-1h1l1-1v-1v1l1,1v-1h1h1l1-1h1h1v-1h1v1h1v1h1v-1h1v1h1h1v1h-1v1l-1,1
 				v1h1v-1h1h1h1v1v1l1,1h1v-1v1h1v1l1,1v1h1V253"/>
 		</g>
 		<g id="local__municipality_174" label="Collins_Chabane">
-	<path class="st3" d="M580.5,89.4l3.5-2.6l2.6-3.2l1.8-1.4l3-0.1l1.4,1l1.4-1.3l0.7-0.7h1.1l4-1l3-4l1-1l3-2l2-2l1-1h1l-1-2l1,2
+	<path className="st3" d="M580.5,89.4l3.5-2.6l2.6-3.2l1.8-1.4l3-0.1l1.4,1l1.4-1.3l0.7-0.7h1.1l4-1l3-4l1-1l3-2l2-2l1-1h1l-1-2l1,2
 		l5,15l3,9v2v1h-1v-1l-1-1h-1v-1h-1v-1h-1v-1h-1h-1v1v1h-1v1h-1h-1v1h-1h-1v1h-1h-1h-1v-1v1h-1v-1h1h-1v-1l-1,1v-1l-1,1v1h-1v-1h-1
 		v-1h-1v1h1h-1v-1h-1h-1h-1h-1v-1h-1h-1v-1h-1h-1h1h-1v-1h-1v1v-1h-1h-1h-1v-1l-1,1v1h-1v1h-1v1h-1l0,0h-1l0,0h-1l0,0l0,0l-1,1.1
 		l-1,2v1l-1-0.1l-2-0.9l-1,0.9l-1-1l-3,0.1l1,1v1l1,0.9l-1,2.1l-1,0l-1,0.9l-1-2l-0.5-0.8l-4.5-0.1l-1.1-1.8V98l2.3-0.5l2.3,0.5
 		l1.1-1l0.5-1l1-0.8l3-2l2-1.1l3.4-1.9L580.5,89.4z"/>
 </g>
-<g id="local__municipality_175" label="Makhado" class="st4">
-	<path class="st5" d="M577,94.1h1v1h1h1l-1,1l-1,1v1v1h-1v-1h-1h-1l-1,1l-1-1h-1h-1h-1l1,1v1l1,1h-1v1v1h-1l-1,1v-1l-1-1v-1h-2h-1
+<g id="local__municipality_175" label="Makhado" className="st4">
+	<path className="st5" d="M577,94.1h1v1h1h1l-1,1l-1,1v1v1h-1v-1h-1h-1l-1,1l-1-1h-1h-1h-1l1,1v1l1,1h-1v1v1h-1l-1,1v-1l-1-1v-1h-2h-1
 		h-1h-1v1h-1h-1l-1,1h-1v-1h1h-1h-1h-1v1v1h-1v-1v1v-1v1h-1v-1h-1v1h-1v1h-1v-1v1v1h-1v-1h-1h-2l-1,1v-2l-1,1h-1h-1l-1-1v1h-1v-1v-1
 		h-1l1-1v-1h-1v-1v-1h-1h-1h-2h-1h-2l1-1h-2h-1h-1h-1h-1h-1v-1l1-1h-1v-1v-1v-1h-1h2l-1-1h1l1-1l-1-1v-2v-1l-1,1v-1l-1-1l-1,1h-1
 		l-1-1v-1v-1l1-1v-1h1v-1l1-2v-1l-1-1l1-1l-1-1l1-1h1v-1h1h-1h1h1h1v1h1v1v-1h1h1v-1l1,1h1h1v-1h-1v-1l1,1h1h1h1v1h1l1,1h1h1h1h1

@@ -1,13 +1,19 @@
 import React from 'react';
 import { Row, Col, Button } from 'mdbreact';
-import TestData from '../Pages/Data/testdatajs.json';
+//import TestData from '../Pages/Data/testdatajs.json';
+import TestData from '../Pages/Data/testdatajstwo.json';
 import SouthAfricaMunicipalities from '../maps/southafricamunicipalities.jsx';
 
-const socialMediaList = TestData;
+//const socialMediaList = TestData;
 
-
+const clickMe = (state, props) => {
+  //var idofclicked = meh
+  alert('test');
+}
 class MunProfiles extends React.Component {
-
+  // clickMe(){
+  //   alert('test');
+  // }
   render() {
 
     return (
@@ -34,16 +40,46 @@ class MunProfiles extends React.Component {
               </div>
               <div className="col-md-5">
                 <input type="search" placeholder="search" />
+                <button onClick={() => {
+                                  clickMe()
+                                }}
+                >click me</button>
+
+                {TestData.map((postDetail, index) =>{
+                return <h1 key={index}>{postDetail.title}</h1>
+                })}
+
+{/* {TestData.map(function(object, i){
+               return <div className={"row"} key={i}> 
+                          {[ object.content ,
+                             // remove the key
+                             <b className="fosfo" key={i}> {object.title} </b> , 
+                             object.id
+                          ]}
+                         </div>; 
+             })} */}
+
+
+                {/* {socialMediaList.map(s => (<li>{s}</li>))} */}
+                {/* {
+                this.state.Data.map((item, index) =>{
+                  <p>
+                  <button onClick={this.clickMe.bind(this,item)}>
+                    {item.url}
+                  </button>
+                  </p>
+                })} */}
               </div>
             </div>
             <h6 className="mb-5"> <em className="fa fa-search"></em></h6>
-              <SouthAfricaMunicipalities />
+              <SouthAfricaMunicipalities  onClick={() => {clickMe()} } />
             </div>
             
             <div className="col-md-5">
               <div className="stats-prov ZA-WC stats-active">
                 
                 <table className="table table-bordered table-hover table-striped dataTable statsTable statsTableProvince statsActive ZA-EC">
+                <tbody>
                   <tr className="statsTableHeader"><th colSpan="4"><h5>Eastern Cape<span className="float-right">-2902 <em className="fa fa-arrow-down"></em></span></h5>
                   <h6>Change in Carbon Stocks between 1990 and 2018</h6></th></tr>
                   <tr><th colSpan="4"><h6>By landcover type:</h6></th></tr>
@@ -55,12 +91,14 @@ class MunProfiles extends React.Component {
                   <tr><td>Pivot Agriculture</td><td>400</td><td>Viticulture</td><td>0</td></tr>
                   <tr><td>Subsistence Agriculture</td><td>126</td><td>Pineapple</td><td>0</td></tr>
                   <tr><td>Sugarcane Irrigated</td><td>0</td><td>Mines</td><td>307</td></tr>
-                  <tr><td>Plantation Forest</td><td>371</td><td>Sugarcane Dry</td><td>0</td></tr>			
+                  <tr><td>Plantation Forest</td><td>371</td><td>Sugarcane Dry</td><td>0</td></tr>	
+                  </tbody>		
                 </table>
               </div>
 
               <div className="stats-prov ZA-WC stats-active">
                 <table className="table table-bordered table-hover table-striped dataTable statsTable statsTableProvince ZA-WC">
+                <tbody>
                   <tr className="statsTableHeader"><th colSpan="4"><h5>Western Cape<span className="float-right">1927 <em className="fa fa-arrow-up"></em></span></h5>
                 <h6>Change in Carbon Stocks between 1990 and 2018</h6></th></tr><tr><th colSpan="4"><h6>By landcover type:</h6></th></tr>
                   <tr><td>Natural Vegetation</td><td>354</td><td>Fallow</td><td>-9584</td></tr>
@@ -71,7 +109,8 @@ class MunProfiles extends React.Component {
                   <tr><td>Pivot Agriculture</td><td>-34</td><td>Viticulture</td><td>1</td></tr>
                   <tr><td>Subsistence Agriculture</td><td>0</td><td>Pineapple</td><td>2</td></tr>
                   <tr><td>Sugarcane Irrigated</td><td>34</td><td>Mines</td><td>34</td></tr>
-                  <tr><td>Plantation Forest</td><td>0</td><td>Sugarcane Dry</td><td>5</td></tr>			
+                  <tr><td>Plantation Forest</td><td>0</td><td>Sugarcane Dry</td><td>5</td></tr>
+                  </tbody>		
                 </table>
               </div>
 

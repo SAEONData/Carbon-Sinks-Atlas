@@ -136,6 +136,10 @@ $('body').on('click', '.modalhide', function(){
     $('.modalqgis').hide();
     $('.modalqgis').removeClass('fade modal show');
 });
+// $('svg').on('click', 'g', function(){
+//     var glabel = $(this).attr('label');
+//    console.log(glabel);
+// });
 // $('#myModal').modal('show')
 /* Map */
 
