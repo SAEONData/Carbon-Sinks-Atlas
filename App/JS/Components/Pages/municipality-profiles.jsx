@@ -23,31 +23,36 @@ class MunProfiles extends React.Component {
             <h1>Provincial change in Carbon Stocks 1990-2018</h1>
             <Row>
             <Col md="auto"><Button type="button" className="btn btn-success-active btn-lg" onClick={() => { location.hash = "/municipality-profiles" }}>
-              <em className="fa fa-chevron-right mr-1"></em> Provinces</Button></Col>
-            <Col md="auto"><Button type="button" className="btn btn-success btn-lg" onClick={() => { location.hash = "/municipality-profiles-local" }}>
               <em className="fa fa-chevron-right mr-1"></em> Local Municipalities</Button></Col>
+            <Col md="auto"><Button type="button" className="btn btn-success btn-lg" onClick={() => { location.hash = "/municipality-profiles-local" }}>
+              <em className="fa fa-chevron-right mr-1"></em> Districts</Button></Col>
             </Row>
           </div>
         </section>
         <section className="ea-content-full light-bg">
           <div className="container-fluid mt-4 pt-5 pb-5">
           <div className="row">
-            <div className="col-md-7 text-center">
+            <div className="col-md-7">
             <h5>Select a municipality:</h5>
-            <div className="row">
-              <div className="col-md-7">
-                Select the province below to view details:
-              </div>
-              <div className="col-md-5">
-                <input type="search" placeholder="search" />
-                <button onClick={() => {
-                                  clickMe()
-                                }}
-                >click me</button>
 
-                {TestData.map((postDetail, index) =>{
+              <span>
+                Select the province below to view details:
+              </span>
+              <div className="inine-btn-group">
+                <div className="btn-group form-group">
+                <input type="search" placeholder="search" className="form-control" />
+                <button 
+                className="btn btn-ea-green"
+                onClick={() => {
+                          clickMe()
+                        }}
+                >
+                  search <em className="fa fa-search"></em></button>
+              </div>
+
+                {/* {TestData.map((postDetail, index) =>{
                 return <h1 key={index}>{postDetail.title}</h1>
-                })}
+                })} */}
 
 {/* {TestData.map(function(object, i){
                return <div className={"row"} key={i}> 
@@ -70,8 +75,7 @@ class MunProfiles extends React.Component {
                   </p>
                 })} */}
               </div>
-            </div>
-            <h6 className="mb-5"> <em className="fa fa-search"></em></h6>
+
               <SouthAfricaMunicipalities  onClick={() => {clickMe()} } />
             </div>
             

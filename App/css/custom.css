@@ -11,6 +11,22 @@ button:hover{
 .btn-secondary {
     background-color: #FFB612 !important;
 }
+.btn-group input{
+    height: 38px;
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+}
+.btn-group .btn {
+    height: 38px;
+    line-height: 41px;
+    padding: 0 30px 0 20px;
+    position: relative;
+}
+.btn-group .btn .fa {
+    position: absolute;
+    top: 15px;
+    right: 10px;
+}
 .ea-card {
     box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
     border-radius: 10px;
@@ -869,3 +885,81 @@ table#tableSmall.dataTable thead tr th.sorting:after{
     fill: #719062;
     cursor:pointer;
 }
+/* Map styling */
+.mapsalocal{
+    max-width: 904px;
+    margin-top: -50px;
+}
+/* #mapsalocal g[label="Musina"] polygon{
+    fill: rgba(46, 125, 67, 0.91);
+}
+#mapsalocal g[label="Blouberg"] path{
+    fill: rgba(46, 125, 67, 0.67);
+}
+#mapsalocal g[label="Lephalale"] path{
+    fill: rgba(46, 125, 67, 0.3);
+}
+#mapsalocal g[label="Thulamela"] polygon{
+    fill: rgba(46, 125, 67, 0.4);
+}
+#mapsalocal g[label="Makhado"] path{
+    fill: rgba(46, 125, 67, 0.5);
+}
+#mapsalocal g[label="Molemole"] path{
+    fill: rgba(46, 125, 67, 0.6);
+}
+#mapsalocal g[label="Aganang"] path{
+    fill: rgba(46, 125, 67, 0.7);
+}
+#mapsalocal g[label="Mookgopong"] path{
+    fill: rgba(46, 125, 67, 0.8);
+}
+#mapsalocal g[label="Collins_Chabane"] path{
+    fill: rgba(46, 125, 67, 0.9);
+}
+#mapsalocal g[label="Greater_Giyani"] path{
+    fill: rgba(46, 125, 67, 0.92);
+}
+#mapsalocal g[label="Greater_Letaba"] path{
+    fill: rgba(46, 125, 67, 0.53);
+}
+#mapsalocal g[label="Maruleng"] path{
+    fill: rgba(46, 125, 67, 0.45);
+}
+#mapsalocal g[label="Mogalakwena"] path{
+    fill: rgba(46, 125, 67, 0.35);
+}
+#mapsalocal g[label="Polokwane"] path{
+    fill: rgba(46, 125, 67, 0.25);
+}
+#mapsalocal g[label="Greater_Tzaneen"] path{
+    fill: rgba(46, 125, 67, 0.84);
+}
+#mapsalocal g[label="Modimolle"] path{
+    fill: rgba(46, 125, 67, 0.65);
+}
+#mapsalocal g[label="Thabazimbi"] path{
+    fill: rgba(46, 125, 67, 0.75);
+}
+#mapsalocal g[label="Bela-Bela"] path{
+    fill: rgba(46, 125, 67, 0.85);
+}
+#mapsalocal g[label="Ephraim_Mogale"] path{
+    fill: rgba(46, 125, 67, 0.95);
+}
+#mapsalocal g[label="Elias_Motsoaledi"] path{
+    fill: rgba(46, 125, 67, 0.21);
+}
+#mapsalocal g[label="Ba-Phalaborwa"] path{
+    fill: rgba(46, 125, 67, 0.36);
+}
+#mapsalocal g[label="Lepele-Nkumpi"] path{
+    fill: rgba(46, 125, 67, 0.31);
+}
+#mapsalocal g[label="Makhuduthamaga"] path{
+    fill: rgba(46, 125, 67, 0.41);
+}
+#mapsalocal g[label="Greater_Tubatse"] polygon
+{
+    fill: rgba(46, 125, 67, 0.51);
+} */
