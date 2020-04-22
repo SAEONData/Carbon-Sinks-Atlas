@@ -40,7 +40,10 @@ import DOCdisclaimer from './Components/Pages/doc-disclaimer.jsx';
 import DOCconditions from './Components/Pages/doc-conditions.jsx';
 import DOCprivacy from './Components/Pages/doc-privacy.jsx';
 
+// Districts
+import DistrictAlfredNzo from './Components/Pages/Districts/district-alfred-nzo.jsx';
 
+                  
 
 
 // import userManager from './components/authentication/userManager';
@@ -196,6 +199,10 @@ class App extends React.Component {
                   <Route path="/contact" component={Contact} />
                   <Route path="/coming-soon" component={ComingSoon} />
                   <Route path="/test-page" component={TestPage} />
+
+                  {/* Districts */}
+                  <Route path="/districts/alfred-nzo" component={DistrictAlfredNzo} />
+                  
                   <Redirect to="/" />
                 </Switch>
               </div>
