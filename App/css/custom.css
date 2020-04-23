@@ -205,10 +205,9 @@ table.dataTable thead .sorting:before, table.dataTable thead .sorting_asc:before
     display:table;
 }
 .statsTable .statsneg,.statsTable .statspos{
-    background: #fff;
     position:relative;
 }
-.statsTable .statsneg + .statsneg:after,.statsTable .statspos + .statspos:after{
+.statsTable .statsneg:after,.statsTable .statspos:after{
     display:block;
     content: "\f062";
     font: normal normal normal 14px/1 FontAwesome;
@@ -217,7 +216,7 @@ table.dataTable thead .sorting:before, table.dataTable thead .sorting_asc:before
     right: 6px;
     bottom: 19px;
 }
-.statsTable .statsneg + .statsneg:after{
+.statsTable .statsneg:after{
     content: "\f063";
     color: #b32121; /*e4cdcd */
 }
@@ -900,6 +899,28 @@ table#tableSmall.dataTable thead tr th.sorting:after{
     max-height: 300px;
     overflow-x: hidden;
     overflow-y: auto;
+}
+.maptooltip{
+    background: #333;
+    color: #fff;
+    height: 70px;
+    width: 200px;
+    margin: -65px 0 0 -50px;
+    border-radius: 5px;
+    padding: 10px;
+    box-shadow: 3px 3px 1px rgba(0,0,0,0.5);
+    font-size: 12px;
+}
+.maptooltip:after {
+    content: '';
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    margin-left: -8px;
+    width: 0; height: 0;
+    border-top: 8px solid #333;
+    border-right: 8px solid transparent;
+    border-left: 8px solid transparent;
 }
 /* width */
 #munlisting::-webkit-scrollbar {

@@ -4473,126 +4473,127 @@ var municipalities = {
        "FIELD20": -2656
     }
  }
-// var obj = JSON.parse('{ "name":"John", "age":30, "city":"New York"}');
-// $('body').on('click', '#extractit', function(){
-//     console.log('you clicked it');
+
+// $(window).on('hashchange', function(){
+
+//    setTimeout(function(){
+//       mapsearch();
+//      }, 2000);
+
 // });
-$(window).on('hashchange', function(){
+// $(document).ready(function(){
+//    mapsearch();
+// });
 
-   setTimeout(function(){
-      mapsearch();
-     }, 2000);
-
-   
-
-});
-$(document).ready(function(){
-   mapsearch();
-});
-// search function
-function mapsearch(){
-    //$.ajaxSetup({ cache: false });
-    $('#munsearch').keyup(function(){
+      // on search 
+$('body').on('keyup', '#munsearch', function(){
+      // clear results
      $('#munlisting').html('');
-     //$('#state').val('');
+      // get search value
      var searchField = $('#munsearch').val();
+     // change search value to use .search function
      var expression = new RegExp(searchField, "i");
-     var thedata = JSON.stringify(municipalities);
-     //var theresults = $('#munlisting').html();
 
-    //  if($('#munlisting').html == ''){
-
-    //  }
-    //console.log(searchField)
-console.log(expression);
-$.each(municipalities, function(index, value){
-    
-    if (value.name.search(expression) != -1 || value.provinces.search(expression) != -1)
-    {
-     $('#munlisting').fadeIn(300).append('<li id="'+index+'"class="list-group-item link-class"> '+value.name+' | <span class="text-muted">'+value.provinces+'</span></li>');
-    }
-    else{
-       // $('#munlisting').append('');
-       }
-       
+     // function to match searched terms with JSON object keys
+   $.each(municipalities, function(index, value){
+      if (value.name.search(expression) != -1 || value.provinces.search(expression) != -1)
+      {
+         // append search results
+         $('#munlisting').fadeIn(300).append('<li id="'+index+'"class="list-group-item link-class"> '+value.name+' | <span class="text-muted">'+value.provinces+'</span></li>');
+      }
    }); 
-   
-   // var theresults = $('#munlisting').html();
-   //     console.log('the results are: ' + theresults)
-   //     if( theresults == ''){
-   //      $('#munlisting').fadeIn(300).html('<li class="list-group-item link-class"> No Results</li>')
-   //      }
 
+});
+
+var munid = ""
+    // Function to hide listing drop down when click away from element
+   $(document).click(function(e){
+      var container = $("#munlisting");
+      if (!container.is(e.target) && container.has(e.target).length === 0) 
+      {
+         container.fadeOut(300);
+      }
+   });
+
+   // Function to update table results with selected municipality
+    $('body').on('click','#munlisting li',function(){
+      // get the ID of the municipality which is clicked on
+      munid = $(this).attr('id');
+      tableupdate()
     });
 
-   //  $('#munlisting').on('click','li',function(){
-   //    munid = $(this).attr('id');
-   //    var mappath = $('g[label='+munid+'');
-   //    $(mappath).children().css( "fill", "#333" );
-   //    maptableupdate()
-   //  });
-   // $("#munlisting").off("click", function(){
-   //    $(this).fadeOut(300);
-   // });
-   $(document).click(function(e) 
-{
-    var container = $("#munlisting");
+    // Function to update results listing when map clicked
+    $('body').on('click','#mapsalocal g',function(){
+      // get the ID of the municipality which is clicked on
+      munid = $(this).attr('label');
+      tableupdate()
+    });
 
-    // if the target of the click isn't the container nor a descendant of the container
-    if (!container.is(e.target) && container.has(e.target).length === 0) 
-    {
-        container.fadeOut(300);
-    }
-});
-
-    $('#munlisting').on('click','li',function(){
-      munid = $(this).attr('id');
-
-      alert(municipalities[""+munid+""].name); 
+    // Function to update table results
+    function tableupdate(){
 
       var table = document.getElementById("muntable");
-      var targetTDs = table.querySelectorAll('tr > td[id]');
 
+      // get the table cell IDs which match the JSON object keys
+      var targetloop = table.querySelectorAll('*[id]');
 
-      for (var i = 0; i < targetTDs.length; i++) {
-         var td = targetTDs[i];
-         var testvalue = $(td).attr('id');
-         //td.innerHTML(testvalue)
-         td.innerHTML = municipalities[""+munid+""][""+testvalue+""];
-         //console.log(td.innerHTML);
+      // replace the cells content with the clicked municipality object keys
+      for (var i = 0; i < targetloop.length; i++) {
+         var targetelement = targetloop[i];
+         var objectkey = $(targetelement).attr('id');
+         targetelement.innerHTML = municipalities[""+munid+""][""+objectkey+""];
       }
-    });
+      statsTableCols()
+    };
 
-   //  function maptableupdate(){
-   //    console.log('it is:'+munid)
 
-   //    $.each(municipalities, function(munid, value){
+// Function to add arrows to table cell values on cell value change
+function statsTableCols(){
+   $( ".statsTable td[id]" ).each(function( index ) {
+         var statstext = $(this).text();
+         if( statstext > 0 ){
+            $(this).addClass('statspos');
+            $(this).removeClass('statsneg');
+            //$(this).html('statspos')
+         }
+         if( statstext < 0  ){
+            $(this).addClass('statsneg');
+            $(this).removeClass('statspos');
+            //$(this).html('statsneg')
+         }
+      });
+  }
+  // Function to add map toolitp
+  $('body').on('click', '#searchmun', function(){
+   maptooltip();
+  });
+function maptooltip(){
 
+   // get path position and place tooltip there
+   var activepath = $( ".activepath" );
+   var position = activepath.position();
+   var tooltip = $( ".maptooltip" );
+   tooltip.offset({ top: position.top, left: position.left });
+
+   // get active municipality values
+   tooltipname = municipalities[""+munid+""].name;
+   tooltiptotal = municipalities[""+munid+""].FIELD20;
+   // populate tooltip with this content
+   tooltip.innerHTML = '<>sup</>';
+   tooltip.html('<h6>'+tooltipname+'</h6><p>'+tooltiptotal+'</p>');
+   //tooltip.innerHTML = '<p>'+tooltiptotal+'</p>';
+
+   // $( ".statsTable td[id]" ).each(function( index ) {
+   //       var statstext = $(this).text();
+   //       if( statstext > 0 ){
+   //          $(this).addClass('statspos');
+   //          $(this).removeClass('statsneg');
+   //          //$(this).html('statspos')
+   //       }
+   //       if( statstext < 0  ){
+   //          $(this).addClass('statsneg');
+   //          $(this).removeClass('statspos');
+   //          //$(this).html('statsneg')
+   //       }
    //    });
-   //    var name = munid.
-   //    // "name": "Ubuhlebezwe (KZN434)",
-   //    //  "provinces": "KwaZulu-Natal",
-   //    //  "nat_veg": -17296,
-   //    //  "bare_deg": 220,
-   //    //  "fallow": 12397,
-   //    //  "water": 328,
-   //    //  "wetlands": 58,
-   //    //  "indig_forest": 134,
-   //    //  "com_agri": -3348,
-   //    //  "piv_agri": 2949,
-   //    //  "orchards": 113,
-   //    //  "viticulture": 0,
-   //    //  "pineapple": 0,
-   //    //  "subs_afri": 3636,
-   //    //  "sugar_irri": 12,
-   //    //  "sugar_dry": 746,
-   //    //  "plant_forest": 2487,
-   //    //  "mines": 20,
-   //    //  "FIELD20": 2456
-   //  }
-    // $('#result').on('click', 'li', function() {
-    //  var click_text = $(this).text().split('|');
-    //  $('#munsearch').val($.trim(click_text[0]));
-    //  $("#result").html('');
-    // });
-   };
+  }

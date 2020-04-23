@@ -76,26 +76,26 @@ $('body').on('click', '.ea-tabs .nav-tabs a', function(){
     $('#'+tab_label).slideDown(300);
 });
 
-function statsTableCols(){
-    //$('.statsTable td:contains("-")').parent().addClass('statsneg');
+// function statsTableCols(){
+//     //$('.statsTable td:contains("-")').parent().addClass('statsneg');
 
-    $( ".statsTable td" ).each(function( index ) {
+//     $( ".statsTable td" ).each(function( index ) {
 
-        var statstext = $(this).text();
+//         var statstext = $(this).text();
 
-        if( statstext > 0 ){
-            $(this).addClass('statspos');
-            $(this).prev().addClass('statspos');
-        }
-        if( statstext < 0  ){
-            $(this).addClass('statsneg');
-            $(this).prev().addClass('statsneg');
-        }
+//         if( statstext > 0 ){
+//             $(this).addClass('statspos');
+//             $(this).prev().addClass('statspos');
+//         }
+//         if( statstext < 0  ){
+//             $(this).addClass('statsneg');
+//             $(this).prev().addClass('statsneg');
+//         }
 
-      });
+//       });
 
-    // $('.statsTable td').text('0').addClass('statsnull');
-}
+//     // $('.statsTable td').text('0').addClass('statsnull');
+// }
 
 $(document).ready(function() {
     $("#homemap").attr("src","https://map-ccis.saeon.ac.za/");
@@ -105,7 +105,7 @@ $(document).ready(function() {
     });
     explorer();
     tableBuild();
-    statsTableCols();
+    //statsTableCols();
 });
 
 // $('body').on('click', '#extractit', function(){
@@ -175,7 +175,7 @@ $(window).on('hashchange', function(){
     setTimeout(function(){
         explorer();
         tableBuild();
-        statsTableCols();
+        //statsTableCols();
         
         console.log('window changed 4');
       }, 2000);

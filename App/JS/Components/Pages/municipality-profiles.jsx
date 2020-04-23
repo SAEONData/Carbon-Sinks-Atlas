@@ -83,7 +83,7 @@ class MunProfiles extends React.Component {
                 
                 <table id="muntable" className="table table-bordered table-hover table-striped dataTable statsTable statsTableProvince statsActive ZA-EC">
                 <tbody>
-                  <tr className="statsTableHeader"><th colSpan="4"><h5 id="provinces"><span id="xxx">name</span> | <span id="xxx">Eastern Cape</span><span className="float-right" id="FIELD20">-2902 <em className="fa fa-arrow-down"></em></span></h5>
+                  <tr className="statsTableHeader"><th colSpan="4"><h5><span id="name">name</span> | <span id="provinces">Eastern Cape</span><span className="float-right" id="FIELD20">-2902 <em className="fa fa-arrow-down"></em></span></h5>
                   <h6>Change in Carbon Stocks between 1990 and 2018</h6></th></tr>
                   <tr><th colSpan="4"><h6>By landcover type:</h6></th></tr>
                   																

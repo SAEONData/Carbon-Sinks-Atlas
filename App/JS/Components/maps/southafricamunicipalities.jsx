@@ -1172,7 +1172,7 @@ className="mapsalocal"
  l-1,1v1l-1,1h-1v1v1v1v1v1v1h1h1h1h1l2-1v1h1v1l1,1h-2h-2v1v1h2l1,1l1,2l-1,2h-1h-1h-1h-1v1h-1h-1h-1h-1h-1h-1h-1v-1v-1h-1h-1h-1
  h-2v-1h-1l-1-1l-1-1h-1h-1h-1h-1h-1v-1v1h-1h-1v-1v1v-1h-1v1h-1V144" style={{fill: "rgb(255, 182, 18)", opacity: 0.87}}></path>
     </g>
-    <g province="Limpopo" id="local__municipality_173" label="Musina">
+    <g province="Limpopo" id="local__municipality_173" className="activepath" label="Musina">
         <polygon className="st0" points="609.9,71 608.9,71 605.9,74 602.9,76 601.9,77 600,80 596,81 594.9,81 592.8,83 591.4,82 
  588.4,82.1 589.5,79.7 590.4,78.6 590,77.7 590.4,76.7 589.7,76.1 590,75.2 590.4,74.3 591.5,73.2 593.1,72.8 594,71.8 
  593.3,70.8 592.5,70.2 593.1,69.6 592.8,69 594.5,68.9 591.9,68 589.6,68 588.5,67 586.7,67.1 586.6,68 585,68 585,69 584,69.6 
@@ -1616,7 +1616,7 @@ className="mapsalocal"
     </g>
 
 </svg>
-<div id="path-tooltip"></div>
+<div id="path-tooltip" className="maptooltip">xxx</div>
 {/* <button type="button" id="extractit">get list</button>
 <div id="extractlist">xxx</div> */}
 
