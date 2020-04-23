@@ -106,105 +106,69 @@ $(document).ready(function() {
     explorer();
     tableBuild();
     statsTableCols();
-    colorMap()
 });
 
-$('body').on('click', '#extractit', function(){
+// $('body').on('click', '#extractit', function(){
 
 
-    var collimp = 'rgba(255, 182, 18, 1)';// #ffb612 rgba(255, 182, 18, 1)
-    var colmp = 'rgba(46, 125, 50, 1)';// #2e7d32 rgba(46, 125, 50, 1)
-    var colgt = 'rgba(28, 83, 121, 1)';// #1c5379 rgba(28, 83, 121, 1)
-    var colnw = 'rgba(133, 28, 82, 1)';// #851c52 rgba(133, 28, 82, 1)
-    var colfs = 'rgba(97, 20, 98, 1)';// #611462 rgba(97, 20, 98, 1)
-    var colkzn = 'rgba(13, 69, 93, 1)';// #0d455d rgba(13, 69, 93, 1)
-    var colnc = 'rgba(30, 25, 65, 1)';// #1e1941 rgba(30, 25, 65, 1)
-    var colec = 'rgba(97, 24, 16, 1)';// #611810 rgba(97, 24, 16, 1)
-    var colwc = 'rgba(92, 92, 15, 1)';// #5c5c0f rgba(92, 92, 15, 1)
-    $('g[province="Eastern Cape"] .st0').css ({
-        "fill": colec 
-    });
-    $('g[province="Free State"] .st0').css ({
-        "fill": colfs 
-    });
-    $('g[province="Gauteng"] .st0').css ({
-        "fill": colgt 
-    });
-    $('g[province="KwaZulu-Natal"] .st0').css ({
-        "fill": colkzn 
-    });
-    $('g[province="Limpopo"] .st0').css ({
-        "fill": collimp 
-    });
-    $('g[province="Mpumalanga"] .st0').css ({
-        "fill": colmp 
-    });
-    $('g[province="North West"] .st0').css ({
-        "fill": colnw 
-    });
-    $('g[province="Northern Cape"] .st0').css ({
-        "fill": colnc 
-    });
-    $('g[province="Western Cape"] .st0').css ({
-        "fill": colwc 
-    });
-    $('#mapsalocal g').each(function(){
-       // $('.st0').css( "fill", collimp );
+//     var collimp = 'rgba(255, 182, 18, 1)';// #ffb612 rgba(255, 182, 18, 1)
+//     var colmp = 'rgba(46, 125, 50, 1)';// #2e7d32 rgba(46, 125, 50, 1)
+//     var colgt = 'rgba(28, 83, 121, 1)';// #1c5379 rgba(28, 83, 121, 1)
+//     var colnw = 'rgba(133, 28, 82, 1)';// #851c52 rgba(133, 28, 82, 1)
+//     var colfs = 'rgba(97, 20, 98, 1)';// #611462 rgba(97, 20, 98, 1)
+//     var colkzn = 'rgba(13, 69, 93, 1)';// #0d455d rgba(13, 69, 93, 1)
+//     var colnc = 'rgba(30, 25, 65, 1)';// #1e1941 rgba(30, 25, 65, 1)
+//     var colec = 'rgba(97, 24, 16, 1)';// #611810 rgba(97, 24, 16, 1)
+//     var colwc = 'rgba(92, 92, 15, 1)';// #5c5c0f rgba(92, 92, 15, 1)
+//     $('g[province="Eastern Cape"] .st0').css ({
+//         "fill": colec 
+//     });
+//     $('g[province="Free State"] .st0').css ({
+//         "fill": colfs 
+//     });
+//     $('g[province="Gauteng"] .st0').css ({
+//         "fill": colgt 
+//     });
+//     $('g[province="KwaZulu-Natal"] .st0').css ({
+//         "fill": colkzn 
+//     });
+//     $('g[province="Limpopo"] .st0').css ({
+//         "fill": collimp 
+//     });
+//     $('g[province="Mpumalanga"] .st0').css ({
+//         "fill": colmp 
+//     });
+//     $('g[province="North West"] .st0').css ({
+//         "fill": colnw 
+//     });
+//     $('g[province="Northern Cape"] .st0').css ({
+//         "fill": colnc 
+//     });
+//     $('g[province="Western Cape"] .st0').css ({
+//         "fill": colwc 
+//     });
+//     $('#mapsalocal g').each(function(){
+//        // $('.st0').css( "fill", collimp );
         
-        $('.st0').css ({
-            "opacity": randomOpacity
-        });
+//         $('.st0').css ({
+//             "opacity": randomOpacity
+//         });
         
-        // var maplabel = $(this).attr('class');
-        // console.log(maplabel);
-        // //this wrapped in jQuery will give us the current .letter-q div
-        // $('#extractlist').append(maplabel + '<br />');
+//         // var maplabel = $(this).attr('class');
+//         // console.log(maplabel);
+//         // //this wrapped in jQuery will give us the current .letter-q div
+//         // $('#extractlist').append(maplabel + '<br />');
             
-    });
+//     });
     
-});
-function randomOpacity(){
-var opac = 0;
-    opac =  Math.floor(Math.random() * (99 - 25)) + 25;
-    thenumber = "0."+ opac
-    return thenumber;
-}
-function colorMap(){ 
-    console.log('color run');
-    //$('.st0').css( "fill", "red" );
+// });
+// function randomOpacity(){
+// var opac = 0;
+//     opac =  Math.floor(Math.random() * (99 - 35)) + 35;
+//     thenumber = "0."+ opac
+//     return thenumber;
+// }
 
-    
-
-    // $('.st0').each(function(index, obj){
-    //     index.css( "fill", "pink" );
-    // });
-
-    // $('.st0').each(function(){
-    //     //if statement here 
-    //     // use $(this) to reference the current div in the loop
-    //     //you can try something like...
-    //     $("<path>", {
-    //         class : "st0",
-    //         css : {
-    //           fill : "pink"
-    //         }
-    //       }).appendTo("body"); 
-    //     //$(this).css( "fill", "pink" );
-    //     if(condition){
-    
-    //     }
-    
-    
-    //  });
-
-
-    // function randomOpacity(){
-    //   var opac = 0;
-    //      opac =  (Math.random());
-    //     return opac;
-    // }
-
-  };
 
 $(window).on('hashchange', function(){
 

@@ -890,6 +890,36 @@ table#tableSmall.dataTable thead tr th.sorting:after{
     max-width: 904px;
     margin-top: -50px;
 }
+#munlisting{
+    display:none;
+    position: absolute;
+    top: 38px;
+    -webkit-box-shadow: 3px 10px 5px 2px rgba(0,0,0,0.5);
+    -moz-box-shadow: 3px 10px 5px 2px rgba(0,0,0,0.5);
+    box-shadow: 3px 10px 5px 2px rgba(0,0,0,0.5);
+    max-height: 300px;
+    overflow-x: hidden;
+    overflow-y: auto;
+}
+/* width */
+#munlisting::-webkit-scrollbar {
+    width: 10px;
+  }
+  
+  /* Track */
+  #munlisting::-webkit-scrollbar-track {
+    background: #f1f1f1;
+  }
+  
+  /* Handle */
+  #munlisting::-webkit-scrollbar-thumb {
+    background: #888;
+  }
+  
+  /* Handle on hover */
+  #munlisting::-webkit-scrollbar-thumb:hover {
+    background: #555;
+  }
 /* #mapsalocal g[label="Musina"] polygon{
     fill: rgba(46, 125, 67, 0.91);
 }
