@@ -4520,14 +4520,10 @@ var munid = ""
       // get the ID of the municipality which is clicked on
       munid = $(this).attr('id');
       tableupdate()
+      maptooltip()
     });
 
-    // Function to update results listing when map clicked
-    $('body').on('click','#mapsalocal g',function(){
-      // get the ID of the municipality which is clicked on
-      munid = $(this).attr('label');
-      tableupdate()
-    });
+
 
     // Function to update table results
     function tableupdate(){
@@ -4563,15 +4559,21 @@ function statsTableCols(){
          }
       });
   }
-  // Function to add map toolitp
-  $('body').on('click', '#searchmun', function(){
+  // Function on map click
+  $('body').on('click', '#mapsalocal g', function(){
+   munid = $(this).attr('label');
+   // remove all active classes
    maptooltip();
+   tableupdate();
   });
 function maptooltip(){
-
+   var activeg = $('#mapsalocal g[label="'+munid+'"]')
+   $('#mapsalocal g').removeClass('activepath');
+   $(activeg).addClass('activepath');
    // get path position and place tooltip there
    var activepath = $( ".activepath" );
    var position = activepath.position();
+   console.log(position)
    var tooltip = $( ".maptooltip" );
    tooltip.offset({ top: position.top, left: position.left });
 
@@ -4579,21 +4581,6 @@ function maptooltip(){
    tooltipname = municipalities[""+munid+""].name;
    tooltiptotal = municipalities[""+munid+""].FIELD20;
    // populate tooltip with this content
-   tooltip.innerHTML = '<>sup</>';
-   tooltip.html('<h6>'+tooltipname+'</h6><p>'+tooltiptotal+'</p>');
-   //tooltip.innerHTML = '<p>'+tooltiptotal+'</p>';
+   tooltip.html('<div class="maptooltipinner"><h6>'+tooltipname+'</h6><p>'+tooltiptotal+'</p></div>');
 
-   // $( ".statsTable td[id]" ).each(function( index ) {
-   //       var statstext = $(this).text();
-   //       if( statstext > 0 ){
-   //          $(this).addClass('statspos');
-   //          $(this).removeClass('statsneg');
-   //          //$(this).html('statspos')
-   //       }
-   //       if( statstext < 0  ){
-   //          $(this).addClass('statsneg');
-   //          $(this).removeClass('statspos');
-   //          //$(this).html('statsneg')
-   //       }
-   //    });
   }

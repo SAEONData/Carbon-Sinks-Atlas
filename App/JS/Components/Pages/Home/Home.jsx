@@ -9,12 +9,6 @@ import React from 'react';
 import Home5 from '../../../../Images/LandingPage/homebg.gif';
 import Home6 from '../../../../Images/LandingPage/home-diagram.png';
 import Home7 from '../../../../Images/LandingPage/home-diagram-mobile.png';
-import photog1 from '../../../../Images/Other/photos/1.jpg';
-import photog2 from '../../../../Images/Other/photos/2.jpg';
-import photog3 from '../../../../Images/Other/photos/3.jpg';
-import photog4 from '../../../../Images/Other/photos/4.jpg';
-import photog5 from '../../../../Images/Other/photos/5.jpg';
-import photog6 from '../../../../Images/Other/photos/6.jpg';
 class Home extends React.Component {
 
   render() {
@@ -27,14 +21,9 @@ class Home extends React.Component {
             
             <div className="row">
               <div className="col-md-6 bg-hm-img">
-                <div className="row mt-4 no-gutters">
-                  <div className="col-md-4"><img src={photog1} /></div>
-                  <div className="col-md-4"><img src={photog2} /></div>
-                  <div className="col-md-4"><img src={photog3} /></div>
-                  <div className="col-md-4"><img src={photog4} /></div>
-                  <div className="col-md-4"><img src={photog5} /></div>
-                  <div className="col-md-4"><img src={photog6} /></div>
-                </div>
+                <img src={Home5} className="hm-bg-img" />
+                <img src={Home6} className="hm-img hm-img-large" />
+                <img src={Home7} className="hm-img hm-img-small" />
               </div>
               <div className="col-md-6 hm-points">
                 {/* CTA START */}

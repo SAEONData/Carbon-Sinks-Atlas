@@ -13,7 +13,7 @@ class CSAComing extends React.Component {
               <div
                 style={{ backgroundColor: 'white', border: '1px solid gainsboro', borderRadius: 10, padding: '15px 15px 5px' }} >
                 <h5 style={{ margin: 0 }}>
-                  <b>Technical Report Coming Soon</b>
+                  <b>Coming Soon</b>
                 </h5>
 
                 <hr style={{ marginTop: 10 }} />

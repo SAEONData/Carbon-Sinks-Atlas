@@ -900,18 +900,21 @@ table#tableSmall.dataTable thead tr th.sorting:after{
     overflow-x: hidden;
     overflow-y: auto;
 }
-.maptooltip{
+/* Map Tooltip */
+.maptooltipinner{
     background: #333;
     color: #fff;
     height: 70px;
     width: 200px;
-    margin: -65px 0 0 -50px;
+    margin: -70px 0 0 -70px;
     border-radius: 5px;
     padding: 10px;
     box-shadow: 3px 3px 1px rgba(0,0,0,0.5);
     font-size: 12px;
+    position: absolute;
+    z-index: 1;
 }
-.maptooltip:after {
+.maptooltipinner:after {
     content: '';
     position: absolute;
     top: 100%;
@@ -921,6 +924,15 @@ table#tableSmall.dataTable thead tr th.sorting:after{
     border-top: 8px solid #333;
     border-right: 8px solid transparent;
     border-left: 8px solid transparent;
+}
+.maptooltipinner h6{
+    font-size: 14px;
+    margin: 0;
+}
+g.activepath path,
+g.activepath polygon{
+    fill:#333!important;
+    opacity:1!important;
 }
 /* width */
 #munlisting::-webkit-scrollbar {
