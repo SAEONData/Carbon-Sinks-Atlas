@@ -4525,23 +4525,29 @@ var munid = ""
 
 
 
-    // Function to update table results
-    function tableupdate(){
+// Function to update table results
+function tableupdate(){
+//show table
+showMunTable();
+//get table var
+var table = document.getElementById("muntable");
 
-      var table = document.getElementById("muntable");
+// get the table cell IDs which match the JSON object keys
+var targetloop = table.querySelectorAll('*[id]');
 
-      // get the table cell IDs which match the JSON object keys
-      var targetloop = table.querySelectorAll('*[id]');
+// replace the cells content with the clicked municipality object keys
+for (var i = 0; i < targetloop.length; i++) {
+   var targetelement = targetloop[i];
+   var objectkey = $(targetelement).attr('id');
+   targetelement.innerHTML = municipalities[""+munid+""][""+objectkey+""];
+}
+statsTableCols()
+};
 
-      // replace the cells content with the clicked municipality object keys
-      for (var i = 0; i < targetloop.length; i++) {
-         var targetelement = targetloop[i];
-         var objectkey = $(targetelement).attr('id');
-         targetelement.innerHTML = municipalities[""+munid+""][""+objectkey+""];
-      }
-      statsTableCols()
-    };
-
+// Function to show Municipality Table 
+function showMunTable(){
+   $('body').find('.stats-prov').css( "opacity", "1" );
+}
 
 // Function to add arrows to table cell values on cell value change
 function statsTableCols(){
