@@ -58,24 +58,6 @@ class Header extends React.Component {
         </Row>
         <div>
 
-                  <div className="modal fade" id="supportform" aria-hidden="true">
-                    <div className="modal-dialog" role="document">
-                      <div className="modal-content">
-                        <div className="modal-header">
-                          <h5 className="modal-title" id="exampleModalLabel">Support Form</h5>
-                          <button type="button" className="close supportToggle" data-dismiss="modal" aria-label="Close">
-                            <span aria-hidden="true">&times;</span>
-                          </button>
-                        </div>
-                        <div className="modal-body">
-                          <iframe className="supportFrame" src="https://ccis.environment.gov.za/support.html" />
-                        </div>
-                        <div className="modal-footer">
-                          <button type="button" className="btn btn-success supportToggle" data-dismiss="modal">Close</button>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
         </div>
       </div>
       </>
