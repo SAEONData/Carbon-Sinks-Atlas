@@ -62,8 +62,8 @@ class Contact extends React.Component {
               <div className="ea-card">
               <div className="text-center"><img src={logoCsir} /></div>
               <h4><strong>CSIR Contact:</strong></h4>
-              <p><strong>Graham Von Maltitz</strong><br/>Queries about the model development and carbon fluxes</p>
-              <a href="mailto:GvMalt@csir.co.za">GvMalt@csir.co.za</a>
+              <p><strong>CSIR Contact Details</strong><br/>Queries about the model development and carbon fluxes</p>
+              <a href="https://www.csir.co.za/contact" target="blank">Contact details</a>
               </div>
             </div>
             

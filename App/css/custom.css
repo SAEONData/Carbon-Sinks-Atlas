@@ -458,7 +458,12 @@ table.dataTable thead .sorting:before, table.dataTable thead .sorting_asc:before
 /* Home page */
 .bg-hm-img{
     position:relative;
-    margin: -80px 0 0px -35px;
+    margin: 0px 0 0px -35px;
+}
+.bg-hm-img .col-md-4{
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
 }
 .hm-bg-img{
     position:absolute;
@@ -521,8 +526,8 @@ table.dataTable thead .sorting:before, table.dataTable thead .sorting_asc:before
     content: " ";
     background: #2e7d32;
     height: 3px;
-    width: 19px;
-    left: -19px;
+    width: 14px;
+    left: -16px;
     top: 26px;
 }
 .hm-points h5{

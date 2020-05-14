@@ -35,13 +35,11 @@ class Header extends React.Component {
           <Col md="6">
             <div>
               <h1 style={{ textAlign: "center", letterSpacing: "2px", color: "#2e7d32" }}>
-                <b>SA Carbon Sinks Atlas</b>
-
+                <b>South African Carbon Sinks Atlas</b>
               </h1>
-              <p></p>
-              <h5 style={{ textAlign: "center", letterSpacing: "2px", marginTop: "-8px", color: "grey" }}>
-                <b>Carbon stocks and fluxes across South Africa</b>
-              </h5>
+              {/* <h5 style={{ textAlign: "center", letterSpacing: "2px", marginTop: "-8px", color: "grey" }}>
+                <b></b>
+              </h5> */}
             </div>
           </Col>
           <Col md="1"/>
