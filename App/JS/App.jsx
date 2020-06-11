@@ -40,7 +40,7 @@ import DOCdisclaimer from './Components/Pages/doc-disclaimer.jsx';
 import DOCconditions from './Components/Pages/doc-conditions.jsx';
 import DOCprivacy from './Components/Pages/doc-privacy.jsx';
 
-import DistrictsListing from './Components/Pages/districts.jsx';
+import DistrictsListing from './Components/Pages/sa-districts.jsx';
 // Districts
 import DistrictAlfredNzo from './Components/Pages/Districts/alfred-nzo.jsx';
 import DistrictAmajuba from './Components/Pages/Districts/Amajuba.jsx';

@@ -3,7 +3,7 @@ import DistrictNav from '../../navigation/distric-nav.jsx'
 
 // import xxx from '../../../../Images/districts/AlfredNzo1.png';
 
-
+import NelsonMandelaBayPDF from '../../../../content/pdfs/districts/Nelson_Mandela_Bay.pdf'
 
 
 class DistrictNelsonMandelaBay extends React.Component {
@@ -14,7 +14,6 @@ class DistrictNelsonMandelaBay extends React.Component {
       <>
         <section className="ea-content-full csa-districts">
           <div className="container-fluid mt-4">
-            <h1>xxx changes in Carbon Stocks 1990-2018</h1>
             <DistrictNav />
           </div>
         </section>
@@ -27,7 +26,7 @@ class DistrictNelsonMandelaBay extends React.Component {
                 <h2>Organic carbon pools</h2>
               </div>
               <div className="col-md-4">
-              <a class="btn btn-ea-green btn-rounded w-100" href="xxx" target="_blank"><i class="fa fa-file-pdf-o"></i> Download this document</a>
+              <a class="btn btn-ea-green btn-rounded w-100" href={NelsonMandelaBayPDF} target="_blank"><i class="fa fa-file-pdf-o"></i> Download this document</a>
               </div>
             </div>
 

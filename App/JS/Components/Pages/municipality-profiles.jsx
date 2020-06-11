@@ -9,14 +9,9 @@ import '../../map_table';
 
 //const socialMediaList = TestData;
 
-const clickMe = (state, props) => {
-  //var idofclicked = meh
-  alert('test');
-}
+
 class MunProfiles extends React.Component {
-  // clickMe(){
-  //   alert('test');
-  // }
+
   render() {
 
     return (
@@ -27,7 +22,7 @@ class MunProfiles extends React.Component {
             <Row>
             <Col md="auto"><Button type="button" className="btn btn-success-active btn-lg" onClick={() => { location.hash = "/municipality-profiles" }}>
               <em className="fa fa-chevron-right mr-1"></em> Local Municipalities</Button></Col>
-            <Col md="auto"><Button type="button" className="btn btn-success btn-lg" onClick={() => { location.hash = "/coming-soon" }}>
+            <Col md="auto"><Button type="button" className="btn btn-success btn-lg" onClick={() => { location.hash = "/sa-districts" }}>
               <em className="fa fa-chevron-right mr-1"></em> Districts</Button></Col>
             </Row>
           </div>
@@ -48,34 +43,9 @@ class MunProfiles extends React.Component {
                   search <em className="fa fa-search"></em></button>
                   <div id="munlisting"></div>
               </div>
-
-                {/* {TestData.map((postDetail, index) =>{
-                return <h1 key={index}>{postDetail.title}</h1>
-                })} */}
-
-{/* {TestData.map(function(object, i){
-               return <div className={"row"} key={i}> 
-                          {[ object.content ,
-                             // remove the key
-                             <b className="fosfo" key={i}> {object.title} </b> , 
-                             object.id
-                          ]}
-                         </div>; 
-             })} */}
-
-
-                {/* {socialMediaList.map(s => (<li>{s}</li>))} */}
-                {/* {
-                this.state.Data.map((item, index) =>{
-                  <p>
-                  <button onClick={this.clickMe.bind(this,item)}>
-                    {item.url}
-                  </button>
-                  </p>
-                })} */}
               </div>
 
-              <SouthAfricaMunicipalities  onClick={() => {clickMe()} } />
+              <SouthAfricaMunicipalities />
             </div>
             
             <div className="col-md-5">
@@ -83,27 +53,27 @@ class MunProfiles extends React.Component {
                 
                 <table id="muntable" className="table table-bordered table-hover table-striped dataTable statsTable statsTableProvince statsActive ZA-EC">
                 <tbody>
-                  <tr className="statsTableHeader"><th colSpan="4"><h5><span id="name">name</span> | <span id="provinces">Eastern Cape</span><span className="float-right" id="FIELD20">-2902 <em className="fa fa-arrow-down"></em></span></h5>
+                  <tr className="statsTableHeader"><th colSpan="4"><h5><span id="name"></span> | <span id="provinces"></span><span className="float-right" id="FIELD20"> <em className="fa fa-arrow-down"></em></span></h5>
                   <h6>Change in Carbon Stocks between 1990 and 2018</h6></th></tr>
                   <tr><th colSpan="4"><h6>By landcover type:</h6></th></tr>
                   																
-                  <tr><td>Natural Vegetation</td><td id="nat_veg">-411354</td>
-                  <td>Fallow</td><td id="fallow">29967</td></tr>
-                  <tr><td>Bare degraded</td><td id="bare_deg">408747</td>
-                  <td>Water</td><td id="water">-27982</td></tr>
-                  <tr><td>Indigenous Forest</td><td id="indig_forest">3</td>
-                  <td>Wetlands</td><td id="wetlands">-5594</td></tr>
+                  <tr><td>Natural Vegetation</td><td id="nat_veg"></td>
+                  <td>Fallow</td><td id="fallow"></td></tr>
+                  <tr><td>Bare degraded</td><td id="bare_deg"></td>
+                  <td>Water</td><td id="water"></td></tr>
+                  <tr><td>Indigenous Forest</td><td id="indig_forest"></td>
+                  <td>Wetlands</td><td id="wetlands"></td></tr>
                   <tr><th colSpan="4"><h6>By crop type:</h6></th></tr>
-                  <tr><td>Commercial Agriculture</td><td id="com_agri">-2902</td>
-                  <td>Orchards</td><td id="orchards">12</td></tr>
-                  <tr><td>Pivot Agriculture</td><td id="piv_agri">400</td>
-                  <td>Viticulture</td><td id="viticulture">0</td></tr>
-                  <tr><td>Subsistence Agriculture</td><td id="subs_afri">126</td>
-                  <td>Pineapple</td><td id="pineapple">0</td></tr>
-                  <tr><td>Sugarcane Irrigated</td><td id="sugar_irri">0</td>
-                  <td>Mines</td><td id="mines">307</td></tr>
-                  <tr><td>Plantation Forest</td><td id="plant_forest">371</td>
-                  <td>Sugarcane Dry</td><td id="sugar_dry">0</td></tr>	
+                  <tr><td>Commercial Agriculture</td><td id="com_agri"></td>
+                  <td>Orchards</td><td id="orchards"></td></tr>
+                  <tr><td>Pivot Agriculture</td><td id="piv_agri"></td>
+                  <td>Viticulture</td><td id="viticulture"></td></tr>
+                  <tr><td>Subsistence Agriculture</td><td id="subs_afri"></td>
+                  <td>Pineapple</td><td id="pineapple"></td></tr>
+                  <tr><td>Sugarcane Irrigated</td><td id="sugar_irri"></td>
+                  <td>Mines</td><td id="mines"></td></tr>
+                  <tr><td>Plantation Forest</td><td id="plant_forest"></td>
+                  <td>Sugarcane Dry</td><td id="sugar_dry"></td></tr>	
                   </tbody>		
                 </table>
               </div>
@@ -111,17 +81,17 @@ class MunProfiles extends React.Component {
               <div className="stats-prov ZA-WC stats-active">
                 <table className="table table-bordered table-hover table-striped dataTable statsTable statsTableProvince ZA-WC">
                 <tbody>
-                  <tr className="statsTableHeader"><th colSpan="4"><h5>Western Cape<span className="float-right">1927 <em className="fa fa-arrow-up"></em></span></h5>
+                  <tr className="statsTableHeader"><th colSpan="4"><h5><span className="float-right"> <em className="fa fa-arrow-up"></em></span></h5>
                 <h6>Change in Carbon Stocks between 1990 and 2018</h6></th></tr><tr><th colSpan="4"><h6>By landcover type:</h6></th></tr>
-                  <tr><td>Natural Vegetation</td><td>354</td><td>Fallow</td><td>-9584</td></tr>
-                  <tr><td>Bare degraded</td><td>-56</td><td>Water</td><td>3744</td></tr>
-                  <tr><td>Indigenous Forest</td><td>3</td><td>Wetlands</td><td>-5594</td></tr>
+                  <tr><td>Natural Vegetation</td><td>354</td><td>Fallow</td><td></td></tr>
+                  <tr><td>Bare degraded</td><td>-56</td><td>Water</td><td></td></tr>
+                  <tr><td>Indigenous Forest</td><td>3</td><td>Wetlands</td><td></td></tr>
                   <tr><th colSpan="4"><h6>By crop type:</h6></th></tr>
-                  <tr><td>Commercial Agriculture</td><td>-5678</td><td>Orchards</td><td>-2</td></tr>
-                  <tr><td>Pivot Agriculture</td><td>-34</td><td>Viticulture</td><td>1</td></tr>
-                  <tr><td>Subsistence Agriculture</td><td>0</td><td>Pineapple</td><td>2</td></tr>
-                  <tr><td>Sugarcane Irrigated</td><td>34</td><td>Mines</td><td>34</td></tr>
-                  <tr><td>Plantation Forest</td><td>0</td><td>Sugarcane Dry</td><td>5</td></tr>
+                  <tr><td>Commercial Agriculture</td><td></td><td>Orchards</td><td></td></tr>
+                  <tr><td>Pivot Agriculture</td><td></td><td>Viticulture</td><td></td></tr>
+                  <tr><td>Subsistence Agriculture</td><td></td><td>Pineapple</td><td></td></tr>
+                  <tr><td>Sugarcane Irrigated</td><td></td><td>Mines</td><td></td></tr>
+                  <tr><td>Plantation Forest</td><td></td><td>Sugarcane Dry</td><td></td></tr>
                   </tbody>		
                 </table>
               </div>

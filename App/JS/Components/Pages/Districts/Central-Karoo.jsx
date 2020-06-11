@@ -4,7 +4,7 @@ import DistrictNav from '../../navigation/distric-nav.jsx'
 import CentralKaroo1 from '../../../../Images/districts/CentralKaroo1.png';
 import CentralKaroo2 from '../../../../Images/districts/CentralKaroo2.png';
 
-
+import CentralKarooPDF from '../../../../content/pdfs/districts/Central_Karoo.pdf'
 
 class DistrictCentralKaroo extends React.Component {
 
@@ -14,7 +14,6 @@ class DistrictCentralKaroo extends React.Component {
       <>
         <section className="ea-content-full csa-districts">
           <div className="container-fluid mt-4">
-            <h1>Central Karoo changes in Carbon Stocks 1990-2018</h1>
             <DistrictNav />
           </div>
         </section>
@@ -27,7 +26,7 @@ class DistrictCentralKaroo extends React.Component {
                 <h2>Organic carbon pools</h2>
               </div>
               <div className="col-md-4">
-              <a class="btn btn-ea-green btn-rounded w-100" href="xxx" target="_blank"><i class="fa fa-file-pdf-o"></i> Download this document</a>
+              <a class="btn btn-ea-green btn-rounded w-100" href={CentralKarooPDF} target="_blank"><i class="fa fa-file-pdf-o"></i> Download this document</a>
               </div>
             </div>
 
@@ -35,7 +34,7 @@ class DistrictCentralKaroo extends React.Component {
           
           <div className="row align-items-center">
             <div className="col-md-7">
-              <img src={CentralKaroo1} / >
+              <img src={CentralKaroo1} />
               <small>Figure 1. Split of organic carbon by carbon pool. </small>
             </div>
             

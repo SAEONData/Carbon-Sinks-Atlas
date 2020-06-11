@@ -4532,16 +4532,19 @@ showMunTable();
 //get table var
 var table = document.getElementById("muntable");
 
+if( $("#muntable").length > 0 ){
+   $(table).show();
 // get the table cell IDs which match the JSON object keys
-var targetloop = table.querySelectorAll('*[id]');
+   var targetloop = table.querySelectorAll('*[id]');
 
-// replace the cells content with the clicked municipality object keys
-for (var i = 0; i < targetloop.length; i++) {
-   var targetelement = targetloop[i];
-   var objectkey = $(targetelement).attr('id');
-   targetelement.innerHTML = municipalities[""+munid+""][""+objectkey+""];
+   // replace the cells content with the clicked municipality object keys
+   for (var i = 0; i < targetloop.length; i++) {
+      var targetelement = targetloop[i];
+      var objectkey = $(targetelement).attr('id');
+      targetelement.innerHTML = municipalities[""+munid+""][""+objectkey+""];
+   }
+   statsTableCols()
 }
-statsTableCols()
 };
 
 // Function to show Municipality Table 
@@ -4581,6 +4584,7 @@ function maptooltip(){
    var position = activepath.position();
    console.log(position)
    var tooltip = $( ".maptooltip" );
+   $(tooltip).fadeIn(300);
    tooltip.offset({ top: position.top, left: position.left });
 
    // get active municipality values

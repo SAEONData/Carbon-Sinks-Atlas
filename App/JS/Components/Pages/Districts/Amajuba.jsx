@@ -4,6 +4,7 @@ import DistrictNav from '../../navigation/distric-nav.jsx'
 import Amajuba1 from '../../../../Images/districts/Amajuba1.png';
 import Amajuba2 from '../../../../Images/districts/Amajuba2.png';
 
+import AmajubaPDF from '../../../../content/pdfs/districts/Amajuba.pdf'
 
 
 class DistrictAmajuba extends React.Component {
@@ -14,7 +15,6 @@ class DistrictAmajuba extends React.Component {
       <>
         <section className="ea-content-full csa-districts">
           <div className="container-fluid mt-4">
-            <h1>Amajuba changes in Carbon Stocks 1990-2018</h1>
             <DistrictNav />
           </div>
         </section>
@@ -27,7 +27,7 @@ class DistrictAmajuba extends React.Component {
                 <h2>Organic carbon pools</h2>
               </div>
               <div className="col-md-4">
-              <a class="btn btn-ea-green btn-rounded w-100" href="xxx" target="_blank"><i class="fa fa-file-pdf-o"></i> Download this document</a>
+              <a class="btn btn-ea-green btn-rounded w-100" href={AmajubaPDF} target="_blank"><i class="fa fa-file-pdf-o"></i> Download this document</a>
               </div>
             </div>
 

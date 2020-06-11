@@ -4,7 +4,7 @@ import DistrictNav from '../../navigation/distric-nav.jsx'
 import Overberg1 from '../../../../Images/districts/Overberg1.png';
 import Overberg2 from '../../../../Images/districts/Overberg2.png';
 
-
+import OverbergPDF from '../../../../content/pdfs/districts/Overberg.pdf'
 class DistrictOverberg extends React.Component {
 
   render() {
@@ -13,7 +13,6 @@ class DistrictOverberg extends React.Component {
       <>
         <section className="ea-content-full csa-districts">
           <div className="container-fluid mt-4">
-            <h1>Overberg changes in Carbon Stocks 1990-2018</h1>
             <DistrictNav />
           </div>
         </section>
@@ -26,7 +25,7 @@ class DistrictOverberg extends React.Component {
                 <h2>Organic carbon pools</h2>
               </div>
               <div className="col-md-4">
-              <a class="btn btn-ea-green btn-rounded w-100" href="xxx" target="_blank"><i class="fa fa-file-pdf-o"></i> Download this document</a>
+              <a class="btn btn-ea-green btn-rounded w-100" href={OverbergPDF} target="_blank"><i class="fa fa-file-pdf-o"></i> Download this document</a>
               </div>
             </div>
 

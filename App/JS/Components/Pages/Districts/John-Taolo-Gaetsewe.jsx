@@ -4,7 +4,7 @@ import DistrictNav from '../../navigation/distric-nav.jsx'
 import JohnTaoloGaetsewe1 from '../../../../Images/districts/JohnTaoloGaetsewe1.png';
 import JohnTaoloGaetsewe2 from '../../../../Images/districts/JohnTaoloGaetsewe2.png';
 
-
+import JohnTaoloGaetsewePDF from '../../../../content/pdfs/districts/John_Taolo_Gaetsewe.pdf'
 
 class DistrictJohnTaoloGaetsewe extends React.Component {
 
@@ -14,7 +14,6 @@ class DistrictJohnTaoloGaetsewe extends React.Component {
       <>
         <section className="ea-content-full csa-districts">
           <div className="container-fluid mt-4">
-            <h1>John Taolo Gaetsewe changes in Carbon Stocks 1990-2018</h1>
             <DistrictNav />
           </div>
         </section>
@@ -27,7 +26,7 @@ class DistrictJohnTaoloGaetsewe extends React.Component {
                 <h2>Organic carbon pools</h2>
               </div>
               <div className="col-md-4">
-              <a class="btn btn-ea-green btn-rounded w-100" href="xxx" target="_blank"><i class="fa fa-file-pdf-o"></i> Download this document</a>
+              <a class="btn btn-ea-green btn-rounded w-100" href={JohnTaoloGaetsewePDF} target="_blank"><i class="fa fa-file-pdf-o"></i> Download this document</a>
               </div>
             </div>
 

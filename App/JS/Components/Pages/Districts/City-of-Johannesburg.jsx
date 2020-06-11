@@ -4,7 +4,7 @@ import DistrictNav from '../../navigation/distric-nav.jsx'
 import CityofJohannesburg1 from '../../../../Images/districts/CityofJohannesburg1.png';
 import CityofJohannesburg2 from '../../../../Images/districts/CityofJohannesburg2.png';
 
-
+import CityofJohannesburgPDF from '../../../../content/pdfs/districts/City-of-Johannesburg.pdf'
 class DistrictCityofJohannesburg extends React.Component {
 
   render() {
@@ -13,7 +13,6 @@ class DistrictCityofJohannesburg extends React.Component {
       <>
         <section className="ea-content-full csa-districts">
           <div className="container-fluid mt-4">
-            <h1>City of Johannesburg changes in Carbon Stocks 1990-2018</h1>
             <DistrictNav />
           </div>
         </section>
@@ -26,7 +25,7 @@ class DistrictCityofJohannesburg extends React.Component {
                 <h2>Organic carbon pools</h2>
               </div>
               <div className="col-md-4">
-              <a class="btn btn-ea-green btn-rounded w-100" href="xxx" target="_blank"><i class="fa fa-file-pdf-o"></i> Download this document</a>
+              <a class="btn btn-ea-green btn-rounded w-100" href={CityofJohannesburgPDF} target="_blank"><i class="fa fa-file-pdf-o"></i> Download this document</a>
               </div>
             </div>
 

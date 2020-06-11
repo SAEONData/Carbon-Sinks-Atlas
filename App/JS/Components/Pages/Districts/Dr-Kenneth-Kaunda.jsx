@@ -4,7 +4,7 @@ import DistrictNav from '../../navigation/distric-nav.jsx'
 import DrKennethKaunda1 from '../../../../Images/districts/DrKennethKaunda1.png';
 import DrKennethKaunda2 from '../../../../Images/districts/DrKennethKaunda2.png';
 
-
+import DrKennethKaundaPDF from '../../../../content/pdfs/districts/Dr_Kenneth_Kaunda.pdf'
 
 class DistrictDrKennethKaunda extends React.Component {
 
@@ -14,7 +14,6 @@ class DistrictDrKennethKaunda extends React.Component {
       <>
         <section className="ea-content-full csa-districts">
           <div className="container-fluid mt-4">
-            <h1>Dr Kenneth Kaunda changes in Carbon Stocks 1990-2018</h1>
             <DistrictNav />
           </div>
         </section>
@@ -27,7 +26,7 @@ class DistrictDrKennethKaunda extends React.Component {
                 <h2>Organic carbon pools</h2>
               </div>
               <div className="col-md-4">
-              <a class="btn btn-ea-green btn-rounded w-100" href="xxx" target="_blank"><i class="fa fa-file-pdf-o"></i> Download this document</a>
+              <a class="btn btn-ea-green btn-rounded w-100" href={DrKennethKaundaPDF} target="_blank"><i class="fa fa-file-pdf-o"></i> Download this document</a>
               </div>
             </div>
 

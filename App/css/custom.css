@@ -187,6 +187,9 @@ table.dataTable thead .sorting:before, table.dataTable thead .sorting_asc:before
     -o-transition: all 0.7s ease-out;
     transition: all 0.7s ease-out;
 }
+#muntable{
+    display:none;
+}
 .statsTableHeader th{
     border-color:#2e7d32;
     background:#2e7d32;
@@ -290,6 +293,18 @@ table.dataTable thead .sorting:before, table.dataTable thead .sorting_asc:before
     }
 }
 @media (min-width: 768px){
+    .ant-drawer-left.ant-drawer-open .ant-drawer-content-wrapper{
+        width: 100%;
+        max-width: 300px;
+    }
+    #mapsdistricts{
+        margin-left: -200px;
+        margin-top: 22px;
+    }
+    .districtsvg{
+        overflow-x: hidden;
+        margin-top: 25px;
+    }
     #ea-body {
         padding-top: 148px;
     }
@@ -894,7 +909,7 @@ table#tableSmall.dataTable thead tr th.sorting:after{
     max-width: 904px;
     margin-top: -50px;
 }
-#munlisting{
+#munlisting,#districtlisting{
     display:none;
     position: absolute;
     top: 38px;
@@ -905,7 +920,17 @@ table#tableSmall.dataTable thead tr th.sorting:after{
     overflow-x: hidden;
     overflow-y: auto;
 }
+#munlisting .list-link,
+#districtlisting .list-link{
+    float: right;
+    border: 1px solid rgba(0,0,0,.125);
+    padding: 3px 10px;
+    margin: -5px -10px 0 0;
+}
 /* Map Tooltip */
+.maptooltip{
+    display:none;
+}
 .maptooltipinner{
     background: #333;
     color: #fff;
@@ -934,28 +959,47 @@ table#tableSmall.dataTable thead tr th.sorting:after{
     font-size: 14px;
     margin: 0;
 }
+.maptooltipinner .btn{
+    box-shadow: none;
+    padding: 5px 15px;
+    margin: 10px 0;
+}
+.districttooltip .maptooltipinner{
+    height: 90px;
+}
 g.activepath path,
 g.activepath polygon{
     fill:#333!important;
     opacity:1!important;
 }
+
+#mapsdistricts g.activepath path{
+    fill:#FFB612!important;
+}
+#mapsdistricts path:hover{
+    cursor: pointer;
+}
 /* width */
-#munlisting::-webkit-scrollbar {
+#munlisting::-webkit-scrollbar,
+#districtlisting::-webkit-scrollbar {
     width: 10px;
   }
   
   /* Track */
-  #munlisting::-webkit-scrollbar-track {
+  #munlisting::-webkit-scrollbar-track,
+  #districtlisting::-webkit-scrollbar-track{
     background: #f1f1f1;
   }
   
   /* Handle */
-  #munlisting::-webkit-scrollbar-thumb {
+  #munlisting::-webkit-scrollbar-thumb,
+  #districtlisting::-webkit-scrollbar-thumb {
     background: #888;
   }
   
   /* Handle on hover */
-  #munlisting::-webkit-scrollbar-thumb:hover {
+  #munlisting::-webkit-scrollbar-thumb:hover,
+  #districtlisting::-webkit-scrollbar-thumb:hover {
     background: #555;
   }
 /* #mapsalocal g[label="Musina"] polygon{

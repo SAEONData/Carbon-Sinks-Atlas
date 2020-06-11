@@ -4,7 +4,7 @@ import DistrictNav from '../../navigation/distric-nav.jsx'
 import ORTambo1 from '../../../../Images/districts/ORTambo1.png';
 import ORTambo2 from '../../../../Images/districts/ORTambo2.png';
 
-
+import ORTamboPDF from '../../../../content/pdfs/districts/OR_Tambo.pdf'
 
 class DistrictORTambo extends React.Component {
 
@@ -14,7 +14,6 @@ class DistrictORTambo extends React.Component {
       <>
         <section className="ea-content-full csa-districts">
           <div className="container-fluid mt-4">
-            <h1>O.R.Tambo changes in Carbon Stocks 1990-2018</h1>
             <DistrictNav />
           </div>
         </section>
@@ -27,7 +26,7 @@ class DistrictORTambo extends React.Component {
                 <h2>Organic carbon pools</h2>
               </div>
               <div className="col-md-4">
-              <a class="btn btn-ea-green btn-rounded w-100" href="xxx" target="_blank"><i class="fa fa-file-pdf-o"></i> Download this document</a>
+              <a class="btn btn-ea-green btn-rounded w-100" href={ORTamboPDF} target="_blank"><i class="fa fa-file-pdf-o"></i> Download this document</a>
               </div>
             </div>
 

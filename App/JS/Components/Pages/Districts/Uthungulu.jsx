@@ -4,7 +4,7 @@ import DistrictNav from '../../navigation/distric-nav.jsx'
 import Uthungulu1 from '../../../../Images/districts/Uthungulu1.png';
 import Uthungulu2 from '../../../../Images/districts/Uthungulu2.png';
 
-
+import UthunguluPDF from '../../../../content/pdfs/districts/Uthungulu.pdf'
 
 class DistrictUthungulu extends React.Component {
 
@@ -14,7 +14,6 @@ class DistrictUthungulu extends React.Component {
       <>
         <section className="ea-content-full csa-districts">
           <div className="container-fluid mt-4">
-            <h1>Uthungulu changes in Carbon Stocks 1990-2018</h1>
             <DistrictNav />
           </div>
         </section>
@@ -27,7 +26,7 @@ class DistrictUthungulu extends React.Component {
                 <h2>Organic carbon pools</h2>
               </div>
               <div className="col-md-4">
-              <a class="btn btn-ea-green btn-rounded w-100" href="xxx" target="_blank"><i class="fa fa-file-pdf-o"></i> Download this document</a>
+              <a class="btn btn-ea-green btn-rounded w-100" href={UthunguluPDF} target="_blank"><i class="fa fa-file-pdf-o"></i> Download this document</a>
               </div>
             </div>
 

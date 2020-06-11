@@ -4,7 +4,7 @@ import DistrictNav from '../../navigation/distric-nav.jsx'
 import ThaboMofutsanyane1 from '../../../../Images/districts/ThaboMofutsanyane1.png';
 import ThaboMofutsanyane2 from '../../../../Images/districts/ThaboMofutsanyane2.png';
 
-
+import ThaboMofutsanyanePDF from '../../../../content/pdfs/districts/Thabo_Mofutsanyane.pdf'
 
 class DistrictThaboMofutsanyane extends React.Component {
 
@@ -14,7 +14,6 @@ class DistrictThaboMofutsanyane extends React.Component {
       <>
         <section className="ea-content-full csa-districts">
           <div className="container-fluid mt-4">
-            <h1>Thabo Mofutsanyane changes in Carbon Stocks 1990-2018</h1>
             <DistrictNav />
           </div>
         </section>
@@ -27,7 +26,7 @@ class DistrictThaboMofutsanyane extends React.Component {
                 <h2>Organic carbon pools</h2>
               </div>
               <div className="col-md-4">
-              <a class="btn btn-ea-green btn-rounded w-100" href="xxx" target="_blank"><i class="fa fa-file-pdf-o"></i> Download this document</a>
+              <a class="btn btn-ea-green btn-rounded w-100" href={ThaboMofutsanyanePDF} target="_blank"><i class="fa fa-file-pdf-o"></i> Download this document</a>
               </div>
             </div>
 

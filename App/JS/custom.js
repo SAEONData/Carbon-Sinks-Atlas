@@ -76,26 +76,7 @@ $('body').on('click', '.ea-tabs .nav-tabs a', function(){
     $('#'+tab_label).slideDown(300);
 });
 
-// function statsTableCols(){
-//     //$('.statsTable td:contains("-")').parent().addClass('statsneg');
 
-//     $( ".statsTable td" ).each(function( index ) {
-
-//         var statstext = $(this).text();
-
-//         if( statstext > 0 ){
-//             $(this).addClass('statspos');
-//             $(this).prev().addClass('statspos');
-//         }
-//         if( statstext < 0  ){
-//             $(this).addClass('statsneg');
-//             $(this).prev().addClass('statsneg');
-//         }
-
-//       });
-
-//     // $('.statsTable td').text('0').addClass('statsnull');
-// }
 
 $(document).ready(function() {
     $("#homemap").attr("src","https://map-ccis.saeon.ac.za/");
@@ -202,8 +183,8 @@ $('body').on('click', '.modalhide', function(){
 /* Map */
 
 // $('body').on('click', '#extractit', function(){
-//     $('#mapsalocal path').each(function(){
-//         var maplabel = $(this).attr('class');
+//     $('#mapsdistricts g').each(function(){
+//         var maplabel = $(this).attr('label');
 //         console.log(maplabel);
 //         //this wrapped in jQuery will give us the current .letter-q div
 //         $('#extractlist').append(maplabel + '<br />');
