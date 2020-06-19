@@ -9,6 +9,7 @@ import photog5 from '../../../Images/Other/photos/5.jpg';
 import photog6 from '../../../Images/Other/photos/6.jpg';
 import photog7 from '../../../Images/Other/7.gif';
 import photog8 from '../../../Images/Other/8.gif';
+import techreport from './../../../content/pdfs/Carbon_Atlas_summary_for_policy_makers_final.pdf';
 
 class ModelCSA extends React.Component {
 
@@ -39,7 +40,7 @@ class ModelCSA extends React.Component {
                 <p>It is the <strong>grasslands and savanna systems which contain the largest share</strong> of this carbon, accounting for approximately 1/3 of the national total carbon stock each.</p>
                 <p>Deserts, due to their aridity and small spatial area, have the smallest carbon stock of all biomes, with forests and azonal vegetation, both having only about 1% of terrestrial carbon stocks each.</p>
                 <p>In South Africa there is very limited carbon stock change as a consequence of land cover change, with the large change being observed between 2014 and 2018 being a consequence of changes in land cover measurements rather than actual “on-the-ground” change. In particular the addition of a new fallow land cover class is responsible for most of the observed change. </p>
-                <button className="btn btn-light" onClick={() => { location.hash = "coming-soon" }}><i className="fa fa-info-circle" aria-hidden="true"></i> Read the technical report here</button>
+                <a className="btn btn-light" href={techreport} target="_blank"><i className="fa fa-info-circle" aria-hidden="true"></i> Read the technical report here</a>
                 <button className="btn btn-light" onClick={() => { location.hash = "municipality-profiles" }}><i className="fa fa-info-circle" aria-hidden="true"></i> View Summaries for District Municipalities</button>
                 <div className="row mt-4 no-gutters">
                   <div className="col-md-2"><img src={photog1} /></div>

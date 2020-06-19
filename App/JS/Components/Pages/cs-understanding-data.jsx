@@ -3,7 +3,7 @@ import { Row, Col, Button } from 'mdbreact';
 import data1 from './../../../Images/Other/data1.png';
 import data2 from './../../../Images/Other/data2.png';
 import data3 from './../../../Images/Other/data3.png';
-
+import techreport from './../../../content/pdfs/Carbon_Atlas_summary_for_policy_makers_final.pdf';
 class CsUnderstandingData extends React.Component {
 
   render() {
@@ -27,7 +27,7 @@ class CsUnderstandingData extends React.Component {
           <div className="container mt-4 pt-2 pb-5">
 
          
-            <h5>Additional notes to assist in understanding the district fact sheets. Please consult the full technical report for more detail. </h5>
+            <h5>Additional notes to assist in understanding the district fact sheets. Please consult the <a href={techreport} target="_blank" >full technical report</a> for more detail. </h5>
 
               <span>
                 Select the note below of interest:
