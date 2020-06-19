@@ -8,6 +8,11 @@ button:hover{
     max-height:90px;
     margin:0 auto 30px auto;
 }
+.scrolllink:hover{
+    cursor: pointer;
+    background: #FFB612;
+    color:#fff;
+}
 .btn-secondary {
     background-color: #FFB612 !important;
 }
@@ -84,6 +89,9 @@ button:hover{
 .light-border{
     border: 1px solid #dee2e6;
 }
+.light-border-top{
+    border-top: 1px solid #dee2e6;
+}
 .page-full-light{
     margin-top: -22px;
     background-color:#fff;
@@ -148,6 +156,9 @@ h5,.ea-content-full h1{
     cursor: pointer;
     text-decoration: none;
 }
+.txt-small{
+    font-size: 13px;
+}
 h6{
     font-weight:bolder;
 }
@@ -181,7 +192,7 @@ img{
 table.dataTable thead .sorting:before, table.dataTable thead .sorting_asc:before, table.dataTable thead .sorting_desc:before, table.dataTable thead .sorting_asc_disabled:before, table.dataTable thead .sorting_desc_disabled:before, table.dataTable thead .sorting:after, table.dataTable thead .sorting_asc:after, table.dataTable thead .sorting_desc:after, table.dataTable thead .sorting_asc_disabled:after, table.dataTable thead .sorting_desc_disabled:after {
     font-family: 'FontAwesome';
 }
-#ea-header,.ea-parent span:after{
+#ea-header,.ea-parent span:after,.scrolllink{
     -webkit-transition: all 0.7s ease-out;
     -moz-transition: all 0.7s ease-out;
     -o-transition: all 0.7s ease-out;

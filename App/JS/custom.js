@@ -31,6 +31,18 @@ $('body').on('click', '.ea-parent span', function(){
     $(ea_child).slideToggle(300);
 });
 
+/* Scroll to ID function */
+$('body').on('click', '.scrolllink', function(e){
+    
+    var thebookmark = $(this).attr('bookmark');
+    console.log(thebookmark);
+    jQuery('html,body').animate({ scrollTop: jQuery(thebookmark).offset().top - 50}, 1000);
+ 
+    return false;
+ 
+    e.preventDefault();
+ 
+});
 /* Tabs */
 $('body').on('click', '.tab-parent h3', function(){
     var ea_tab_parent = $(this).parent('.tab-parent');

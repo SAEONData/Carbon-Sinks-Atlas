@@ -41,6 +41,7 @@ import DOCconditions from './Components/Pages/doc-conditions.jsx';
 import DOCprivacy from './Components/Pages/doc-privacy.jsx';
 
 import DistrictsListing from './Components/Pages/sa-districts.jsx';
+import CsUnderstandingData from './Components/Pages/cs-understanding-data.jsx';
 // Districts
 import DistrictAlfredNzo from './Components/Pages/Districts/alfred-nzo.jsx';
 import DistrictAmajuba from './Components/Pages/Districts/Amajuba.jsx';
@@ -252,6 +253,7 @@ class App extends React.Component {
                   <Route path="/test-page" component={TestPage} />
 
                   <Route path="/sa-districts" component={DistrictsListing} />
+                  <Route path="/cs-understanding-data" component={CsUnderstandingData} />
 
                   {/* Districts */}
                   <Route path="/districts/alfred-nzo" component={DistrictAlfredNzo} />
