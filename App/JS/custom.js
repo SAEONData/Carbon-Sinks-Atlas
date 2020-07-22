@@ -3,11 +3,11 @@
     $(window).scroll(function(){
         if($(this).scrollTop() > 150) {
             $('#ea-header').addClass('scrollnav');
-            // $('#app').addClass('scrollnavbody');
+            
         }
         else{
             $('#ea-header').removeClass('scrollnav');
-            // $('#app').removeClass('scrollnavbody');
+            
         }
     });
      function explorer(){

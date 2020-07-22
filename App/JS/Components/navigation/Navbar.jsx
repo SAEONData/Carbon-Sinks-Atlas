@@ -198,7 +198,7 @@ class Navbar extends React.Component {
                     <DropdownItem onClick={() => { location.hash = "help-acronyms" }}>
                       Acronyms
                     </DropdownItem>
-                    <DropdownItem onClick={(event) => {event.preventDefault(); window.open("https://saeon.atlassian.net/servicedesk/customer/portal/7");}}>
+                    <DropdownItem onClick={(event) => {event.preventDefault(); window.open("http://servicedesk.saeon.ac.za/");}}>
                       Log an issue
                     </DropdownItem>
                   </DropdownMenu>
