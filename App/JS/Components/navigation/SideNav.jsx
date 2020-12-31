@@ -76,6 +76,7 @@ class SideNav extends React.Component {
       <>
         <Drawer
           placement="left"
+          className="ccissidenav"
           closable={true}
           onClose={() => this.props.toggleSideNav(false)}
           visible={isOpen}
@@ -86,14 +87,14 @@ class SideNav extends React.Component {
   onClick={() => window.open("http://www.environment.gov.za/")}
   src={environmental_affairs_logo}
   style={{
-    height: 80,
+    height: 93,
     marginLeft: 5,
     cursor: "pointer"
   }}
   className="pl-3 pt-3"
   align="center"
 />
-<hr className="mt-4 mb-4" />
+<hr className="mt-2 mb-4" />
 <ul className="ea-side-nav pl-3 pr-3">
     <li><a href="http://ccis.environment.gov.za/" target="_blank" onClick={()=> { this.props.toggleSideNav(false) }}>Back to NCCIS</a></li>
     <li><a href="https://ccis.environment.gov.za/nccrd" target="_blank" onClick={()=> { this.props.toggleSideNav(false) }}>Submit Project to NCCRD</a></li>

@@ -24,7 +24,7 @@ class Header extends React.Component {
               onClick={() => window.open("http://www.environment.gov.za/")}
               src={environmental_affairs_logo}
               style={{
-                height: 80,
+                height: 93,
                 marginLeft: 5,
                 cursor: "pointer"
               }}
@@ -47,7 +47,7 @@ class Header extends React.Component {
             <img
               src={sa_flag}
               style={{
-                height: 80,
+                height: 93,
                 marginRight: 5
               }}
               align="right"

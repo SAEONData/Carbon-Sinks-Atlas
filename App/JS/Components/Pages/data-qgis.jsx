@@ -22,6 +22,9 @@ class DataQgis extends React.Component {
       <>
         <section className="ea-content-full">
           <div className="container-fluid mt-4">
+          <div className="alert alert-warning alert-dismissible fade show">
+    <strong>Notice!</strong> Please note that SAEON is updating the Open Data Portal. This will affect the search functionality of the QGIS plugin. An updated plugin version will be released March 2021 in line with the changes.
+</div>
             <h1>Download Data</h1>
             <p>The QGIS plugin allows you to search SAEON's Carbon Sinks data repository, and enables you to calculate the different carbon pools for the national carbon sinks assessment.</p>
           </div>
@@ -85,7 +88,7 @@ class DataQgis extends React.Component {
             <button className="btn btn-primary"><i className="fa fa-cloud-download" aria-hidden="true"></i> Download the latest plugin version</button>
             <hr className="mt-5 mb-3" /> */}
             <h1>Getting started</h1>
-            <p>The system will run on any PC loaded with <a href="https://www.npackd.org/p/qgis/3.8" target="_blank">QGIS 3.8 and below</a>. In the plugin menu item of QGIS, click the 'Manage and Install Plugins…' to open the plugins dialog. Navigate to the settings option and make sure 'Show also experimental plugins' is checked, then choose the 'Install from zip' option and select the 'carbon_sinks.zip' file. Click the 'Install Plugin' button to install the plugin.</p>
+            <p>The system will run on any PC loaded with <a href="https://www.npackd.org/p/qgis/3" target="_blank">QGIS 3 and above</a>. In the plugin menu item of QGIS, click the 'Manage and Install Plugins…' to open the plugins dialog. Navigate to the settings option and make sure 'Show also experimental plugins' is checked, then choose the 'Install from zip' option and select the 'carbon_sinks.zip' file. Click the 'Install Plugin' button to install the plugin.</p>
             <p>The plugin has two main interfaces:</p>
             <ul>
               <li>The Carbon Sinks window (a search and discovery interface which opens when the plugin is clicked); and </li>

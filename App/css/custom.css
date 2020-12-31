@@ -306,7 +306,7 @@ table.dataTable thead .sorting:before, table.dataTable thead .sorting_asc:before
 @media (min-width: 768px){
     .ant-drawer-left.ant-drawer-open .ant-drawer-content-wrapper{
         width: 100%;
-        max-width: 300px;
+        max-width: 320px;
     }
     #mapsdistricts{
         margin-left: -200px;
@@ -633,6 +633,24 @@ table.dataTable thead .sorting:before, table.dataTable thead .sorting_asc:before
 }
 /* Home page END */
 /* Side navigation */
+.ea-side-nav a:not([href]):not([tabindex]), 
+.ea-side-nav a:not([href]):not([tabindex]):focus,
+.ea-side-nav a:not([href]):not([tabindex]):hover{
+    cursor: pointer;
+    text-decoration: none;
+    color: #007bff;
+    transition: all 0.2s ease-in-out;
+}
+
+@media (min-width: 768px){
+    .ccissidenav,
+    .ccissidenav .ant-drawer-content-wrapper{
+        /* max-width: 400px; */
+    }
+    .ccissidenav .ant-drawer-body {
+        padding-top: 5px;
+    }
+}
 .ea-side-nav{
     list-style: none;
     padding: 0;

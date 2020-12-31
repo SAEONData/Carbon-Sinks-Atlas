@@ -142,7 +142,7 @@ class Navbar extends React.Component {
                     <DropdownItem onClick={() => { location.hash = "explore-data" }}>
                       South Africa
                     </DropdownItem>
-                    <DropdownItem onClick={() => { location.hash = "coming-soon" }}>
+                    <DropdownItem onClick={() => { location.hash = "sa-districts" }}>
                       District Municipalities
                     </DropdownItem>
                   </DropdownMenu>

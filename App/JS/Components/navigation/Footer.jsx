@@ -142,7 +142,7 @@ class Footer extends React.Component {
     <div className="col-md-3 footer-funding">
         <h4><b>Funding</b></h4>
         <div className="row align-items-center">
-        <div className="col-md-8"><img src="https://ccis.environment.gov.za/df4a473d960cba109f32b0bfc40ad717.jpg" /></div>
+        {/* <div className="col-md-8"><img src="https://ccis.environment.gov.za/df4a473d960cba109f32b0bfc40ad717.jpg" /></div> */}
         <div className="col-md-4"><img src={logoCsir} /></div>
         </div>
         <img src={logoGis} className="w-100" />
